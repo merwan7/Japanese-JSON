@@ -37,6 +37,6 @@ The original JSON schema is as follows:
 Caveats
 -------
 
-- The leading character for the simple syllables (a, i, u, e, o) is '-'.  
+- The leading character for the vowel characters (a, i, u, e, o) is '-'.  
 - The leading character for the single character representing 'n' is '*'.
-- Not all characters have Dakuon (" or Dakuten) counterparts and only 1 set of characters has a Handakuon counterpart (&circ; or maru)
+- Not all characters have Dakuon (&#12441; or Dakuten) counterparts and only 1 set of characters has a Handakuon counterpart (&#12442; or Handakuten)
