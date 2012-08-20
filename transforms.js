@@ -2,12 +2,12 @@
 // like this { Kana : Romaji } 
 // i.e. {"ん": "n", ... }
 
-function SimplestJSON(JapaneseJSON) {
-    var KatakanaToRomaji = {};
-    var HiraganaToRomaji = {};
-    var RomajiToHiragana = {};
-    var RomajiToKatakana = {};
+var KatakanaToRomaji = {},   
+    HiraganaToRomaji = {},
+    RomajiToHiragana = {},
+    RomajiToKatakana = {};
 
+function SimplestJSON(JapaneseJSON) {
     for (var parent in JapaneseJSON) {
         if (JapaneseJSON.hasOwnProperty(parent)) {
             var vowels = JapaneseJSON[parent];
@@ -36,9 +36,10 @@ function SimplestJSON(JapaneseJSON) {
 
 // Create something a bit more complicated, but simpler than the big guy
 // i.e. { k : [{ "カ" : "ka"}, ... ], ...}
-function SimpleJSON(JapaneseJSON) {
-    var RomajiToHiragana = {};
-    var RomajiToKatakana = {};
+var RomajiToHiragana = {},
+    RomajiToKatakana = {};
+
+function SimpleJSON(JapaneseJSON, RomajiToHiragana, RomajiToKatakana) {
     for (parent in JapaneseJSON) {
         if (JapaneseJSON.hasOwnProperty(parent)) {
             var vowels = JapaneseJSON[parent];
