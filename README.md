@@ -17,19 +17,21 @@ Overview
 ---------
 
 The original JSON schema is as follows:
-                                                  leading character
-                                                         |
-                                                  -----------------
-                                                  |   |   |   |   |
-                                                  a   i   u   e   o
-                                                  |   ...
-                                              -----------------
-                                              |       |       |
-                                            Seion   Dakuon   Handakuon
-                                              |       ...
-                                       ---------------
-                                       |      |      |
-                                  Katakana Hiragana Romaji     
+
+
+                    leading character
+                           |
+                    -----------------
+                    |   |   |   |   |
+                    a   i   u   e   o
+                    |   ...
+                -----------------
+                |       |       |
+              Seion   Dakuon   Handakuon
+                |       ...
+         ---------------
+         |      |      |
+    Katakana Hiragana Romaji     
                                   
                                   
 Caveats
