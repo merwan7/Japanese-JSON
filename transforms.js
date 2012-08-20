@@ -8,7 +8,7 @@ function SimplestJSON(JapaneseJSON) {
 	var RomajiToHiragana = {};
 	var RomajiToKatakana = {};
 
-	for (var parent in JapaneseJSON) {
+ 	for (var parent in JapaneseJSON) {
 		if (JapaneseJSON.hasOwnProperty(parent)) {
 			var vowels = JapaneseJSON[parent];
 
