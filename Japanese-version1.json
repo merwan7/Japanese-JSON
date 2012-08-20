@@ -3,189 +3,189 @@
 // Free to use by anyone just leave this header in please. Also, contribute back any changes!
 
 {
-	"-": { 
-		"a" : {
-			"Seion" : {"Katakana": "ア", "Hiragana": "あ", "Romaji" : "a"} 
-		},
-		"i" : {
-			"Seion" : {"Katakana": "イ", "Hiragana": "い", "Romaji" : "i"} 
-		},
-		"u" : {
-			"Seion" : {"Katakana": "ウ", "Hiragana": "う", "Romaji" : "u"} 
-		},
-		"e" : {
-			"Seion" : {"Katakana": "エ", "Hiragana": "え", "Romaji" : "e"}
-		},
-		"o" : {
-			"Seion" : {"Katakana": "オ", "Hiragana": "お", "Romaji" : "o"}
-		} 
-	},
-	"k" : {
-		"a" : {
-			"Seion" : {"Katakana": "カ", "Hiragana": "か", "Romaji" : "ka"}, 
-			"Dakuon" : {"Katakana": "ガ", "Hiragana": "が", "Romaji" : "ga"}
-		},
-		"i" : {
-			"Seion" : {"Katakana": "キ", "Hiragana": "き", "Romaji" : "ki"}, 
-			"Dakuon" : {"Katakana": "ギ", "Hiragana": "ぎ", "Romaji" : "gi"}
-		},
-		"u" : {
-			"Seion" : {"Katakana": "ク", "Hiragana": "く", "Romaji" : "ku"}, 
-			"Dakuon" : {"Katakana": "グ", "Hiragana": "ぐ", "Romaji" : "gu"}
-		},
-		"e" : {
-			"Seion" : {"Katakana": "ケ", "Hiragana": "け", "Romaji" : "ke"}, 
-			"Dakuon" : {"Katakana": "ゲ", "Hiragana": "げ", "Romaji" : "ge"}
-		},
-		"o" : {
-			"Seion" : {"Katakana": "コ", "Hiragana": "こ", "Romaji" : "ko"}, 
-			"Dakuon" : {"Katakana": "ゴ", "Hiragana": "ご", "Romaji" : "go"}
-		} 
-	},
-	"s" : {
-		"a" : {
-			"Seion" : {"Katakana": "サ", "Hiragana": "さ", "Romaji" : "sa"}, 
-			"Dakuon" : {"Katakana": "ザ", "Hiragana": "ざ", "Romaji" : "za"}
-		},
-		"i" : {
-			"Seion" : {"Katakana": "シ", "Hiragana": "し", "Romaji" : "shi"}, 
-			"Dakuon" : {"Katakana": "ジ", "Hiragana": "じ", "Romaji" : "ji"}
-		},
-		"u" : {
-			"Seion" : {"Katakana": "ス", "Hiragana": "す", "Romaji" : "su"}, 
-			"Dakuon" : {"Katakana": "ズ", "Hiragana": "ず", "Romaji" : "zu"}
-		},
-		"e" : {
-			"Seion" : {"Katakana": "セ", "Hiragana": "せ", "Romaji" : "se"}, 
-			"Dakuon" : {"Katakana": "ゼ", "Hiragana": "ぜ", "Romaji" : "ze"}
-		},
-		"o" : {
-			"Seion" : {"Katakana": "ソ", "Hiragana": "そ", "Romaji" : "so"}, 
-			"Dakuon" : {"Katakana": "ゾ", "Hiragana": "ぞ", "Romaji" : "zo"}
-		} 
-	},
-	"t" : {
-		"a" : {
-			"Seion" : {"Katakana": "タ", "Hiragana": "た", "Romaji" : "ta"}, 
-			"Dakuon" : {"Katakana": "ダ", "Hiragana": "だ", "Romaji" : "da"}
-		},
-		"i" : {
-			"Seion" : {"Katakana": "チ", "Hiragana": "ち", "Romaji" : "chi"}, 
-			"Dakuon" : {"Katakana": "ヂ", "Hiragana": "ぢ", "Romaji" : "ji"}
-		},
-		"u" : {
-			"Seion" : {"Katakana": "ツ", "Hiragana": "つ", "Romaji" : "tsu"}, 
-			"Dakuon" : {"Katakana": "ヅ", "Hiragana": "づ", "Romaji" : "zu"}
-		},
-		"e" : {
-			"Seion" : {"Katakana": "テ", "Hiragana": "て", "Romaji" : "te"}, 
-			"Dakuon" : {"Katakana": "デ", "Hiragana": "で", "Romaji" : "de"}
-		},
-		"o" : {
-			"Seion" : {"Katakana": "ト", "Hiragana": "と", "Romaji" : "to"}, 
-			"Dakuon" : {"Katakana": "ド", "Hiragana": "ど", "Romaji" : "do"}
-		} 
-	},
-	"n" : {
-		"a" : {
-			"Seion" : {"Katakana": "ナ", "Hiragana": "な", "Romaji" : "na"} 
-		},
-		"i" : {
-			"Seion" : {"Katakana": "ニ", "Hiragana": "に", "Romaji" : "ni"} 
-		},
-		"u" : {
-			"Seion" : {"Katakana": "ヌ", "Hiragana": "ぬ", "Romaji" : "nu"} 
-		},
-		"e" : {
-			"Seion" : {"Katakana": "ネ", "Hiragana": "ね", "Romaji" : "ne"}
-		},
-		"o" : {
-			"Seion" : {"Katakana": "ノ", "Hiragana": "の", "Romaji" : "no"}
-		} 
-	},
-	"h" : {
-		"a" : {
-			"Seion" : {"Katakana": "ハ", "Hiragana": "は", "Romaji" : "ha"}, 
-			"Dakuon" : {"Katakana": "バ", "Hiragana": "ば", "Romaji" : "ba"}, 
-			"Handakuon" : {"Katakana": "パ", "Hiragana": "ぱ", "Romaji" : "pa"}
-		},
-		"i" : {
-			"Seion" : {"Katakana": "ヒ", "Hiragana": "ひ", "Romaji" : "hi"}, 
-			"Dakuon" : {"Katakana": "ビ", "Hiragana": "び", "Romaji" : "bi"}, 
-			"Handakuon" : {"Katakana": "ピ", "Hiragana": "ぴ", "Romaji" : "pi"}
-		},
-		"u" : {
-			"Seion" : {"Katakana": "フ", "Hiragana": "ふ", "Romaji" : "fu"}, 
-			"Dakuon" : {"Katakana": "ブ", "Hiragana": "ぶ", "Romaji" : "bu"}, 
-			"Handakuon" : {"Katakana": "プ", "Hiragana": "ぷ", "Romaji" : "pu"}
-		},
-		"e" : {
-			"Seion" : {"Katakana": "ヘ", "Hiragana": "へ", "Romaji" : "he"}, 
-			"Dakuon" : {"Katakana": "ベ", "Hiragana": "べ", "Romaji" : "be"}, 
-			"Handakuon" : {"Katakana": "ペ", "Hiragana": "ぺ", "Romaji" : "pe"}
-		},
-		"o" : {
-			"Seion" : {"Katakana": "ホ", "Hiragana": "ほ", "Romaji" : "ho"}, 
-			"Dakuon" : {"Katakana": "ボ", "Hiragana": "ぼ", "Romaji" : "bo"}, 
-			"Handakuon" : {"Katakana": "ポ", "Hiragana": "ぽ", "Romaji" : "po"} 
-		} 
-	},
-	"m" : {
-		"a" : {
-			"Seion" : {"Katakana": "マ", "Hiragana": "ま", "Romaji" : "ma"}
-		},
-		"i" : {
-			"Seion" : {"Katakana": "ミ", "Hiragana": "み", "Romaji" : "mi"} 
-		},
-		"u" : {
-			"Seion" : {"Katakana": "ム", "Hiragana": "む", "Romaji" : "mu"} 
-		},
-		"e" : {
-			"Seion" : {"Katakana": "メ", "Hiragana": "め", "Romaji" : "me"} 
-		},
-		"o" : {
-			"Seion" : {"Katakana": "モ", "Hiragana": "も", "Romaji" : "mo"} 
-		} 
-	},
-	"y" : {
-		"a" : {
-			"Seion" : {"Katakana": "ヤ", "Hiragana": "や", "Romaji" : "ya"} 
-		},
-		"u" : {
-			"Seion" : {"Katakana": "ユ", "Hiragana": "ゆ", "Romaji" : "yu"} 
-		},
-		"o" : {
-			"Seion" : {"Katakana": "ヨ", "Hiragana": "よ", "Romaji" : "yo"}
-		} 
-	},
-	"r" : {
-		"a" : {
-			"Seion" : {"Katakana": "ラ", "Hiragana": "ら", "Romaji" : "ra"}
-		},
-		"i" : {
-			"Seion" : {"Katakana": "リ", "Hiragana": "り", "Romaji" : "ri"}
-		},
-		"u" : {
-			"Seion" : {"Katakana": "ル", "Hiragana": "る", "Romaji" : "ru"}
-		},
-		"e" : {
-			"Seion" : {"Katakana": "レ", "Hiragana": "れ", "Romaji" : "re"}
-		},
-		"o" : {
-			"Seion" : {"Katakana": "ロ", "Hiragana": "ろ", "Romaji" : "ro"}
-		} 
-	},
-	"w" : {
-		"a" : {
-			"Seion" : {"Katakana": "ワ", "Hiragana": "わ", "Romaji" : "wa"}
-		},
-		"o" : {
-			"Seion" : {"Katakana": "ヲ", "Hiragana": "を", "Romaji" : "wo"}
-		},
-	},
-	"*" : {
-		"n" : {
-			"Seion" : {"Katakana": "ン", "Hiragana": "ん", "Romaji" : "n"}
-		} 
-	}
+    "-": { 
+        "a" : {
+            "Seion" : {"Katakana": "ア", "Hiragana": "あ", "Romaji" : "a"} 
+        },
+        "i" : {
+            "Seion" : {"Katakana": "イ", "Hiragana": "い", "Romaji" : "i"} 
+        },
+        "u" : {
+            "Seion" : {"Katakana": "ウ", "Hiragana": "う", "Romaji" : "u"} 
+        },
+        "e" : {
+            "Seion" : {"Katakana": "エ", "Hiragana": "え", "Romaji" : "e"}
+        },
+        "o" : {
+            "Seion" : {"Katakana": "オ", "Hiragana": "お", "Romaji" : "o"}
+        } 
+    },
+    "k" : {
+        "a" : {
+            "Seion" : {"Katakana": "カ", "Hiragana": "か", "Romaji" : "ka"}, 
+            "Dakuon" : {"Katakana": "ガ", "Hiragana": "が", "Romaji" : "ga"}
+        },
+        "i" : {
+            "Seion" : {"Katakana": "キ", "Hiragana": "き", "Romaji" : "ki"}, 
+            "Dakuon" : {"Katakana": "ギ", "Hiragana": "ぎ", "Romaji" : "gi"}
+        },
+        "u" : {
+            "Seion" : {"Katakana": "ク", "Hiragana": "く", "Romaji" : "ku"}, 
+            "Dakuon" : {"Katakana": "グ", "Hiragana": "ぐ", "Romaji" : "gu"}
+        },
+        "e" : {
+            "Seion" : {"Katakana": "ケ", "Hiragana": "け", "Romaji" : "ke"}, 
+            "Dakuon" : {"Katakana": "ゲ", "Hiragana": "げ", "Romaji" : "ge"}
+        },
+        "o" : {
+            "Seion" : {"Katakana": "コ", "Hiragana": "こ", "Romaji" : "ko"}, 
+            "Dakuon" : {"Katakana": "ゴ", "Hiragana": "ご", "Romaji" : "go"}
+        } 
+    },
+    "s" : {
+        "a" : {
+            "Seion" : {"Katakana": "サ", "Hiragana": "さ", "Romaji" : "sa"}, 
+            "Dakuon" : {"Katakana": "ザ", "Hiragana": "ざ", "Romaji" : "za"}
+        },
+        "i" : {
+            "Seion" : {"Katakana": "シ", "Hiragana": "し", "Romaji" : "shi"}, 
+            "Dakuon" : {"Katakana": "ジ", "Hiragana": "じ", "Romaji" : "ji"}
+        },
+        "u" : {
+            "Seion" : {"Katakana": "ス", "Hiragana": "す", "Romaji" : "su"}, 
+            "Dakuon" : {"Katakana": "ズ", "Hiragana": "ず", "Romaji" : "zu"}
+        },
+        "e" : {
+            "Seion" : {"Katakana": "セ", "Hiragana": "せ", "Romaji" : "se"}, 
+            "Dakuon" : {"Katakana": "ゼ", "Hiragana": "ぜ", "Romaji" : "ze"}
+        },
+        "o" : {
+            "Seion" : {"Katakana": "ソ", "Hiragana": "そ", "Romaji" : "so"}, 
+            "Dakuon" : {"Katakana": "ゾ", "Hiragana": "ぞ", "Romaji" : "zo"}
+        } 
+    },
+    "t" : {
+        "a" : {
+            "Seion" : {"Katakana": "タ", "Hiragana": "た", "Romaji" : "ta"}, 
+            "Dakuon" : {"Katakana": "ダ", "Hiragana": "だ", "Romaji" : "da"}
+        },
+        "i" : {
+            "Seion" : {"Katakana": "チ", "Hiragana": "ち", "Romaji" : "chi"}, 
+            "Dakuon" : {"Katakana": "ヂ", "Hiragana": "ぢ", "Romaji" : "ji"}
+        },
+        "u" : {
+            "Seion" : {"Katakana": "ツ", "Hiragana": "つ", "Romaji" : "tsu"}, 
+            "Dakuon" : {"Katakana": "ヅ", "Hiragana": "づ", "Romaji" : "zu"}
+        },
+        "e" : {
+            "Seion" : {"Katakana": "テ", "Hiragana": "て", "Romaji" : "te"}, 
+            "Dakuon" : {"Katakana": "デ", "Hiragana": "で", "Romaji" : "de"}
+        },
+        "o" : {
+            "Seion" : {"Katakana": "ト", "Hiragana": "と", "Romaji" : "to"}, 
+            "Dakuon" : {"Katakana": "ド", "Hiragana": "ど", "Romaji" : "do"}
+        } 
+    },
+    "n" : {
+        "a" : {
+            "Seion" : {"Katakana": "ナ", "Hiragana": "な", "Romaji" : "na"} 
+        },
+        "i" : {
+            "Seion" : {"Katakana": "ニ", "Hiragana": "に", "Romaji" : "ni"} 
+        },
+        "u" : {
+            "Seion" : {"Katakana": "ヌ", "Hiragana": "ぬ", "Romaji" : "nu"} 
+        },
+        "e" : {
+            "Seion" : {"Katakana": "ネ", "Hiragana": "ね", "Romaji" : "ne"}
+        },
+        "o" : {
+            "Seion" : {"Katakana": "ノ", "Hiragana": "の", "Romaji" : "no"}
+        } 
+    },
+    "h" : {
+        "a" : {
+            "Seion" : {"Katakana": "ハ", "Hiragana": "は", "Romaji" : "ha"}, 
+            "Dakuon" : {"Katakana": "バ", "Hiragana": "ば", "Romaji" : "ba"}, 
+            "Handakuon" : {"Katakana": "パ", "Hiragana": "ぱ", "Romaji" : "pa"}
+        },
+        "i" : {
+            "Seion" : {"Katakana": "ヒ", "Hiragana": "ひ", "Romaji" : "hi"}, 
+            "Dakuon" : {"Katakana": "ビ", "Hiragana": "び", "Romaji" : "bi"}, 
+            "Handakuon" : {"Katakana": "ピ", "Hiragana": "ぴ", "Romaji" : "pi"}
+        },
+        "u" : {
+            "Seion" : {"Katakana": "フ", "Hiragana": "ふ", "Romaji" : "fu"}, 
+            "Dakuon" : {"Katakana": "ブ", "Hiragana": "ぶ", "Romaji" : "bu"}, 
+            "Handakuon" : {"Katakana": "プ", "Hiragana": "ぷ", "Romaji" : "pu"}
+        },
+        "e" : {
+            "Seion" : {"Katakana": "ヘ", "Hiragana": "へ", "Romaji" : "he"}, 
+            "Dakuon" : {"Katakana": "ベ", "Hiragana": "べ", "Romaji" : "be"}, 
+            "Handakuon" : {"Katakana": "ペ", "Hiragana": "ぺ", "Romaji" : "pe"}
+        },
+        "o" : {
+            "Seion" : {"Katakana": "ホ", "Hiragana": "ほ", "Romaji" : "ho"}, 
+            "Dakuon" : {"Katakana": "ボ", "Hiragana": "ぼ", "Romaji" : "bo"}, 
+            "Handakuon" : {"Katakana": "ポ", "Hiragana": "ぽ", "Romaji" : "po"} 
+        } 
+    },
+    "m" : {
+        "a" : {
+            "Seion" : {"Katakana": "マ", "Hiragana": "ま", "Romaji" : "ma"}
+        },
+        "i" : {
+            "Seion" : {"Katakana": "ミ", "Hiragana": "み", "Romaji" : "mi"} 
+        },
+        "u" : {
+            "Seion" : {"Katakana": "ム", "Hiragana": "む", "Romaji" : "mu"} 
+        },
+        "e" : {
+            "Seion" : {"Katakana": "メ", "Hiragana": "め", "Romaji" : "me"} 
+        },
+        "o" : {
+            "Seion" : {"Katakana": "モ", "Hiragana": "も", "Romaji" : "mo"} 
+        } 
+    },
+    "y" : {
+        "a" : {
+            "Seion" : {"Katakana": "ヤ", "Hiragana": "や", "Romaji" : "ya"} 
+        },
+        "u" : {
+            "Seion" : {"Katakana": "ユ", "Hiragana": "ゆ", "Romaji" : "yu"} 
+        },
+        "o" : {
+            "Seion" : {"Katakana": "ヨ", "Hiragana": "よ", "Romaji" : "yo"}
+        } 
+    },
+    "r" : {
+        "a" : {
+            "Seion" : {"Katakana": "ラ", "Hiragana": "ら", "Romaji" : "ra"}
+        },
+        "i" : {
+            "Seion" : {"Katakana": "リ", "Hiragana": "り", "Romaji" : "ri"}
+        },
+        "u" : {
+            "Seion" : {"Katakana": "ル", "Hiragana": "る", "Romaji" : "ru"}
+        },
+        "e" : {
+            "Seion" : {"Katakana": "レ", "Hiragana": "れ", "Romaji" : "re"}
+        },
+        "o" : {
+            "Seion" : {"Katakana": "ロ", "Hiragana": "ろ", "Romaji" : "ro"}
+        } 
+    },
+    "w" : {
+        "a" : {
+            "Seion" : {"Katakana": "ワ", "Hiragana": "わ", "Romaji" : "wa"}
+        },
+        "o" : {
+            "Seion" : {"Katakana": "ヲ", "Hiragana": "を", "Romaji" : "wo"}
+        },
+    },
+    "*" : {
+        "n" : {
+            "Seion" : {"Katakana": "ン", "Hiragana": "ん", "Romaji" : "n"}
+        } 
+    }
 };
