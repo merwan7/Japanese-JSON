@@ -96,6 +96,42 @@
                 "Hiragana": "ご",
                 "Romaji": "go"
             }
+        },
+        "ya": {
+            "Seion": {
+                "Katakana": "キャ",
+                "Hiragana": "きゃ",
+                "Romaji": "kya"
+            },
+            "Dakuon": {
+                "Katakana": "ギャ",
+                "Hiragana": "ぎゃ",
+                "Romaji": "gya"
+            }
+        },
+        "yu": {
+            "Seion": {
+                "Katakana": "キュ",
+                "Hiragana": "きゅ",
+                "Romaji": "kyu"
+            },
+            "Dakuon": {
+                "Katakana": "ギュ",
+                "Hiragana": "ぎゅ",
+                "Romaji": "gyu"
+            }
+        },
+        "yo": {
+            "Seion": {
+                "Katakana": "キョ",
+                "Hiragana": "きょ",
+                "Romaji": "kyo"
+            },
+            "Dakuon": {
+                "Katakana": "ギョ",
+                "Hiragana": "ぎょ",
+                "Romaji": "gyo"
+            }
         }
     },
     "s": {
@@ -157,6 +193,42 @@
                 "Katakana": "ゾ",
                 "Hiragana": "ぞ",
                 "Romaji": "zo"
+            }
+        },
+        "ya": {
+            "Seion": {
+                "Katakana": "シャ",
+                "Hiragana": "しゃ",
+                "Romaji": "sha"
+            },
+            "Dakuon": {
+                "Katakana": "ジャ",
+                "Hiragana": "じゃ",
+                "Romaji": "ja"
+            }
+        },
+        "yu": {
+            "Seion": {
+                "Katakana": "シュ",
+                "Hiragana": "しゅ",
+                "Romaji": "shu"
+            },
+            "Dakuon": {
+                "Katakana": "ジュ",
+                "Hiragana": "じゅ",
+                "Romaji": "ju"
+            }
+        },
+        "yo": {
+            "Seion": {
+                "Katakana": "ショ",
+                "Hiragana": "しょ",
+                "Romaji": "sho"
+            },
+            "Dakuon": {
+                "Katakana": "ジョ",
+                "Hiragana": "じょ",
+                "Romaji": "jo"
             }
         }
     },
@@ -220,6 +292,42 @@
                 "Hiragana": "ど",
                 "Romaji": "do"
             }
+        },
+        "ya": {
+            "Seion": {
+                "Katakana": "チャ",
+                "Hiragana": "ちゃ",
+                "Romaji": "cha"
+            },
+            "Dakuon": {
+                "Katakana": "ヂャ",
+                "Hiragana": "ぢゃ",
+                "Romaji": "ja"
+            }
+        },
+        "yu": {
+            "Seion": {
+                "Katakana": "チュ",
+                "Hiragana": "ちゅ",
+                "Romaji": "chu"
+            },
+            "Dakuon": {
+                "Katakana": "ヂュ",
+                "Hiragana": "ぢゅ",
+                "Romaji": "ju"
+            }
+        },
+        "yo": {
+            "Seion": {
+                "Katakana": "チョ",
+                "Hiragana": "ちょ",
+                "Romaji": "cho"
+            },
+            "Dakuon": {
+                "Katakana": "ヂュ",
+                "Hiragana": "ぢょ",
+                "Romaji": "jo"
+            }
         }
     },
     "n": {
@@ -256,6 +364,27 @@
                 "Katakana": "ノ",
                 "Hiragana": "の",
                 "Romaji": "no"
+            }
+        },
+        "ya": {
+            "Seion": {
+                "Katakana": "ニャ",
+                "Hiragana": "にゃ",
+                "Romaji": "nya"
+            }
+        },
+        "yu": {
+            "Seion": {
+                "Katakana": "ニュ",
+                "Hiragana": "にゅ",
+                "Romaji": "nyu"
+            }
+        },
+        "yo": {
+            "Seion": {
+                "Katakana": "ニョ",
+                "Hiragana": "にょ",
+                "Romaji": "nyo"
             }
         }
     },
@@ -344,6 +473,57 @@
                 "Hiragana": "ぽ",
                 "Romaji": "po"
             }
+        },
+        "ya": {
+            "Seion": {
+                "Katakana": "ヒャ",
+                "Hiragana": "ひゃ",
+                "Romaji": "hya"
+            },
+            "Dakuon": {
+                "Katakana": "ビャ",
+                "Hiragana": "びゃ",
+                "Romaji": "bya"
+            },
+            "Handakuon": {
+                "Katakana": "ピャ",
+                "Hiragana": "ぴゃ",
+                "Romaji": "pya"
+            }
+        },
+        "yu": {
+            "Seion": {
+                "Katakana": "ヒュ",
+                "Hiragana": "ひゅ",
+                "Romaji": "hyu"
+            },
+            "Dakuon": {
+                "Katakana": "ビュ",
+                "Hiragana": "びゅ",
+                "Romaji": "byu"
+            },
+            "Handakuon": {
+                "Katakana": "ピュ",
+                "Hiragana": "ぴゅ",
+                "Romaji": "pyu"
+            }
+        },
+        "yo": {
+            "Seion": {
+                "Katakana": "ヒョ",
+                "Hiragana": "ひょ",
+                "Romaji": "hyo"
+            },
+            "Dakuon": {
+                "Katakana": "ビョ",
+                "Hiragana": "びょ",
+                "Romaji": "byo"
+            },
+            "Handakuon": {
+                "Katakana": "ピョ",
+                "Hiragana": "ぴょ",
+                "Romaji": "pyo"
+            }
         }
     },
     "m": {
@@ -380,6 +560,27 @@
                 "Katakana": "モ",
                 "Hiragana": "も",
                 "Romaji": "mo"
+            }
+        },
+        "ya": {
+            "Seion": {
+                "Katakana": "ミャ",
+                "Hiragana": "みゃ",
+                "Romaji": "mya"
+            }
+        },
+        "yu": {
+            "Seion": {
+                "Katakana": "ミュ",
+                "Hiragana": "みゅ",
+                "Romaji": "myu"
+            }
+        },
+        "yo": {
+            "Seion": {
+                "Katakana": "ミョ",
+                "Hiragana": "みょ",
+                "Romaji": "myo"
             }
         }
     },
@@ -440,6 +641,27 @@
                 "Katakana": "ロ",
                 "Hiragana": "ろ",
                 "Romaji": "ro"
+            }
+        },
+        "ya": {
+            "Seion": {
+                "Katakana": "リャ",
+                "Hiragana": "りゃ",
+                "Romaji": "rya"
+            }
+        },
+        "yu": {
+            "Seion": {
+                "Katakana": "リュ",
+                "Hiragana": "りゅ",
+                "Romaji": "ryu"
+            }
+        },
+        "yo": {
+            "Seion": {
+                "Katakana": "リョ",
+                "Hiragana": "りょ",
+                "Romaji": "ryo"
             }
         }
     },
