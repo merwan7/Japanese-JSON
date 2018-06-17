@@ -1,16 +1,19 @@
 Japanese syllabary in JSON format
 =================================
 
-There are a few transformation functions that you can use in transform.js -- you can use them as an example on 
-how to generate files that might be more useful to you.
+There are a few transformation functions that you can use in transform.js -- you can use them as an example on how to generate files that might be more useful to you.
 
-This is obviously a work in progress:  
- 
+This is obviously a work in progress. In the future, I will be working on these aspects of the data set:  
+
 - Verifying Kunrei-shiki romanization (ISO 3602) for rōmaji interpretations of the characters.
 - Looking at possibly organizing things in different schemas for easier uses.
 - My goal is to add modern Kanji as well, although obviously this will take a longer time.
 
 Please contact me if you have suggestions, ideas or any questions.
+
+You can use this data by installing it from npm like this:
+
+`npm i japanese-json`
 
 Overview
 ---------
