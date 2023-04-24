@@ -1,0 +1,79 @@
+{
+  "一": {
+    "Onyomi": "ichi, itsu",
+    "Kunyomi": "hito(tsu)"
+  },
+  "人": {
+    "Onyomi": "jin, nin",
+    "Kunyomi": "hito"
+  },
+  "日": {
+    "Onyomi": "nichi, jitsu",
+    "Kunyomi": "hi, -bi"
+  },
+  "月": {
+    "Onyomi": "getsu, gatsu",
+    "Kunyomi": "tsuki"
+  },
+  "火": {
+    "Onyomi": "ka",
+    "Kunyomi": "hi"
+  },
+  "水": {
+    "Onyomi": "sui",
+    "Kunyomi": "mizu"
+  },
+  "木": {
+    "Onyomi": "boku, moku",
+    "Kunyomi": "ki"
+  },
+  "金": {
+    "Onyomi": "kin, kon",
+    "Kunyomi": "kane, -gane"
+  },
+  "土": {
+    "Onyomi": "do, to",
+    "Kunyomi": "tsuchi"
+  },
+  "田": {
+    "Onyomi": "den",
+    "Kunyomi": "ta"
+  },
+  "女": {
+    "Onyomi": "jo, nyo",
+    "Kunyomi": "onna"
+  },
+  "男": {
+    "Onyomi": "dan, nan",
+    "Kunyomi": "otoko"
+  },
+  "子": {
+    "Onyomi": "shi, su",
+    "Kunyomi": "ko"
+  },
+  "小": {
+    "Onyomi": "sho",
+    "Kunyomi": "chiisai, ko"
+  },
+  "大": {
+    "Onyomi": "dai, tai",
+    "Kunyomi": "ookii"
+  },
+  "山": {
+    "Onyomi": "zan, san",
+    "Kunyomi": "yama"
+  },
+  "川": {
+    "Onyomi": "sen",
+    "Kunyomi": "kawa"
+  },
+  "半": {
+    "Onyomi": "han",
+    "Kunyomi": "naka(ba)"
+  },
+  "本": {
+    "Onyomi": "hon",
+    "Kunyomi": "moto"
+  }
+  
+}
