@@ -2,69 +2,48 @@
 // like this { Kana : Romaji } 
 // i.e. {"ん": "n", ... }
 
-var KatakanaToRomaji = {},   
-    HiraganaToRomaji = {},
-    RomajiToHiragana = {},
-    RomajiToKatakana = {};
+const KatakanaToRomaji = {};   
+const HiraganaToRomaji = {};
+const RomajiToHiragana = {};
+const RomajiToKatakana = {};
 
 function SimplestJSON(JapaneseJSON) {
-    for (var parent in JapaneseJSON) {
-        if (JapaneseJSON.hasOwnProperty(parent)) {
-            var vowels = JapaneseJSON[parent];
-
-            for (var vowel in vowels) {
-                if (vowels.hasOwnProperty(vowel)) {
-                    var types = vowels[vowel];
-
-                    for (var type in types) {
-                        if (types.hasOwnProperty(type)) {
-                            var character = types[type];
-
-                            HiraganaToRomaji[character["Hiragana"]] = character["Romaji"];
-                            KatakanaToRomaji[character["Katakana"]] = character["Romaji"];
-                            RomajiToHiragana[character["Romaji"]]   = character["Hiragana"];
-                            RomajiToKatakana[character["Romaji"]]   = character["Katakana"];
-                        }
-                    }
-                }
+    for (const [parent, vowels] of Object.entries(JapaneseJSON)) {
+        for (const [vowel, types] of Object.entries(vowels)) {
+            for (const [type, character] of Object.entries(types)) {
+                HiraganaToRomaji[character.Hiragana] = character.Romaji;
+                KatakanaToRomaji[character.Katakana] = character.Romaji;
+                RomajiToHiragana[character.Romaji] = character.Hiragana;
+                RomajiToKatakana[character.Romaji] = character.Katakana;
             }
         }
     }
-} 
+}
+
 
 
 
 // Create something a bit more complicated, but simpler than the big guy
 // i.e. { k : [{ "カ" : "ka"}, ... ], ...}
-var RomajiToHiragana = {},
-    RomajiToKatakana = {};
+const RomajiToHiragana = {};
+const RomajiToKatakana = {};
 
-function SimpleJSON(JapaneseJSON, RomajiToHiragana, RomajiToKatakana) {
-    for (parent in JapaneseJSON) {
-        if (JapaneseJSON.hasOwnProperty(parent)) {
-            var vowels = JapaneseJSON[parent];
+function SimpleJSON(JapaneseJSON) {
+    for (const [parent, vowels] of Object.entries(JapaneseJSON)) {
+        RomajiToHiragana[parent] = [];
+        RomajiToKatakana[parent] = [];
 
-            RomajiToHiragana[parent] = [];
-            RomajiToKatakana[parent] = [];
+        for (const [vowel, types] of Object.entries(vowels)) {
+            for (const [type, character] of Object.entries(types)) {
+                const tmp1 = character.Romaji;
+                const tmpHiragana = {};
+                const tmpKatakana = {};
 
-            for (vowel in vowels) {
-                if (vowels.hasOwnProperty(vowel)) {
-                    var types = vowels[vowel];
-                    for (type in types) {
-                        if (types.hasOwnProperty(type)) {
-                            var character = types[type],
-                                tmp1 = character["Romaji"],
-                                tmpHiragana = {},
-                                tmpKatakana = {};
+                tmpHiragana[character.Romaji] = character.Hiragana;
+                tmpKatakana[character.Romaji] = character.Katakana;
 
-                             tmpHiragana[character["Romaji"]] = character["Hiragana"];
-                             tmpKatakana[character["Romaji"]] = character["Katakana"];
-
-                            RomajiToHiragana[parent].push(tmpHiragana);
-                            RomajiToKatakana[parent].push(tmpKatakana);
-                        }
-                    }
-                }
+                RomajiToHiragana[parent].push(tmpHiragana);
+                RomajiToKatakana[parent].push(tmpKatakana);
             }
         }
     } 
