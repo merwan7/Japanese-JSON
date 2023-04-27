@@ -1,0 +1,322 @@
+{
+  "一": {
+    "On": ["ichi", "itsu"],
+    "Kun": ["hito(tsu)"]
+  },
+  "七": {
+    "On": ["shichi"],
+    "Kun": ["nana", "nano"]
+  },
+  "万": {
+    "On": ["man", "ban"],
+    "Kun": ["yorozu"]
+  },
+  "三": {
+    "On": ["san"],
+    "Kun": ["mi", "mi(tsu)"]
+  },
+  "上": {
+    "On": ["jou", "shou"],
+    "Kun": ["ue", "uwa", "a(geru)", "a(garu)", "nobo(ru)"]
+  },
+  "下": {
+    "On": ["ka", "ge"],
+    "Kun": ["shita", "shimo", "moto", "sa(geru)", "sa(garu)", "kuda(ru)"]
+  },
+  "中": {
+    "On": ["chuu"],
+    "Kun": ["naka", "uchi"]
+  },
+  "九": {
+    "On": ["kyuu", "ku"],
+    "Kun": ["kokono", "kokonotsu"]
+  },
+  "二": {
+    "On": ["ni", "ji"],
+    "Kun": ["futa", "futa(tsu)"]
+  },
+  "五": {
+    "On": ["go"],
+    "Kun": ["itsu", "itsu(tsu)"]
+  },
+  "人": {
+    "On": ["jin", "nin"],
+    "Kun": ["hito"]
+  },
+  "今": {
+    "On": ["kon", "kin"],
+    "Kun": ["ima"]
+  },
+  "休": {
+    "On": ["kyuu"],
+    "Kun": ["yasu(mu)", "yasu(mi)", "yasu(maru)"]
+  },
+  "何": {
+    "On": ["ka"],
+    "Kun": ["nani", "nan", "dore", "nanzo"]
+  },
+  "先": {
+    "On": ["sen"],
+    "Kun": ["saki", "ma(zu)"]
+  },
+  "入": {
+    "On": ["nyuu"],
+    "Kun": ["i(ru)", "hai(ru)", "ir(eru)"]
+  },
+  "八": {
+    "On": ["hachi"],
+    "Kun": ["ya", "ya(tsu)", "you"]
+  },
+  "六": {
+    "On": ["roku"],
+    "Kun": ["mu", "mu(tsu)"]
+  },
+  "円": {
+    "On": ["en"],
+    "Kun": ["maru", "maru(i)", "madoka"]
+  },
+  "出": {
+    "On": ["shutsu", "sui"],
+    "Kun": ["de(ru)", "da(su)", "i(zu)"]
+  },
+  "分": {
+    "On": ["bun", "fun", "bu"],
+    "Kun": ["wa(keru)", "wa(karu)", "wa(kasu)"]
+  },
+  "前": {
+    "On": ["zen"],
+    "Kun": ["mae"]
+  },
+  "北": {
+    "On": ["hoku"],
+    "Kun": ["kita"]
+  },
+  "十": {
+    "On": ["jyuu", "jyutsu"],
+    "Kun": ["to", "to(u)"]
+  },
+  "千": {
+    "On": ["sen"],
+    "Kun": ["chi"]
+  },
+  "午": {
+    "On": ["go"],
+    "Kun": ["uma"]
+  },
+  "半": {
+    "On": ["han"],
+    "Kun": ["naka(ba)"]
+  },
+  "南": {
+    "On": ["nan", "na"],
+    "Kun": ["minami"]
+  },
+  "友": {
+    "On": ["yuu"],
+    "Kun": ["tomo"]
+  },
+  "右": {
+    "On": ["u", "yu", "yuu"],
+    "Kun": ["migi"]
+  },
+  "名": {
+    "On": ["mei", "myou"],
+    "Kun": ["na", "na(ru)"]
+  },
+  "四": {
+    "On": ["shi"],
+    "Kun": ["yo", "yo(tsu)", "yo(nn)"]
+  },
+  "国": {
+    "On": ["koku"],
+    "Kun": ["kuni"]
+  },
+  "土": {
+    "On": ["do", "to"],
+    "Kun": ["tsuchi"]
+  },
+  "外": {
+    "On": ["gai", "ge"],
+    "Kun": ["soto", "hoka", "hazu(ru)", "to(bu)"]
+  },
+  "大": {
+    "On": ["dai", "tai"],
+    "Kun": ["oo", "oo(kii)", "oo(i)"]
+  },
+  "天": {
+    "On": ["ten"],
+    "Kun": ["ama", "ama(tsu)", "ama(tsu)"]
+  },
+  "女": {
+    "On": ["jo", "nyo", "nyou"],
+    "Kun": ["onna", "me", "me(zu)"]
+  },
+  "子": {
+    "On": ["shi", "su"],
+    "Kun": ["ko", "ne"]
+  },
+  "学": {
+    "On": ["gaku"],
+    "Kun": ["mana(bu)"]
+  },
+  "小": {
+    "On": ["shou"],
+    "Kun": ["chiisa(i)", "ko", "o"]
+  },
+  "山": {
+    "On": ["san"],
+    "Kun": ["yama"]
+  },
+  "川": {
+    "On": ["sen"],
+    "Kun": ["kawa"]
+  },
+  "左": {
+    "On": ["sa"],
+    "Kun": ["hidari"]
+  },
+  "年": {
+    "On": ["nen"],
+    "Kun": ["toshi"]
+  },
+  "後": {
+    "On": ["go", "kou"],
+    "Kun": ["ushi(ro)", "ato", "nochi"]
+  },
+  "日": {
+    "On": ["nichi", "jitsu"],
+    "Kun": ["hi", "bi", "ka"]
+  },
+  "時": {
+    "On": ["ji"],
+    "Kun": ["toki"]
+  },
+  "書": {
+    "On": ["sho"],
+    "Kun": ["ka(ku)", "ka(keru)"]
+  },
+  "月": {
+    "On": ["gatsu", "getsu"],
+    "Kun": ["tsuki"]
+  },
+  "木": {
+    "On": ["boku", "moku"],
+    "Kun": ["ki", "ko"]
+  },
+  "本": {
+    "On": ["hon"],
+    "Kun": ["moto"]
+  },
+  "来": {
+    "On": ["rai"],
+    "Kun": ["ku(ru)", "ki(tsu)", "ki(taru)"]
+  },
+  "東": {
+    "On": ["tou"],
+    "Kun": ["higashi", "azuma"]
+  },
+  "校": {
+    "On": ["kou"],
+    "Kun": []
+  },
+  "母": {
+    "On": ["bo"],
+    "Kun": ["haha", "ka"]
+  },
+  "毎": {
+    "On": ["mai"],
+    "Kun": ["goto"]
+  },
+  "気": {
+    "On": ["ki", "ke"],
+    "Kun": []
+  },
+  "水": {
+    "On": ["sui"],
+    "Kun": ["mizu"]
+  },
+  "火": {
+    "On": ["ka"],
+    "Kun": ["hi"]
+  },
+  "父": {
+    "On": ["fu"],
+    "Kun": ["chichi", "to"]
+  },
+  "生": {
+    "On": ["sei", "shou"],
+    "Kun": ["i(kiru)", "u(mu)", "o(u)", "ha(yasu)", "i(kasu)", "ki", "na(maru)", "na(reru)", "u(meru)"]
+  },
+  "男": {
+    "On": ["dan", "nan"],
+    "Kun": ["otoko"]
+  },
+  "白": {
+    "On": ["haku", "byaku"],
+    "Kun": ["shiro", "shiro(i)"]
+  },
+  "百": {
+    "On": ["hyaku", "byaku"],
+    "Kun": []
+  },
+  "聞": {
+    "On": ["bun", "mon"],
+    "Kun": ["ki(ku)", "ki(koeru)"]
+  },
+  "行": {
+    "On": ["kou", "gyou", "an"],
+    "Kun": ["i(ku)", "yu(ku)", "okona(u)"]
+  },
+  "西": {
+    "On": ["sei", "sai"],
+    "Kun": ["nishi"]
+  },
+  "見": {
+    "On": ["ken"],
+    "Kun": ["mi(ru)", "miseru"]
+  },
+  "話": {
+    "On": ["wa"],
+    "Kun": ["hana(shi)", "hana(su)"]
+  },
+  "語": {
+    "On": ["go"],
+    "Kun": ["kata(ru)", "kata(rau)"]
+  },
+  "読": {
+    "On": ["doku", "toku"],
+    "Kun": ["yo(mu)"]
+  },
+  "車": {
+    "On": ["sha"],
+    "Kun": ["kuruma"]
+  },
+  "金": {
+    "On": ["kin", "kon"],
+    "Kun": ["kane", "kana"]
+  },
+  "長": {
+    "On": ["chou"],
+    "Kun": ["naga(i)", "osa"]
+  },
+  "間": {
+    "On": ["kan", "ken"],
+    "Kun": ["ma", "aida", "ai"]
+  },
+  "雨": {
+    "On": ["u"],
+    "Kun": ["ame", "ama"]
+  },
+  "電": {
+    "On": ["den"],
+    "Kun": []
+  },
+  "食": {
+    "On": ["shoku", "jiki"],
+    "Kun": ["ta(beru)", "ku(ru)", "ku(reru)", "ku(rasu)"]
+  },
+  "高": {
+    "On": ["kou"],
+    "Kun": ["taka(i)", "taka", "taka(maru)", "taka(me)"]
+  }
+}
