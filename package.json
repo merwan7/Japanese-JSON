@@ -1,6 +1,6 @@
 {
   "name": "japanese-json",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Japanese Syllabary in JSON format",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/merwan7/Japanese-JSON.git"
   },
-  "keywords": [
-    "japanese",
-    "syllabary",
-    "json"
-  ],
+  "keywords": ["japanese", "syllabary", "json"],
   "author": "Merwan Rodriguez",
   "license": "CC",
   "bugs": {
