@@ -67,5 +67,6 @@ function kanjiFirtOnKun(kanjiJSON) {
       normalizedKanji[key].On = value.On[0];
     }
   }
+
   return normalizedKanji;
 }
