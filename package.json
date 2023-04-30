@@ -4,7 +4,8 @@
   "description": "Japanese Syllabary in JSON format",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
