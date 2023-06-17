@@ -1,5 +1,4 @@
-Japanese syllabary in JSON format
-=================================
+# Japanese syllabary in JSON format
 
 There are a few transformation functions that you can use in transform.js -- you can use them as an example on how to generate files that might be more useful to you.
 
@@ -15,8 +14,7 @@ You can use this data by installing it from npm like this:
 
 `npm i japanese-json`
 
-Overview
----------
+## Overview
 
 The schema is layed out as follows:
 
@@ -55,11 +53,14 @@ Here's a snippet for the `ka` syllable
 }
 ```
 
-Caveats
--------
+## Caveats
 
 - The leading character for the vowel characters (a, i, u, e, o) is '-'.
-- The leading character for the single character representing 'n' is '*'.
+- The leading character for the single character representing 'n' is '\*'.
 - Not all characters have Dakuon (&#12441; or Dakuten) counterparts and only 1 set of characters has a Handakuon counterpart (&#12442; or Handakuten)
 - compound characters (Yōon digraphs) are denoted by the keys `ya`, `yu`, and `yo`
 - The kanji in the arrays kanji-n1...n5.json are tentative and not fully verified. Also there's varying info about the JLPT levels and kanji, so please don't use this as a source of truth.
+
+## License
+
+This data is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
