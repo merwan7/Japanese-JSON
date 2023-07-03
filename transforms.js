@@ -55,7 +55,7 @@ function SimpleJSON(JapaneseJSON) {
   return { RomajiToHiragana, RomajiToKatakana };
 }
 
-function kanjiFirtOnKun(kanjiJSON) {
+function kanjiFirstOnKun(kanjiJSON) {
   const normalizedKanji = {};
   for (const [key, value] of Object.entries(kanjiJSON)) {
     normalizedKanji[key] = {};
