@@ -1,0 +1,7 @@
+# Canonical JSON.stringify output and byte-pinned dictionary source extracts.
+vocabulary*.json
+data/vocabulary/source-entries.json
+data/vocabulary/build-report.json
+data/vocabulary/matching-conflicts.json
+# Keep editorial rows compact for side-by-side multilingual review.
+data/vocabulary/curation.json

@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "vocabulary": [
+    {
+      "id": "vocab.isu",
+      "kanji": [
+        "椅",
+        "子"
+      ],
+      "variants": [
+        {
+          "id": "written-isu",
+          "written": "椅子",
+          "reading": "いす",
+          "furigana": [
+            {
+              "base": "椅子",
+              "reading": "いす"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "chair",
+          "variantIds": [
+            "written-isu"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "chair",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "silla",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Stuhl",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "كرسي",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1157070",
+          "senseIndex": 0,
+          "senseId": "chair",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kagi",
+      "kanji": [
+        "鍵"
+      ],
+      "variants": [
+        {
+          "id": "written-kagi",
+          "written": "鍵",
+          "reading": "かぎ",
+          "furigana": [
+            {
+              "base": "鍵",
+              "reading": "かぎ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "key",
+          "variantIds": [
+            "written-kagi"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "key",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "llave",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Schlüssel",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "مفتاح",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1260490",
+          "senseIndex": 0,
+          "senseId": "key",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kaban",
+      "kanji": [
+        "鞄"
+      ],
+      "variants": [
+        {
+          "id": "written-kaban",
+          "written": "鞄",
+          "reading": "かばん",
+          "furigana": [
+            {
+              "base": "鞄",
+              "reading": "かばん"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "bag",
+          "variantIds": [
+            "written-kaban"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "bag",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "bolso",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Tasche",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "حقيبة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [
+              "uk"
+            ],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1208910",
+          "senseIndex": 0,
+          "senseId": "bag",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    }
+  ],
+  "studyItems": [
+    {
+      "id": "study.isu.chair",
+      "vocabularyId": "vocab.isu",
+      "variantId": "written-isu",
+      "senseId": "chair",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": null,
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "椅",
+            "level": null
+          },
+          {
+            "kanji": "子",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": [
+          "椅"
+        ]
+      }
+    },
+    {
+      "id": "study.kagi.key",
+      "vocabularyId": "vocab.kagi",
+      "variantId": "written-kagi",
+      "senseId": "key",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": null,
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "鍵",
+            "level": null
+          }
+        ],
+        "unlistedKanji": [
+          "鍵"
+        ]
+      }
+    },
+    {
+      "id": "study.kaban.bag",
+      "vocabularyId": "vocab.kaban",
+      "variantId": "written-kaban",
+      "senseId": "bag",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": null,
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "鞄",
+            "level": null
+          }
+        ],
+        "unlistedKanji": [
+          "鞄"
+        ]
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "home.intro",
+      "titles": {
+        "en": "Around the house",
+        "es": "En casa",
+        "de": "Zu Hause",
+        "ar": "في المنزل"
+      },
+      "studyItemIds": [
+        "study.isu.chair",
+        "study.kagi.key"
+      ]
+    },
+    {
+      "id": "objects.intro",
+      "titles": {
+        "en": "Everyday objects",
+        "es": "Objetos cotidianos",
+        "de": "Alltagsgegenstände",
+        "ar": "أشياء يومية"
+      },
+      "studyItemIds": [
+        "study.kaban.bag"
+      ]
+    }
+  ]
+}

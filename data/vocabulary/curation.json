@@ -1,0 +1,231 @@
+{
+  "description": "Draft editorial selections. Labels are generated drafts; dictionary linkage is recorded separately in source-selections.json.",
+  "columns": ["id", "written", "reading", "partOfSpeech", "en", "es", "de", "ar"],
+  "collections": {
+    "nature": {
+      "titles": {"en":"Nature", "es":"Naturaleza", "de":"Natur", "ar":"الطبيعة"},
+      "words": [
+        ["mizu", "水", "みず", "noun", "water", "agua", "Wasser", "ماء"],
+        ["yama", "山", "やま", "noun", "mountain", "montaña", "Berg", "جبل"],
+        ["ki", "木", "き", "noun", "tree", "árbol", "Baum", "شجرة"],
+        ["kawa", "川", "かわ", "noun", "river", "río", "Fluss", "نهر"],
+        ["sora", "空", "そら", "noun", "sky", "cielo", "Himmel", "سماء"],
+        ["ame", "雨", "あめ", "noun", "rain", "lluvia", "Regen", "مطر"],
+        ["yuki", "雪", "ゆき", "noun", "snow", "nieve", "Schnee", "ثلج"],
+        ["kaze", "風", "かぜ", "noun", "wind", "viento", "Wind", "رياح"],
+        ["umi", "海", "うみ", "noun", "sea", "mar", "Meer", "بحر"],
+        ["hana", "花", "はな", "noun", "flower", "flor", "Blume", "زهرة"]
+      ]
+    },
+    "food": {
+      "titles": {"en":"Food and drink", "es":"Comida y bebida", "de":"Essen und Trinken", "ar":"الطعام والشراب"},
+      "words": [
+        ["tabemono", "食べ物", "たべもの", "noun", "food", "comida", "Essen", "طعام"],
+        ["nomimono", "飲み物", "のみもの", "noun", "drink", "bebida", "Getränk", "مشروب"],
+        ["gohan", "ご飯", "ごはん", "noun", "cooked rice", "arroz cocido", "gekochter Reis", "أرز مطبوخ"],
+        ["niku", "肉", "にく", "noun", "meat", "carne", "Fleisch", "لحم"],
+        ["sakana", "魚", "さかな", "noun", "fish", "pescado", "Fisch", "سمك"],
+        ["tamago", "卵", "たまご", "noun", "egg", "huevo", "Ei", "بيضة"],
+        ["gyuunyuu", "牛乳", "ぎゅうにゅう", "noun", "milk", "leche", "Milch", "حليب"],
+        ["yasai", "野菜", "やさい", "noun", "vegetables", "verduras", "Gemüse", "خضروات"],
+        ["kudamono", "果物", "くだもの", "noun", "fruit", "fruta", "Obst", "فاكهة"],
+        ["ocha", "お茶", "おちゃ", "noun", "tea", "té", "Tee", "شاي"]
+      ]
+    },
+    "body": {
+      "titles": {"en":"The body", "es":"El cuerpo", "de":"Der Körper", "ar":"الجسم"},
+      "words": [
+        ["te", "手", "て", "noun", "hand", "mano", "Hand", "يد"],
+        ["ashi", "足", "あし", "noun", "foot", "pie", "Fuß", "قدم"],
+        ["me", "目", "め", "noun", "eye", "ojo", "Auge", "عين"],
+        ["mimi", "耳", "みみ", "noun", "ear", "oreja", "Ohr", "أذن"],
+        ["kuchi", "口", "くち", "noun", "mouth", "boca", "Mund", "فم"],
+        ["hana-nose", "鼻", "はな", "noun", "nose", "nariz", "Nase", "أنف"],
+        ["atama", "頭", "あたま", "noun", "head", "cabeza", "Kopf", "رأس"],
+        ["kao", "顔", "かお", "noun", "face", "cara", "Gesicht", "وجه"],
+        ["ha", "歯", "は", "noun", "tooth", "diente", "Zahn", "سن"],
+        ["yubi", "指", "ゆび", "noun", "finger", "dedo de la mano", "Finger", "إصبع اليد"]
+      ]
+    },
+    "numbers": {
+      "titles": {"en":"Numbers", "es":"Números", "de":"Zahlen", "ar":"الأعداد"},
+      "words": [
+        ["ichi", "一", "いち", "numeral", "one", "uno", "eins", "واحد"],
+        ["ni", "二", "に", "numeral", "two", "dos", "zwei", "اثنان"],
+        ["san", "三", "さん", "numeral", "three", "tres", "drei", "ثلاثة"],
+        ["yon", "四", "よん", "numeral", "four", "cuatro", "vier", "أربعة"],
+        ["go", "五", "ご", "numeral", "five", "cinco", "fünf", "خمسة"],
+        ["roku", "六", "ろく", "numeral", "six", "seis", "sechs", "ستة"],
+        ["nana", "七", "なな", "numeral", "seven", "siete", "sieben", "سبعة"],
+        ["hachi", "八", "はち", "numeral", "eight", "ocho", "acht", "ثمانية"],
+        ["kyuu", "九", "きゅう", "numeral", "nine", "nueve", "neun", "تسعة"],
+        ["juu", "十", "じゅう", "numeral", "ten", "diez", "zehn", "عشرة"]
+      ]
+    },
+    "family": {
+      "titles": {"en":"Family", "es":"Familia", "de":"Familie", "ar":"العائلة"},
+      "words": [
+        ["haha", "母", "はは", "noun", "mother", "madre", "Mutter", "أم"],
+        ["chichi", "父", "ちち", "noun", "father", "padre", "Vater", "أب"],
+        ["ani", "兄", "あに", "noun", "older brother", "hermano mayor", "älterer Bruder", "أخ أكبر"],
+        ["ane", "姉", "あね", "noun", "older sister", "hermana mayor", "ältere Schwester", "أخت أكبر"],
+        ["otouto", "弟", "おとうと", "noun", "younger brother", "hermano menor", "jüngerer Bruder", "أخ أصغر"],
+        ["imouto", "妹", "いもうと", "noun", "younger sister", "hermana menor", "jüngere Schwester", "أخت أصغر"],
+        ["kodomo", "子供", "こども", "noun", "child", "niño", "Kind", "طفل"],
+        ["kazoku", "家族", "かぞく", "noun", "family", "familia", "Familie", "عائلة"],
+        ["ryoushin", "両親", "りょうしん", "noun", "parents", "padres", "Eltern", "الوالدان"],
+        ["akachan", "赤ちゃん", "あかちゃん", "noun", "baby", "bebé", "Baby", "رضيع"]
+      ]
+    },
+    "people": {
+      "titles": {"en":"People", "es":"Personas", "de":"Menschen", "ar":"الناس"},
+      "words": [
+        ["hito", "人", "ひと", "noun", "person", "persona", "Person", "شخص"],
+        ["otoko", "男", "おとこ", "noun", "man", "hombre", "Mann", "رجل"],
+        ["onna", "女", "おんな", "noun", "woman", "mujer", "Frau", "امرأة"],
+        ["tomodachi", "友達", "ともだち", "noun", "friend", "amigo", "Freund", "صديق"],
+        ["sensei", "先生", "せんせい", "noun", "teacher", "profesor", "Lehrer", "معلّم"],
+        ["gakusei", "学生", "がくせい", "noun", "student", "estudiante", "Student", "طالب"],
+        ["isha", "医者", "いしゃ", "noun", "doctor", "médico", "Arzt", "طبيب"],
+        ["tenin", "店員", "てんいん", "noun", "shop assistant", "dependiente de tienda", "Verkäufer", "موظف متجر"],
+        ["kaishain", "会社員", "かいしゃいん", "noun", "company employee", "empleado de una empresa", "Firmenangestellter", "موظف شركة"],
+        ["namae", "名前", "なまえ", "noun", "name", "nombre", "Name", "اسم"]
+      ]
+    },
+    "places": {
+      "titles": {"en":"Places", "es":"Lugares", "de":"Orte", "ar":"الأماكن"},
+      "words": [
+        ["ie", "家", "いえ", "noun", "house", "casa", "Haus", "منزل"],
+        ["gakkou", "学校", "がっこう", "noun", "school", "escuela", "Schule", "مدرسة"],
+        ["kaisha", "会社", "かいしゃ", "noun", "company", "empresa", "Unternehmen", "شركة"],
+        ["mise", "店", "みせ", "noun", "shop", "tienda", "Geschäft", "متجر"],
+        ["ginkou", "銀行", "ぎんこう", "noun", "bank", "banco", "Bank", "مصرف"],
+        ["byouin", "病院", "びょういん", "noun", "hospital", "hospital", "Krankenhaus", "مستشفى"],
+        ["toshokan", "図書館", "としょかん", "noun", "library", "biblioteca", "Bibliothek", "مكتبة"],
+        ["kouen", "公園", "こうえん", "noun", "park", "parque", "Park", "حديقة عامة"],
+        ["yuubinkyoku", "郵便局", "ゆうびんきょく", "noun", "post office", "oficina de correos", "Postamt", "مكتب بريد"],
+        ["machi", "町", "まち", "noun", "town", "pueblo", "Stadt", "بلدة"]
+      ]
+    },
+    "transport": {
+      "titles": {"en":"Getting around", "es":"Desplazarse", "de":"Unterwegs", "ar":"التنقل"},
+      "words": [
+        ["eki", "駅", "えき", "noun", "train station", "estación de tren", "Bahnhof", "محطة القطار"],
+        ["densha", "電車", "でんしゃ", "noun", "train", "tren", "Zug", "قطار"],
+        ["kuruma", "車", "くるま", "noun", "car", "coche", "Auto", "سيارة"],
+        ["jitensha", "自転車", "じてんしゃ", "noun", "bicycle", "bicicleta", "Fahrrad", "دراجة هوائية"],
+        ["hikouki", "飛行機", "ひこうき", "noun", "airplane", "avión", "Flugzeug", "طائرة"],
+        ["fune", "船", "ふね", "noun", "ship", "barco", "Schiff", "سفينة"],
+        ["kuukou", "空港", "くうこう", "noun", "airport", "aeropuerto", "Flughafen", "مطار"],
+        ["kippu", "切符", "きっぷ", "noun", "ticket", "billete", "Fahrkarte", "تذكرة"],
+        ["michi", "道", "みち", "noun", "road", "camino", "Straße", "طريق"],
+        ["chizu", "地図", "ちず", "noun", "map", "mapa", "Landkarte", "خريطة"]
+      ]
+    },
+    "home": {
+      "titles": {"en":"Around the house", "es":"En casa", "de":"Zu Hause", "ar":"في المنزل"},
+      "words": [
+        ["heya", "部屋", "へや", "noun", "room", "habitación", "Zimmer", "غرفة"],
+        ["mado", "窓", "まど", "noun", "window", "ventana", "Fenster", "نافذة"],
+        ["to", "戸", "と", "noun", "door", "puerta", "Tür", "باب"],
+        ["tsukue", "机", "つくえ", "noun", "desk", "escritorio", "Schreibtisch", "مكتب"],
+        ["isu", "椅子", "いす", "noun", "chair", "silla", "Stuhl", "كرسي"],
+        ["kagi", "鍵", "かぎ", "noun", "key", "llave", "Schlüssel", "مفتاح"],
+        ["denki", "電気", "でんき", "noun", "electricity", "electricidad", "Elektrizität", "كهرباء"],
+        ["akari", "明かり", "あかり", "noun", "light", "luz", "Licht", "ضوء"],
+        ["iriguchi", "入り口", "いりぐち", "noun", "entrance", "entrada", "Eingang", "مدخل"],
+        ["deguchi", "出口", "でぐち", "noun", "exit", "salida", "Ausgang", "مخرج"]
+      ]
+    },
+    "objects": {
+      "titles": {"en":"Everyday objects", "es":"Objetos cotidianos", "de":"Alltagsgegenstände", "ar":"أشياء يومية"},
+      "words": [
+        ["hon", "本", "ほん", "noun", "book", "libro", "Buch", "كتاب"],
+        ["kami", "紙", "かみ", "noun", "paper", "papel", "Papier", "ورق"],
+        ["enpitsu", "鉛筆", "えんぴつ", "noun", "pencil", "lápiz", "Bleistift", "قلم رصاص"],
+        ["tokei", "時計", "とけい", "noun", "clock", "reloj", "Uhr", "ساعة"],
+        ["denwa", "電話", "でんわ", "noun", "telephone", "teléfono", "Telefon", "هاتف"],
+        ["shashin", "写真", "しゃしん", "noun", "photograph", "fotografía", "Foto", "صورة فوتوغرافية"],
+        ["kaban", "鞄", "かばん", "noun", "bag", "bolso", "Tasche", "حقيبة"],
+        ["boushi", "帽子", "ぼうし", "noun", "hat", "sombrero", "Hut", "قبعة"],
+        ["kutsu", "靴", "くつ", "noun", "shoes", "zapatos", "Schuhe", "أحذية"],
+        ["kasa", "傘", "かさ", "noun", "umbrella", "paraguas", "Regenschirm", "مظلة"]
+      ]
+    },
+    "time": {
+      "titles": {"en":"Time", "es":"El tiempo", "de":"Zeit", "ar":"الوقت"},
+      "words": [
+        ["kyou", "今日", "きょう", "noun", "today", "hoy", "heute", "اليوم"],
+        ["ashita", "明日", "あした", "noun", "tomorrow", "mañana", "morgen", "غدًا"],
+        ["kinou", "昨日", "きのう", "noun", "yesterday", "ayer", "gestern", "أمس"],
+        ["asa", "朝", "あさ", "noun", "morning", "mañana", "Morgen", "صباح"],
+        ["hiru", "昼", "ひる", "noun", "noon", "mediodía", "Mittag", "ظهر"],
+        ["yoru", "夜", "よる", "noun", "night", "noche", "Nacht", "ليل"],
+        ["ima", "今", "いま", "noun", "now", "ahora", "jetzt", "الآن"],
+        ["jikan", "時間", "じかん", "noun", "time", "tiempo", "Zeit", "وقت"],
+        ["mainichi", "毎日", "まいにち", "noun", "every day", "cada día", "jeden Tag", "كل يوم"],
+        ["shuumatsu", "週末", "しゅうまつ", "noun", "weekend", "fin de semana", "Wochenende", "نهاية الأسبوع"]
+      ]
+    },
+    "calendar": {
+      "titles": {"en":"The calendar", "es":"El calendario", "de":"Der Kalender", "ar":"التقويم"},
+      "words": [
+        ["getsuyoubi", "月曜日", "げつようび", "noun", "Monday", "lunes", "Montag", "الاثنين"],
+        ["kayoubi", "火曜日", "かようび", "noun", "Tuesday", "martes", "Dienstag", "الثلاثاء"],
+        ["suiyoubi", "水曜日", "すいようび", "noun", "Wednesday", "miércoles", "Mittwoch", "الأربعاء"],
+        ["mokuyoubi", "木曜日", "もくようび", "noun", "Thursday", "jueves", "Donnerstag", "الخميس"],
+        ["kinyoubi", "金曜日", "きんようび", "noun", "Friday", "viernes", "Freitag", "الجمعة"],
+        ["doyoubi", "土曜日", "どようび", "noun", "Saturday", "sábado", "Samstag", "السبت"],
+        ["nichiyoubi", "日曜日", "にちようび", "noun", "Sunday", "domingo", "Sonntag", "الأحد"],
+        ["kotoshi", "今年", "ことし", "noun", "this year", "este año", "dieses Jahr", "هذا العام"],
+        ["rainen", "来年", "らいねん", "noun", "next year", "el año que viene", "nächstes Jahr", "العام المقبل"],
+        ["kyonen", "去年", "きょねん", "noun", "last year", "el año pasado", "letztes Jahr", "العام الماضي"]
+      ]
+    },
+    "actions": {
+      "titles": {"en":"Everyday actions", "es":"Acciones cotidianas", "de":"Alltagshandlungen", "ar":"أفعال يومية"},
+      "words": [
+        ["taberu", "食べる", "たべる", "verb", "to eat", "comer", "essen", "يأكل"],
+        ["nomu", "飲む", "のむ", "verb", "to drink", "beber", "trinken", "يشرب"],
+        ["miru", "見る", "みる", "verb", "to see", "ver", "sehen", "يرى"],
+        ["kiku", "聞く", "きく", "verb", "to hear", "oír", "hören", "يسمع"],
+        ["yomu", "読む", "よむ", "verb", "to read", "leer", "lesen", "يقرأ"],
+        ["kaku", "書く", "かく", "verb", "to write", "escribir", "schreiben", "يكتب"],
+        ["hanasu", "話す", "はなす", "verb", "to speak", "hablar", "sprechen", "يتكلم"],
+        ["kau", "買う", "かう", "verb", "to buy", "comprar", "kaufen", "يشتري"],
+        ["iku", "行く", "いく", "verb", "to go", "ir", "gehen", "يذهب"],
+        ["kuru", "来る", "くる", "verb", "to come", "venir", "kommen", "يأتي"]
+      ]
+    },
+    "daily-life": {
+      "titles": {"en":"Daily life", "es":"Vida diaria", "de":"Tagesablauf", "ar":"الحياة اليومية"},
+      "words": [
+        ["kaeru", "帰る", "かえる", "verb", "to return home", "volver a casa", "nach Hause zurückkehren", "يعود إلى المنزل"],
+        ["okiru", "起きる", "おきる", "verb", "to get up", "levantarse", "aufstehen", "ينهض"],
+        ["neru", "寝る", "ねる", "verb", "to sleep", "dormir", "schlafen", "ينام"],
+        ["aruku", "歩く", "あるく", "verb", "to walk", "caminar", "zu Fuß gehen", "يمشي"],
+        ["hashiru", "走る", "はしる", "verb", "to run", "correr", "rennen", "يركض"],
+        ["matsu", "待つ", "まつ", "verb", "to wait", "esperar", "warten", "ينتظر"],
+        ["yasumu", "休む", "やすむ", "verb", "to rest", "descansar", "sich ausruhen", "يستريح"],
+        ["hataraku", "働く", "はたらく", "verb", "to work", "trabajar", "arbeiten", "يعمل"],
+        ["oyogu", "泳ぐ", "およぐ", "verb", "to swim", "nadar", "schwimmen", "يسبح"],
+        ["asobu", "遊ぶ", "あそぶ", "verb", "to play", "jugar", "spielen", "يلعب"]
+      ]
+    },
+    "qualities": {
+      "titles": {"en":"Describing things", "es":"Describir cosas", "de":"Dinge beschreiben", "ar":"وصف الأشياء"},
+      "words": [
+        ["ookii", "大きい", "おおきい", "i-adjective", "big", "grande", "groß", "كبير"],
+        ["chiisai", "小さい", "ちいさい", "i-adjective", "small", "pequeño", "klein", "صغير"],
+        ["atarashii", "新しい", "あたらしい", "i-adjective", "new", "nuevo", "neu", "جديد"],
+        ["furui", "古い", "ふるい", "i-adjective", "old", "viejo", "alt", "قديم"],
+        ["takai", "高い", "たかい", "i-adjective", "expensive", "caro", "teuer", "غالي الثمن"],
+        ["yasui", "安い", "やすい", "i-adjective", "inexpensive", "barato", "preiswert", "رخيص"],
+        ["atsui", "暑い", "あつい", "i-adjective", "hot (weather)", "caluroso", "heiß (Wetter)", "حار (الطقس)"],
+        ["samui", "寒い", "さむい", "i-adjective", "cold (weather)", "frío (tiempo)", "kalt (Wetter)", "بارد (الطقس)"],
+        ["yoi", "良い", "よい", "i-adjective", "good", "bueno", "gut", "جيد"],
+        ["muzukashii", "難しい", "むずかしい", "i-adjective", "difficult", "difícil", "schwierig", "صعب"]
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "vocabularyCount": 150,
+  "studyItemCount": 150,
+  "collectionCount": 15,
+  "locales": [
+    "en",
+    "es",
+    "de",
+    "ar"
+  ],
+  "translationCount": 600,
+  "dictionarySnapshot": "3.6.2+20261109214828",
+  "jlptBasis": "Hardest constituent kanji using repository lists; inferred kanji coverage, not verified vocabulary JLPT levels",
+  "countsByLevel": {
+    "N5": 47,
+    "N4": 62,
+    "N3": 26,
+    "N2": 9,
+    "N1": 3,
+    "unclassified": 3
+  },
+  "unclassified": [
+    {
+      "id": "study.isu.chair",
+      "unlistedKanji": [
+        "椅"
+      ]
+    },
+    {
+      "id": "study.kagi.key",
+      "unlistedKanji": [
+        "鍵"
+      ]
+    },
+    {
+      "id": "study.kaban.bag",
+      "unlistedKanji": [
+        "鞄"
+      ]
+    }
+  ],
+  "overlappingKanji": [],
+  "conflictCount": 5,
+  "reviewStatus": "draft"
+}

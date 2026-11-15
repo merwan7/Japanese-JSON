@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "vocabulary": [
+    {
+      "id": "vocab.enpitsu",
+      "kanji": [
+        "鉛",
+        "筆"
+      ],
+      "variants": [
+        {
+          "id": "written-enpitsu",
+          "written": "鉛筆",
+          "reading": "えんぴつ",
+          "furigana": [
+            {
+              "base": "鉛筆",
+              "reading": "えんぴつ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "pencil",
+          "variantIds": [
+            "written-enpitsu"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "pencil",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "lápiz",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Bleistift",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "قلم رصاص",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1178590",
+          "senseIndex": 0,
+          "senseId": "pencil",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kasa",
+      "kanji": [
+        "傘"
+      ],
+      "variants": [
+        {
+          "id": "written-kasa",
+          "written": "傘",
+          "reading": "かさ",
+          "furigana": [
+            {
+              "base": "傘",
+              "reading": "かさ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "umbrella",
+          "variantIds": [
+            "written-kasa"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "umbrella",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "paraguas",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Regenschirm",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "مظلة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1301940",
+          "senseIndex": 0,
+          "senseId": "umbrella",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.atsui",
+      "kanji": [
+        "暑"
+      ],
+      "variants": [
+        {
+          "id": "written-atsui",
+          "written": "暑い",
+          "reading": "あつい",
+          "furigana": [
+            {
+              "base": "暑",
+              "reading": "あつ"
+            },
+            {
+              "base": "い",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "hot-weather",
+          "variantIds": [
+            "written-atsui"
+          ],
+          "partOfSpeech": "i-adjective",
+          "translations": {
+            "en": {
+              "label": "hot (weather)",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "caluroso",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "heiß (Wetter)",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "حار (الطقس)",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1343460",
+          "senseIndex": 0,
+          "senseId": "hot-weather",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    }
+  ],
+  "studyItems": [
+    {
+      "id": "study.enpitsu.pencil",
+      "vocabularyId": "vocab.enpitsu",
+      "variantId": "written-enpitsu",
+      "senseId": "pencil",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N1",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "鉛",
+            "level": "N1"
+          },
+          {
+            "kanji": "筆",
+            "level": "N2"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kasa.umbrella",
+      "vocabularyId": "vocab.kasa",
+      "variantId": "written-kasa",
+      "senseId": "umbrella",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N1",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "傘",
+            "level": "N1"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.atsui.hot-weather",
+      "vocabularyId": "vocab.atsui",
+      "variantId": "written-atsui",
+      "senseId": "hot-weather",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N1",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "暑",
+            "level": "N1"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "objects.intro",
+      "titles": {
+        "en": "Everyday objects",
+        "es": "Objetos cotidianos",
+        "de": "Alltagsgegenstände",
+        "ar": "أشياء يومية"
+      },
+      "studyItemIds": [
+        "study.enpitsu.pencil",
+        "study.kasa.umbrella"
+      ]
+    },
+    {
+      "id": "qualities.intro",
+      "titles": {
+        "en": "Describing things",
+        "es": "Describir cosas",
+        "de": "Dinge beschreiben",
+        "ar": "وصف الأشياء"
+      },
+      "studyItemIds": [
+        "study.atsui.hot-weather"
+      ]
+    }
+  ]
+}

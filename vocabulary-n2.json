@@ -1,0 +1,852 @@
+{
+  "schemaVersion": 1,
+  "vocabulary": [
+    {
+      "id": "vocab.tamago",
+      "kanji": [
+        "卵"
+      ],
+      "variants": [
+        {
+          "id": "written-tamago",
+          "written": "卵",
+          "reading": "たまご",
+          "furigana": [
+            {
+              "base": "卵",
+              "reading": "たまご"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "egg",
+          "variantIds": [
+            "written-tamago"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "egg",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "huevo",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Ei",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "بيضة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1549140",
+          "senseIndex": 0,
+          "senseId": "egg",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.gyuunyuu",
+      "kanji": [
+        "牛",
+        "乳"
+      ],
+      "variants": [
+        {
+          "id": "written-gyuunyuu",
+          "written": "牛乳",
+          "reading": "ぎゅうにゅう",
+          "furigana": [
+            {
+              "base": "牛乳",
+              "reading": "ぎゅうにゅう"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "milk",
+          "variantIds": [
+            "written-gyuunyuu"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "milk",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "leche",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Milch",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "حليب",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1231590",
+          "senseIndex": 0,
+          "senseId": "milk",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.yasai",
+      "kanji": [
+        "野",
+        "菜"
+      ],
+      "variants": [
+        {
+          "id": "written-yasai",
+          "written": "野菜",
+          "reading": "やさい",
+          "furigana": [
+            {
+              "base": "野菜",
+              "reading": "やさい"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "vegetables",
+          "variantIds": [
+            "written-yasai"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "vegetables",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "verduras",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Gemüse",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "خضروات",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1537370",
+          "senseIndex": 0,
+          "senseId": "vegetables",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.hana-nose",
+      "kanji": [
+        "鼻"
+      ],
+      "variants": [
+        {
+          "id": "written-hana-nose",
+          "written": "鼻",
+          "reading": "はな",
+          "furigana": [
+            {
+              "base": "鼻",
+              "reading": "はな"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "nose",
+          "variantIds": [
+            "written-hana-nose"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "nose",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "nariz",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Nase",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "أنف",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1486720",
+          "senseIndex": 0,
+          "senseId": "nose",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.yuubinkyoku",
+      "kanji": [
+        "郵",
+        "便",
+        "局"
+      ],
+      "variants": [
+        {
+          "id": "written-yuubinkyoku",
+          "written": "郵便局",
+          "reading": "ゆうびんきょく",
+          "furigana": [
+            {
+              "base": "郵便局",
+              "reading": "ゆうびんきょく"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "post-office",
+          "variantIds": [
+            "written-yuubinkyoku"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "post office",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "oficina de correos",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Postamt",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "مكتب بريد",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1542430",
+          "senseIndex": 0,
+          "senseId": "post-office",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kippu",
+      "kanji": [
+        "切",
+        "符"
+      ],
+      "variants": [
+        {
+          "id": "written-kippu",
+          "written": "切符",
+          "reading": "きっぷ",
+          "furigana": [
+            {
+              "base": "切符",
+              "reading": "きっぷ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "ticket",
+          "variantIds": [
+            "written-kippu"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "ticket",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "billete",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Fahrkarte",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "تذكرة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1385170",
+          "senseIndex": 0,
+          "senseId": "ticket",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.to",
+      "kanji": [
+        "戸"
+      ],
+      "variants": [
+        {
+          "id": "written-to",
+          "written": "戸",
+          "reading": "と",
+          "furigana": [
+            {
+              "base": "戸",
+              "reading": "と"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "door",
+          "variantIds": [
+            "written-to"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "door",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "puerta",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Tür",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "باب",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1266970",
+          "senseIndex": 0,
+          "senseId": "door",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.tsukue",
+      "kanji": [
+        "机"
+      ],
+      "variants": [
+        {
+          "id": "written-tsukue",
+          "written": "机",
+          "reading": "つくえ",
+          "furigana": [
+            {
+              "base": "机",
+              "reading": "つくえ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "desk",
+          "variantIds": [
+            "written-tsukue"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "desk",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "escritorio",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Schreibtisch",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "مكتب",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1220210",
+          "senseIndex": 0,
+          "senseId": "desk",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.boushi",
+      "kanji": [
+        "帽",
+        "子"
+      ],
+      "variants": [
+        {
+          "id": "written-boushi",
+          "written": "帽子",
+          "reading": "ぼうし",
+          "furigana": [
+            {
+              "base": "帽子",
+              "reading": "ぼうし"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "hat",
+          "variantIds": [
+            "written-boushi"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "hat",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "sombrero",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Hut",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "قبعة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1519170",
+          "senseIndex": 0,
+          "senseId": "hat",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    }
+  ],
+  "studyItems": [
+    {
+      "id": "study.tamago.egg",
+      "vocabularyId": "vocab.tamago",
+      "variantId": "written-tamago",
+      "senseId": "egg",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "卵",
+            "level": "N2"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.gyuunyuu.milk",
+      "vocabularyId": "vocab.gyuunyuu",
+      "variantId": "written-gyuunyuu",
+      "senseId": "milk",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "牛",
+            "level": "N4"
+          },
+          {
+            "kanji": "乳",
+            "level": "N2"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.yasai.vegetables",
+      "vocabularyId": "vocab.yasai",
+      "variantId": "written-yasai",
+      "senseId": "vegetables",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "野",
+            "level": "N4"
+          },
+          {
+            "kanji": "菜",
+            "level": "N2"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.hana-nose.nose",
+      "vocabularyId": "vocab.hana-nose",
+      "variantId": "written-hana-nose",
+      "senseId": "nose",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "鼻",
+            "level": "N2"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.yuubinkyoku.post-office",
+      "vocabularyId": "vocab.yuubinkyoku",
+      "variantId": "written-yuubinkyoku",
+      "senseId": "post-office",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "郵",
+            "level": "N2"
+          },
+          {
+            "kanji": "便",
+            "level": "N3"
+          },
+          {
+            "kanji": "局",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kippu.ticket",
+      "vocabularyId": "vocab.kippu",
+      "variantId": "written-kippu",
+      "senseId": "ticket",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "切",
+            "level": "N4"
+          },
+          {
+            "kanji": "符",
+            "level": "N2"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.to.door",
+      "vocabularyId": "vocab.to",
+      "variantId": "written-to",
+      "senseId": "door",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "戸",
+            "level": "N2"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.tsukue.desk",
+      "vocabularyId": "vocab.tsukue",
+      "variantId": "written-tsukue",
+      "senseId": "desk",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "机",
+            "level": "N2"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.boushi.hat",
+      "vocabularyId": "vocab.boushi",
+      "variantId": "written-boushi",
+      "senseId": "hat",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N2",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "帽",
+            "level": "N2"
+          },
+          {
+            "kanji": "子",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "food.intro",
+      "titles": {
+        "en": "Food and drink",
+        "es": "Comida y bebida",
+        "de": "Essen und Trinken",
+        "ar": "الطعام والشراب"
+      },
+      "studyItemIds": [
+        "study.tamago.egg",
+        "study.gyuunyuu.milk",
+        "study.yasai.vegetables"
+      ]
+    },
+    {
+      "id": "body.intro",
+      "titles": {
+        "en": "The body",
+        "es": "El cuerpo",
+        "de": "Der Körper",
+        "ar": "الجسم"
+      },
+      "studyItemIds": [
+        "study.hana-nose.nose"
+      ]
+    },
+    {
+      "id": "places.intro",
+      "titles": {
+        "en": "Places",
+        "es": "Lugares",
+        "de": "Orte",
+        "ar": "الأماكن"
+      },
+      "studyItemIds": [
+        "study.yuubinkyoku.post-office"
+      ]
+    },
+    {
+      "id": "transport.intro",
+      "titles": {
+        "en": "Getting around",
+        "es": "Desplazarse",
+        "de": "Unterwegs",
+        "ar": "التنقل"
+      },
+      "studyItemIds": [
+        "study.kippu.ticket"
+      ]
+    },
+    {
+      "id": "home.intro",
+      "titles": {
+        "en": "Around the house",
+        "es": "En casa",
+        "de": "Zu Hause",
+        "ar": "في المنزل"
+      },
+      "studyItemIds": [
+        "study.to.door",
+        "study.tsukue.desk"
+      ]
+    },
+    {
+      "id": "objects.intro",
+      "titles": {
+        "en": "Everyday objects",
+        "es": "Objetos cotidianos",
+        "de": "Alltagsgegenstände",
+        "ar": "أشياء يومية"
+      },
+      "studyItemIds": [
+        "study.boushi.hat"
+      ]
+    }
+  ]
+}

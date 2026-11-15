@@ -1,0 +1,20 @@
+{
+  "id": "jmdict",
+  "snapshot": "3.6.2+20261109214828",
+  "downloadUrl": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20261109214828/jmdict-eng-common-3.6.2%2B20261109214828.json.zip",
+  "archiveSha256": "207285d41471718ed9bee65bad148f07b74b9e1109c712c39d0726e988123686",
+  "jsonSha256": "becffec9733ff8dd944d889853e8665c21e04b68a3101ab8f88bd84506a26f3c",
+  "dictionaryDate": "2026-11-09",
+  "license": "CC-BY-SA-4.0",
+  "licenseUrl": "https://www.edrdg.org/edrdg/licence.html",
+  "projectUrl": "https://www.edrdg.org/jmdict/j_jmdict.html",
+  "conversionProjectUrl": "https://github.com/scriptin/jmdict-simplified",
+  "selectedEntriesSha256": "42f4eec0375927c858bdc22a357de22671144df5fe5e067607153e33a400cbdd",
+  "classificationFiles": {
+    "kanji-array-n1.json": "b2209a206cb325fb89915aa69d1e3359f220e424b50c1112a387261e1f93836b",
+    "kanji-array-n2.json": "fefe7009a6d77f67d0d06ef6ecbc6b1774aa482797c722a4c10b6fd70d0e013b",
+    "kanji-array-n3.json": "8392f6cfa7e2a9df4c145eedfa6b9ab896cd210f829c8f2d94f9cc3e7db866f3",
+    "kanji-array-n4.json": "3a9a3777475d61708a678993ee50c35c59b243bc4244d38a0933c73c2ec02449",
+    "kanji-array-n5.json": "6f362c0c49594132eb622a68e7cc3e87eb46eac30d00ee2a33617d53b0d24741"
+  }
+}

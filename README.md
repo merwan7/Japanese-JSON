@@ -14,6 +14,56 @@ You can use this data by installing it from npm like this:
 
 `npm i japanese-json`
 
+## Vocabulary for learning games
+
+The repository now includes a draft vocabulary dataset with 150 words, 15 themed
+collections, and English, Spanish, German, and Arabic meaning labels. Each word has
+an explicitly selected spelling, kana reading, furigana, and dictionary sense.
+
+```js
+const { vocabulary, vocabulary_n5 } = require("japanese-json");
+
+console.log(vocabulary.vocabulary[0].variants[0]);
+// { id: 'written-mizu', written: '水', reading: 'みず', furigana: [...] }
+
+console.log(vocabulary_n5.studyItems[0].jlpt);
+// { level: 'N5', basis: 'repository-kanji-lists', status: 'inferred', ... }
+```
+
+These new exports are in this checkout; the existing published npm version will
+not include them until a release is published. No existing exports were removed.
+
+| File | Words |
+| --- | ---: |
+| `vocabulary.json` | 150 |
+| `vocabulary-n5.json` | 47 |
+| `vocabulary-n4.json` | 62 |
+| `vocabulary-n3.json` | 26 |
+| `vocabulary-n2.json` | 9 |
+| `vocabulary-n1.json` | 3 |
+| `vocabulary-unclassified.json` | 3 |
+
+**The level files represent inferred kanji coverage, not verified JLPT vocabulary
+levels.** Each word is grouped by the hardest constituent kanji according to this
+repository's existing arrays. Words with unlisted kanji remain unclassified.
+For example, an everyday word can land in a higher group because one character is
+assigned there in the existing arrays. This starter is not an exam syllabus.
+
+All vocabulary and translation review statuses begin as `draft`. Dictionary
+validation checks spelling/reading/sense compatibility; it does not constitute
+native-speaker review of the generated translations or pedagogical choices.
+
+See [the data guide](data/vocabulary/README.md) for the schema, source attribution,
+editing workflow, and matching-conflict rules.
+
+```sh
+npm run build:vocabulary
+npm test
+```
+
+Building and testing vocabulary requires Node.js 18+ and no installed npm
+dependencies. The existing release tools are separate.
+
 ## Overview
 
 The schema is layed out as follows:
@@ -63,4 +113,7 @@ Here's a snippet for the `ka` syllable
 
 ## License
 
-MIT license. See LICENSE file for details.
+Existing kana/kanji files and code are covered by the [MIT license](LICENSE).
+The new vocabulary data is derived from JMdict and distributed under CC BY-SA 4.0.
+See [LICENSES.md](LICENSES.md) and [the vocabulary attribution](data/vocabulary/NOTICE.md)
+for file scopes and upstream notices.

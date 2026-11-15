@@ -1,0 +1,1537 @@
+{
+  "ki": {
+    "entryId": "1534520",
+    "senseIndex": 0,
+    "senseId": "tree",
+    "glosses": [
+      "tree",
+      "shrub",
+      "bush"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "sora": {
+    "entryId": "1245290",
+    "senseIndex": 0,
+    "senseId": "sky",
+    "glosses": [
+      "sky",
+      "the air",
+      "the heavens"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ame": {
+    "entryId": "1171900",
+    "senseIndex": 0,
+    "senseId": "rain",
+    "glosses": [
+      "rain"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yuki": {
+    "entryId": "1386500",
+    "senseIndex": 0,
+    "senseId": "snow",
+    "glosses": [
+      "snow",
+      "snowfall"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kaze": {
+    "entryId": "1499720",
+    "senseIndex": 0,
+    "senseId": "wind",
+    "glosses": [
+      "wind",
+      "breeze",
+      "draught",
+      "draft"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "umi": {
+    "entryId": "1201190",
+    "senseIndex": 0,
+    "senseId": "sea",
+    "glosses": [
+      "sea",
+      "ocean",
+      "waters"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hana": {
+    "entryId": "1194500",
+    "senseIndex": 0,
+    "senseId": "flower",
+    "glosses": [
+      "flower",
+      "blossom",
+      "bloom",
+      "petal"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "tabemono": {
+    "entryId": "1358340",
+    "senseIndex": 0,
+    "senseId": "food",
+    "glosses": [
+      "food"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "nomimono": {
+    "entryId": "1600430",
+    "senseIndex": 0,
+    "senseId": "drink",
+    "glosses": [
+      "drink",
+      "beverage"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "gohan": {
+    "entryId": "1270590",
+    "senseIndex": 0,
+    "senseId": "cooked-rice",
+    "glosses": [
+      "cooked rice"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "niku": {
+    "entryId": "1463520",
+    "senseIndex": 1,
+    "senseId": "meat",
+    "glosses": [
+      "meat"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "sakana": {
+    "entryId": "1578010",
+    "senseIndex": 0,
+    "senseId": "fish",
+    "glosses": [
+      "fish"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "tamago": {
+    "entryId": "1549140",
+    "senseIndex": 0,
+    "senseId": "egg",
+    "glosses": [
+      "eggs",
+      "egg",
+      "spawn",
+      "roe"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kudamono": {
+    "entryId": "1193060",
+    "senseIndex": 0,
+    "senseId": "fruit",
+    "glosses": [
+      "fruit"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ashi": {
+    "entryId": "1404630",
+    "senseIndex": 0,
+    "senseId": "foot",
+    "glosses": [
+      "foot",
+      "paw",
+      "arm (of an octopus, squid, etc.)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "me": {
+    "entryId": "1604890",
+    "senseIndex": 0,
+    "senseId": "eye",
+    "glosses": [
+      "eye",
+      "eyeball"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "mimi": {
+    "entryId": "1317170",
+    "senseIndex": 0,
+    "senseId": "ear",
+    "glosses": [
+      "ear"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kuchi": {
+    "entryId": "1275640",
+    "senseIndex": 0,
+    "senseId": "mouth",
+    "glosses": [
+      "mouth"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hana-nose": {
+    "entryId": "1486720",
+    "senseIndex": 0,
+    "senseId": "nose",
+    "glosses": [
+      "nose"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ha": {
+    "entryId": "1313000",
+    "senseIndex": 0,
+    "senseId": "tooth",
+    "glosses": [
+      "tooth",
+      "teeth"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yubi": {
+    "entryId": "1309650",
+    "senseIndex": 0,
+    "senseId": "finger",
+    "glosses": [
+      "finger",
+      "toe",
+      "digit"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ichi": {
+    "entryId": "1160790",
+    "senseIndex": 0,
+    "senseId": "one",
+    "glosses": [
+      "one",
+      "1"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ni": {
+    "entryId": "1461140",
+    "senseIndex": 0,
+    "senseId": "two",
+    "glosses": [
+      "two",
+      "2"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "san": {
+    "entryId": "1579350",
+    "senseIndex": 0,
+    "senseId": "three",
+    "glosses": [
+      "three",
+      "3"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yon": {
+    "entryId": "1579470",
+    "senseIndex": 0,
+    "senseId": "four",
+    "glosses": [
+      "four",
+      "4"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "go": {
+    "entryId": "1268060",
+    "senseIndex": 0,
+    "senseId": "five",
+    "glosses": [
+      "five",
+      "5"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "roku": {
+    "entryId": "1585310",
+    "senseIndex": 0,
+    "senseId": "six",
+    "glosses": [
+      "six",
+      "6"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "nana": {
+    "entryId": "1319210",
+    "senseIndex": 0,
+    "senseId": "seven",
+    "glosses": [
+      "seven"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hachi": {
+    "entryId": "1583090",
+    "senseIndex": 0,
+    "senseId": "eight",
+    "glosses": [
+      "eight",
+      "8"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kyuu": {
+    "entryId": "1578150",
+    "senseIndex": 0,
+    "senseId": "nine",
+    "glosses": [
+      "nine",
+      "9"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "juu": {
+    "entryId": "1579840",
+    "senseIndex": 0,
+    "senseId": "ten",
+    "glosses": [
+      "ten",
+      "10"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "haha": {
+    "entryId": "1514990",
+    "senseIndex": 0,
+    "senseId": "mother",
+    "glosses": [
+      "mother"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ani": {
+    "entryId": "1249900",
+    "senseIndex": 0,
+    "senseId": "older-brother",
+    "glosses": [
+      "older brother",
+      "elder brother"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ane": {
+    "entryId": "1307630",
+    "senseIndex": 0,
+    "senseId": "older-sister",
+    "glosses": [
+      "older sister",
+      "elder sister"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "otouto": {
+    "entryId": "1581930",
+    "senseIndex": 0,
+    "senseId": "younger-brother",
+    "glosses": [
+      "younger brother",
+      "little brother",
+      "kid brother"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "imouto": {
+    "entryId": "1524590",
+    "senseIndex": 0,
+    "senseId": "younger-sister",
+    "glosses": [
+      "younger sister"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kodomo": {
+    "entryId": "1307850",
+    "senseIndex": 0,
+    "senseId": "child",
+    "glosses": [
+      "child",
+      "children"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kazoku": {
+    "entryId": "1192150",
+    "senseIndex": 0,
+    "senseId": "family",
+    "glosses": [
+      "family"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ryoushin": {
+    "entryId": "1602710",
+    "senseIndex": 0,
+    "senseId": "parents",
+    "glosses": [
+      "parents",
+      "both parents"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "akachan": {
+    "entryId": "1383260",
+    "senseIndex": 0,
+    "senseId": "baby",
+    "glosses": [
+      "baby",
+      "infant"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hito": {
+    "entryId": "1580640",
+    "senseIndex": 0,
+    "senseId": "person",
+    "glosses": [
+      "person",
+      "someone",
+      "somebody"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "onna": {
+    "entryId": "1344930",
+    "senseIndex": 0,
+    "senseId": "woman",
+    "glosses": [
+      "woman",
+      "female"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "tomodachi": {
+    "entryId": "1540170",
+    "senseIndex": 0,
+    "senseId": "friend",
+    "glosses": [
+      "friend",
+      "companion"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "sensei": {
+    "entryId": "1387990",
+    "senseIndex": 0,
+    "senseId": "teacher",
+    "glosses": [
+      "teacher",
+      "instructor",
+      "master"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "isha": {
+    "entryId": "1159980",
+    "senseIndex": 0,
+    "senseId": "doctor",
+    "glosses": [
+      "doctor",
+      "physician"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "tenin": {
+    "entryId": "1440670",
+    "senseIndex": 0,
+    "senseId": "shop-assistant",
+    "glosses": [
+      "employee (of a store)",
+      "shop assistant",
+      "clerk",
+      "salesperson"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kaishain": {
+    "entryId": "1198560",
+    "senseIndex": 0,
+    "senseId": "company-employee",
+    "glosses": [
+      "company employee",
+      "office worker",
+      "white-collar worker"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "namae": {
+    "entryId": "1531710",
+    "senseIndex": 0,
+    "senseId": "name",
+    "glosses": [
+      "name"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ie": {
+    "entryId": "1191730",
+    "senseIndex": 0,
+    "senseId": "house",
+    "glosses": [
+      "house",
+      "residence",
+      "dwelling",
+      "home"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "gakkou": {
+    "entryId": "1206730",
+    "senseIndex": 0,
+    "senseId": "school",
+    "glosses": [
+      "school"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kaisha": {
+    "entryId": "1198550",
+    "senseIndex": 0,
+    "senseId": "company",
+    "glosses": [
+      "company",
+      "corporation",
+      "firm"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "mise": {
+    "entryId": "1582120",
+    "senseIndex": 0,
+    "senseId": "shop",
+    "glosses": [
+      "store",
+      "shop",
+      "establishment",
+      "restaurant"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ginkou": {
+    "entryId": "1243490",
+    "senseIndex": 0,
+    "senseId": "bank",
+    "glosses": [
+      "bank",
+      "banking institution"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "byouin": {
+    "entryId": "1490220",
+    "senseIndex": 0,
+    "senseId": "hospital",
+    "glosses": [
+      "hospital",
+      "clinic",
+      "doctor's office",
+      "doctor's surgery",
+      "infirmary"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "toshokan": {
+    "entryId": "1370420",
+    "senseIndex": 0,
+    "senseId": "library",
+    "glosses": [
+      "library"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yuubinkyoku": {
+    "entryId": "1542430",
+    "senseIndex": 0,
+    "senseId": "post-office",
+    "glosses": [
+      "post office"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "machi": {
+    "entryId": "1603990",
+    "senseIndex": 0,
+    "senseId": "town",
+    "glosses": [
+      "town",
+      "block",
+      "neighbourhood",
+      "neighborhood"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "eki": {
+    "entryId": "1175140",
+    "senseIndex": 0,
+    "senseId": "train-station",
+    "glosses": [
+      "railway station",
+      "train station"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "densha": {
+    "entryId": "1443530",
+    "senseIndex": 0,
+    "senseId": "train",
+    "glosses": [
+      "train",
+      "electric train"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kuruma": {
+    "entryId": "1323080",
+    "senseIndex": 0,
+    "senseId": "car",
+    "glosses": [
+      "car",
+      "automobile",
+      "vehicle"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "jitensha": {
+    "entryId": "1318290",
+    "senseIndex": 0,
+    "senseId": "bicycle",
+    "glosses": [
+      "bicycle",
+      "bike"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hikouki": {
+    "entryId": "1485470",
+    "senseIndex": 0,
+    "senseId": "airplane",
+    "glosses": [
+      "airplane",
+      "aeroplane",
+      "plane",
+      "aircraft"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "fune": {
+    "entryId": "1602800",
+    "senseIndex": 0,
+    "senseId": "ship",
+    "glosses": [
+      "ship",
+      "boat",
+      "watercraft",
+      "vessel",
+      "seaplane"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kuukou": {
+    "entryId": "1245570",
+    "senseIndex": 0,
+    "senseId": "airport",
+    "glosses": [
+      "airport"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kippu": {
+    "entryId": "1385170",
+    "senseIndex": 0,
+    "senseId": "ticket",
+    "glosses": [
+      "ticket"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "michi": {
+    "entryId": "1454080",
+    "senseIndex": 0,
+    "senseId": "road",
+    "glosses": [
+      "road",
+      "path",
+      "street",
+      "lane",
+      "passage"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "chizu": {
+    "entryId": "1421290",
+    "senseIndex": 0,
+    "senseId": "map",
+    "glosses": [
+      "map",
+      "atlas",
+      "chart",
+      "plan"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "heya": {
+    "entryId": "1499320",
+    "senseIndex": 0,
+    "senseId": "room",
+    "glosses": [
+      "room",
+      "chamber"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "mado": {
+    "entryId": "1401400",
+    "senseIndex": 0,
+    "senseId": "window",
+    "glosses": [
+      "window"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "tsukue": {
+    "entryId": "1220210",
+    "senseIndex": 0,
+    "senseId": "desk",
+    "glosses": [
+      "desk"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "isu": {
+    "entryId": "1157070",
+    "senseIndex": 0,
+    "senseId": "chair",
+    "glosses": [
+      "chair",
+      "seat",
+      "stool",
+      "bench"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kagi": {
+    "entryId": "1260490",
+    "senseIndex": 0,
+    "senseId": "key",
+    "glosses": [
+      "key"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "denki": {
+    "entryId": "1443000",
+    "senseIndex": 0,
+    "senseId": "electricity",
+    "glosses": [
+      "electricity"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "akari": {
+    "entryId": "1586210",
+    "senseIndex": 0,
+    "senseId": "light",
+    "glosses": [
+      "light",
+      "glow",
+      "gleam"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "iriguchi": {
+    "entryId": "1582820",
+    "senseIndex": 0,
+    "senseId": "entrance",
+    "glosses": [
+      "entrance",
+      "entry",
+      "gate",
+      "approach",
+      "mouth"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "deguchi": {
+    "entryId": "1338850",
+    "senseIndex": 0,
+    "senseId": "exit",
+    "glosses": [
+      "exit",
+      "way out"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hon": {
+    "entryId": "1522150",
+    "senseIndex": 0,
+    "senseId": "book",
+    "glosses": [
+      "book",
+      "volume",
+      "script"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kami": {
+    "entryId": "1311530",
+    "senseIndex": 0,
+    "senseId": "paper",
+    "glosses": [
+      "paper"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "tokei": {
+    "entryId": "1316140",
+    "senseIndex": 0,
+    "senseId": "clock",
+    "glosses": [
+      "clock",
+      "watch",
+      "timepiece"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "shashin": {
+    "entryId": "1321900",
+    "senseIndex": 0,
+    "senseId": "photograph",
+    "glosses": [
+      "photograph",
+      "photo",
+      "picture",
+      "photography"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kaban": {
+    "entryId": "1208910",
+    "senseIndex": 0,
+    "senseId": "bag",
+    "glosses": [
+      "bag",
+      "satchel",
+      "briefcase",
+      "basket"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "boushi": {
+    "entryId": "1519170",
+    "senseIndex": 0,
+    "senseId": "hat",
+    "glosses": [
+      "hat",
+      "cap"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kutsu": {
+    "entryId": "1246700",
+    "senseIndex": 0,
+    "senseId": "shoes",
+    "glosses": [
+      "shoe",
+      "shoes",
+      "boots",
+      "footwear",
+      "footgear"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kasa": {
+    "entryId": "1301940",
+    "senseIndex": 0,
+    "senseId": "umbrella",
+    "glosses": [
+      "umbrella",
+      "parasol"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kyou": {
+    "entryId": "1579110",
+    "senseIndex": 0,
+    "senseId": "today",
+    "glosses": [
+      "today",
+      "this day"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ashita": {
+    "entryId": "1584660",
+    "senseIndex": 0,
+    "senseId": "tomorrow",
+    "glosses": [
+      "tomorrow"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kinou": {
+    "entryId": "1579260",
+    "senseIndex": 0,
+    "senseId": "yesterday",
+    "glosses": [
+      "yesterday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "asa": {
+    "entryId": "1428280",
+    "senseIndex": 0,
+    "senseId": "morning",
+    "glosses": [
+      "morning"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hiru": {
+    "entryId": "1426250",
+    "senseIndex": 0,
+    "senseId": "noon",
+    "glosses": [
+      "noon",
+      "midday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yoru": {
+    "entryId": "1536350",
+    "senseIndex": 0,
+    "senseId": "night",
+    "glosses": [
+      "night",
+      "evening"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ima": {
+    "entryId": "1288850",
+    "senseIndex": 0,
+    "senseId": "now",
+    "glosses": [
+      "now",
+      "the present time",
+      "just now",
+      "soon",
+      "immediately"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "jikan": {
+    "entryId": "1315920",
+    "senseIndex": 0,
+    "senseId": "time",
+    "glosses": [
+      "time"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "mainichi": {
+    "entryId": "1524720",
+    "senseIndex": 0,
+    "senseId": "every-day",
+    "glosses": [
+      "every day",
+      "daily"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "shuumatsu": {
+    "entryId": "1333520",
+    "senseIndex": 0,
+    "senseId": "weekend",
+    "glosses": [
+      "weekend"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "getsuyoubi": {
+    "entryId": "1255890",
+    "senseIndex": 0,
+    "senseId": "monday",
+    "glosses": [
+      "Monday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kayoubi": {
+    "entryId": "1194290",
+    "senseIndex": 0,
+    "senseId": "tuesday",
+    "glosses": [
+      "Tuesday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "suiyoubi": {
+    "entryId": "1372190",
+    "senseIndex": 0,
+    "senseId": "wednesday",
+    "glosses": [
+      "Wednesday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "mokuyoubi": {
+    "entryId": "1534890",
+    "senseIndex": 0,
+    "senseId": "thursday",
+    "glosses": [
+      "Thursday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kinyoubi": {
+    "entryId": "1243320",
+    "senseIndex": 0,
+    "senseId": "friday",
+    "glosses": [
+      "Friday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "doyoubi": {
+    "entryId": "1445590",
+    "senseIndex": 0,
+    "senseId": "saturday",
+    "glosses": [
+      "Saturday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "nichiyoubi": {
+    "entryId": "1464900",
+    "senseIndex": 0,
+    "senseId": "sunday",
+    "glosses": [
+      "Sunday"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kotoshi": {
+    "entryId": "1579130",
+    "senseIndex": 0,
+    "senseId": "this-year",
+    "glosses": [
+      "this year"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "rainen": {
+    "entryId": "1548220",
+    "senseIndex": 0,
+    "senseId": "next-year",
+    "glosses": [
+      "next year"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kyonen": {
+    "entryId": "1231690",
+    "senseIndex": 0,
+    "senseId": "last-year",
+    "glosses": [
+      "last year"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "taberu": {
+    "entryId": "1358280",
+    "senseIndex": 0,
+    "senseId": "to-eat",
+    "glosses": [
+      "to eat"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "nomu": {
+    "entryId": "1169870",
+    "senseIndex": 0,
+    "senseId": "to-drink",
+    "glosses": [
+      "to drink",
+      "to swallow",
+      "to take (medicine)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "miru": {
+    "entryId": "1259290",
+    "senseIndex": 0,
+    "senseId": "to-see",
+    "glosses": [
+      "to see",
+      "to look",
+      "to watch",
+      "to view",
+      "to observe"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kiku": {
+    "entryId": "1591110",
+    "senseIndex": 0,
+    "senseId": "to-hear",
+    "glosses": [
+      "to hear"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yomu": {
+    "entryId": "1456360",
+    "senseIndex": 0,
+    "senseId": "to-read",
+    "glosses": [
+      "to read"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kaku": {
+    "entryId": "1343950",
+    "senseIndex": 0,
+    "senseId": "to-write",
+    "glosses": [
+      "to write",
+      "to compose",
+      "to pen"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hanasu": {
+    "entryId": "1562350",
+    "senseIndex": 0,
+    "senseId": "to-speak",
+    "glosses": [
+      "to talk",
+      "to speak",
+      "to converse",
+      "to chat"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kau": {
+    "entryId": "1473740",
+    "senseIndex": 0,
+    "senseId": "to-buy",
+    "glosses": [
+      "to buy",
+      "to purchase"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "iku": {
+    "entryId": "1578850",
+    "senseIndex": 0,
+    "senseId": "to-go",
+    "glosses": [
+      "to go",
+      "to move (towards)",
+      "to head (towards)",
+      "to leave (for)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "okiru": {
+    "entryId": "1223640",
+    "senseIndex": 0,
+    "senseId": "to-get-up",
+    "glosses": [
+      "to get up",
+      "to rise",
+      "to blaze up (fire)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "aruku": {
+    "entryId": "1514320",
+    "senseIndex": 0,
+    "senseId": "to-walk",
+    "glosses": [
+      "to walk"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hashiru": {
+    "entryId": "1402540",
+    "senseIndex": 0,
+    "senseId": "to-run",
+    "glosses": [
+      "to run"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "matsu": {
+    "entryId": "1410590",
+    "senseIndex": 0,
+    "senseId": "to-wait",
+    "glosses": [
+      "to wait"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yasumu": {
+    "entryId": "1227560",
+    "senseIndex": 1,
+    "senseId": "to-rest",
+    "glosses": [
+      "to rest",
+      "to have a break"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "hataraku": {
+    "entryId": "1451150",
+    "senseIndex": 0,
+    "senseId": "to-work",
+    "glosses": [
+      "to work",
+      "to labor",
+      "to labour"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "oyogu": {
+    "entryId": "1174340",
+    "senseIndex": 0,
+    "senseId": "to-swim",
+    "glosses": [
+      "to swim"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ookii": {
+    "entryId": "1588880",
+    "senseIndex": 0,
+    "senseId": "big",
+    "glosses": [
+      "big",
+      "large",
+      "great"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "atarashii": {
+    "entryId": "1361490",
+    "senseIndex": 0,
+    "senseId": "new",
+    "glosses": [
+      "new",
+      "novel",
+      "fresh",
+      "recent",
+      "latest",
+      "up-to-date",
+      "modern"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "furui": {
+    "entryId": "1265070",
+    "senseIndex": 0,
+    "senseId": "old",
+    "glosses": [
+      "old",
+      "aged",
+      "ancient",
+      "antiquated",
+      "antique",
+      "timeworn"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "takai": {
+    "entryId": "1283190",
+    "senseIndex": 1,
+    "senseId": "expensive",
+    "glosses": [
+      "expensive",
+      "high-priced"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yasui": {
+    "entryId": "1153670",
+    "senseIndex": 0,
+    "senseId": "inexpensive",
+    "glosses": [
+      "cheap",
+      "inexpensive"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "muzukashii": {
+    "entryId": "1460850",
+    "senseIndex": 0,
+    "senseId": "difficult",
+    "glosses": [
+      "difficult",
+      "hard",
+      "troublesome",
+      "complicated",
+      "serious (disease, problem, etc.)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "mizu": {
+    "entryId": "1371260",
+    "senseIndex": 0,
+    "senseId": "water",
+    "glosses": [
+      "water (esp. cool or cold)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yama": {
+    "entryId": "1302680",
+    "senseIndex": 0,
+    "senseId": "mountain",
+    "glosses": [
+      "mountain",
+      "hill"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kawa": {
+    "entryId": "1390020",
+    "senseIndex": 0,
+    "senseId": "river",
+    "glosses": [
+      "river",
+      "stream"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "gyuunyuu": {
+    "entryId": "1231590",
+    "senseIndex": 0,
+    "senseId": "milk",
+    "glosses": [
+      "(cow's) milk"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yasai": {
+    "entryId": "1537370",
+    "senseIndex": 0,
+    "senseId": "vegetables",
+    "glosses": [
+      "vegetable"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "ocha": {
+    "entryId": "1002430",
+    "senseIndex": 0,
+    "senseId": "tea",
+    "glosses": [
+      "tea (esp. green or barley)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "te": {
+    "entryId": "1327190",
+    "senseIndex": 0,
+    "senseId": "hand",
+    "glosses": [
+      "hand",
+      "arm"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "atama": {
+    "entryId": "1582310",
+    "senseIndex": 0,
+    "senseId": "head",
+    "glosses": [
+      "head"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kao": {
+    "entryId": "1217730",
+    "senseIndex": 0,
+    "senseId": "face",
+    "glosses": [
+      "face",
+      "visage",
+      "looks",
+      "(facial) features"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "chichi": {
+    "entryId": "1497610",
+    "senseIndex": 0,
+    "senseId": "father",
+    "glosses": [
+      "father"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "otoko": {
+    "entryId": "1419990",
+    "senseIndex": 0,
+    "senseId": "man",
+    "glosses": [
+      "man",
+      "male"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "gakusei": {
+    "entryId": "1206900",
+    "senseIndex": 0,
+    "senseId": "student",
+    "glosses": [
+      "student (esp. a university student)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kouen": {
+    "entryId": "1273270",
+    "senseIndex": 0,
+    "senseId": "park",
+    "glosses": [
+      "(public) park"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "to": {
+    "entryId": "1266970",
+    "senseIndex": 0,
+    "senseId": "door",
+    "glosses": [
+      "door (esp. Japanese-style)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "enpitsu": {
+    "entryId": "1178590",
+    "senseIndex": 0,
+    "senseId": "pencil",
+    "glosses": [
+      "(wooden) pencil"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "denwa": {
+    "entryId": "1443840",
+    "senseIndex": 1,
+    "senseId": "telephone",
+    "glosses": [
+      "telephone (device)",
+      "phone"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kuru": {
+    "entryId": "1547720",
+    "senseIndex": 0,
+    "senseId": "to-come",
+    "glosses": [
+      "to come (spatially or temporally)",
+      "to approach",
+      "to arrive"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "kaeru": {
+    "entryId": "1221270",
+    "senseIndex": 0,
+    "senseId": "to-return-home",
+    "glosses": [
+      "to return",
+      "to come home",
+      "to go home",
+      "to go back"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "neru": {
+    "entryId": "1360010",
+    "senseIndex": 0,
+    "senseId": "to-sleep",
+    "glosses": [
+      "to sleep (lying down)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "asobu": {
+    "entryId": "1542160",
+    "senseIndex": 0,
+    "senseId": "to-play",
+    "glosses": [
+      "to play (games, sports)",
+      "to enjoy oneself",
+      "to have a good time"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "chiisai": {
+    "entryId": "1347750",
+    "senseIndex": 0,
+    "senseId": "small",
+    "glosses": [
+      "small",
+      "little",
+      "tiny"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "atsui": {
+    "entryId": "1343460",
+    "senseIndex": 0,
+    "senseId": "hot-weather",
+    "glosses": [
+      "hot",
+      "warm",
+      "sultry",
+      "heated"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "samui": {
+    "entryId": "1210360",
+    "senseIndex": 0,
+    "senseId": "cold-weather",
+    "glosses": [
+      "cold (e.g. weather)"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "yoi": {
+    "entryId": "1605820",
+    "senseIndex": 0,
+    "senseId": "good",
+    "glosses": [
+      "good",
+      "excellent",
+      "fine",
+      "nice",
+      "pleasant",
+      "agreeable"
+    ],
+    "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  }
+}

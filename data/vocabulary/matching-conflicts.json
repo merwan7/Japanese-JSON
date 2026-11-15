@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "description": "Do not put both listed study items on the same board for this mode/locale. This checks dictionary reading overlaps and identical labels, not all semantic ambiguity.",
+  "conflicts": [
+    {
+      "mode": "readingMatch",
+      "studyItemIds": [
+        "study.hana.flower",
+        "study.hana-nose.nose"
+      ],
+      "reason": "Shared spelling or a displayed reading valid for both words"
+    },
+    {
+      "mode": "meaningMatch",
+      "locale": "de",
+      "studyItemIds": [
+        "study.tabemono.food",
+        "study.taberu.to-eat"
+      ],
+      "reason": "Shared spelling or identical normalized meaning labels"
+    },
+    {
+      "mode": "readingMatch",
+      "studyItemIds": [
+        "study.juu.ten",
+        "study.to.door"
+      ],
+      "reason": "Shared spelling or a displayed reading valid for both words"
+    },
+    {
+      "mode": "meaningMatch",
+      "locale": "es",
+      "studyItemIds": [
+        "study.ashita.tomorrow",
+        "study.asa.morning"
+      ],
+      "reason": "Shared spelling or identical normalized meaning labels"
+    },
+    {
+      "mode": "meaningMatch",
+      "locale": "de",
+      "studyItemIds": [
+        "study.ashita.tomorrow",
+        "study.asa.morning"
+      ],
+      "reason": "Shared spelling or identical normalized meaning labels"
+    }
+  ]
+}

@@ -6,4 +6,12 @@ module.exports = {
   kanji_array_n3: require("./kanji-array-n3.json"),
   kanji_array_n2: require("./kanji-array-n2.json"),
   kanji_array_n1: require("./kanji-array-n1.json"),
+  vocabulary: require("./vocabulary.json"),
+  vocabulary_n5: require("./vocabulary-n5.json"),
+  vocabulary_n4: require("./vocabulary-n4.json"),
+  vocabulary_n3: require("./vocabulary-n3.json"),
+  vocabulary_n2: require("./vocabulary-n2.json"),
+  vocabulary_n1: require("./vocabulary-n1.json"),
+  vocabulary_unclassified: require("./vocabulary-unclassified.json"),
+  vocabulary_matching_conflicts: require("./data/vocabulary/matching-conflicts.json"),
 };

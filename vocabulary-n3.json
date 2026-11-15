@@ -1,0 +1,2388 @@
+{
+  "schemaVersion": 1,
+  "vocabulary": [
+    {
+      "id": "vocab.yuki",
+      "kanji": [
+        "雪"
+      ],
+      "variants": [
+        {
+          "id": "written-yuki",
+          "written": "雪",
+          "reading": "ゆき",
+          "furigana": [
+            {
+              "base": "雪",
+              "reading": "ゆき"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "snow",
+          "variantIds": [
+            "written-yuki"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "snow",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "nieve",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Schnee",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "ثلج",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1386500",
+          "senseIndex": 0,
+          "senseId": "snow",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kudamono",
+      "kanji": [
+        "果",
+        "物"
+      ],
+      "variants": [
+        {
+          "id": "written-kudamono",
+          "written": "果物",
+          "reading": "くだもの",
+          "furigana": [
+            {
+              "base": "果物",
+              "reading": "くだもの"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "fruit",
+          "variantIds": [
+            "written-kudamono"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "fruit",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "fruta",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Obst",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "فاكهة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1193060",
+          "senseIndex": 0,
+          "senseId": "fruit",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.mimi",
+      "kanji": [
+        "耳"
+      ],
+      "variants": [
+        {
+          "id": "written-mimi",
+          "written": "耳",
+          "reading": "みみ",
+          "furigana": [
+            {
+              "base": "耳",
+              "reading": "みみ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "ear",
+          "variantIds": [
+            "written-mimi"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "ear",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "oreja",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Ohr",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "أذن",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1317170",
+          "senseIndex": 0,
+          "senseId": "ear",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.atama",
+      "kanji": [
+        "頭"
+      ],
+      "variants": [
+        {
+          "id": "written-atama",
+          "written": "頭",
+          "reading": "あたま",
+          "furigana": [
+            {
+              "base": "頭",
+              "reading": "あたま"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "head",
+          "variantIds": [
+            "written-atama"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "head",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "cabeza",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Kopf",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "رأس",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1582310",
+          "senseIndex": 0,
+          "senseId": "head",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kao",
+      "kanji": [
+        "顔"
+      ],
+      "variants": [
+        {
+          "id": "written-kao",
+          "written": "顔",
+          "reading": "かお",
+          "furigana": [
+            {
+              "base": "顔",
+              "reading": "かお"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "face",
+          "variantIds": [
+            "written-kao"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "face",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "cara",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Gesicht",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "وجه",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1217730",
+          "senseIndex": 0,
+          "senseId": "face",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.ha",
+      "kanji": [
+        "歯"
+      ],
+      "variants": [
+        {
+          "id": "written-ha",
+          "written": "歯",
+          "reading": "は",
+          "furigana": [
+            {
+              "base": "歯",
+              "reading": "は"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "tooth",
+          "variantIds": [
+            "written-ha"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "tooth",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "diente",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Zahn",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "سن",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1313000",
+          "senseIndex": 0,
+          "senseId": "tooth",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.yubi",
+      "kanji": [
+        "指"
+      ],
+      "variants": [
+        {
+          "id": "written-yubi",
+          "written": "指",
+          "reading": "ゆび",
+          "furigana": [
+            {
+              "base": "指",
+              "reading": "ゆび"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "finger",
+          "variantIds": [
+            "written-yubi"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "finger",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "dedo de la mano",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Finger",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "إصبع اليد",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1309650",
+          "senseIndex": 0,
+          "senseId": "finger",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kodomo",
+      "kanji": [
+        "子",
+        "供"
+      ],
+      "variants": [
+        {
+          "id": "written-kodomo",
+          "written": "子供",
+          "reading": "こども",
+          "furigana": [
+            {
+              "base": "子供",
+              "reading": "こども"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "child",
+          "variantIds": [
+            "written-kodomo"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "child",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "niño",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Kind",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "طفل",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1307850",
+          "senseIndex": 0,
+          "senseId": "child",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.ryoushin",
+      "kanji": [
+        "両",
+        "親"
+      ],
+      "variants": [
+        {
+          "id": "written-ryoushin",
+          "written": "両親",
+          "reading": "りょうしん",
+          "furigana": [
+            {
+              "base": "両親",
+              "reading": "りょうしん"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "parents",
+          "variantIds": [
+            "written-ryoushin"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "parents",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "padres",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Eltern",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "الوالدان",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1602710",
+          "senseIndex": 0,
+          "senseId": "parents",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.tomodachi",
+      "kanji": [
+        "友",
+        "達"
+      ],
+      "variants": [
+        {
+          "id": "written-tomodachi",
+          "written": "友達",
+          "reading": "ともだち",
+          "furigana": [
+            {
+              "base": "友達",
+              "reading": "ともだち"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "friend",
+          "variantIds": [
+            "written-tomodachi"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "friend",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "amigo",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Freund",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "صديق",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1540170",
+          "senseIndex": 0,
+          "senseId": "friend",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kouen",
+      "kanji": [
+        "公",
+        "園"
+      ],
+      "variants": [
+        {
+          "id": "written-kouen",
+          "written": "公園",
+          "reading": "こうえん",
+          "furigana": [
+            {
+              "base": "公園",
+              "reading": "こうえん"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "park",
+          "variantIds": [
+            "written-kouen"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "park",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "parque",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Park",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "حديقة عامة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": [
+              "occ. 公苑 in park names"
+            ]
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1273270",
+          "senseIndex": 0,
+          "senseId": "park",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.hikouki",
+      "kanji": [
+        "飛",
+        "行",
+        "機"
+      ],
+      "variants": [
+        {
+          "id": "written-hikouki",
+          "written": "飛行機",
+          "reading": "ひこうき",
+          "furigana": [
+            {
+              "base": "飛行機",
+              "reading": "ひこうき"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "airplane",
+          "variantIds": [
+            "written-hikouki"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "airplane",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "avión",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Flugzeug",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "طائرة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1485470",
+          "senseIndex": 0,
+          "senseId": "airplane",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.fune",
+      "kanji": [
+        "船"
+      ],
+      "variants": [
+        {
+          "id": "written-fune",
+          "written": "船",
+          "reading": "ふね",
+          "furigana": [
+            {
+              "base": "船",
+              "reading": "ふね"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "ship",
+          "variantIds": [
+            "written-fune"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "ship",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "barco",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Schiff",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "سفينة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": [
+              "舟 is often small and hand-propelled"
+            ]
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1602800",
+          "senseIndex": 0,
+          "senseId": "ship",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kuukou",
+      "kanji": [
+        "空",
+        "港"
+      ],
+      "variants": [
+        {
+          "id": "written-kuukou",
+          "written": "空港",
+          "reading": "くうこう",
+          "furigana": [
+            {
+              "base": "空港",
+              "reading": "くうこう"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "airport",
+          "variantIds": [
+            "written-kuukou"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "airport",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "aeropuerto",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Flughafen",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "مطار",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1245570",
+          "senseIndex": 0,
+          "senseId": "airport",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.heya",
+      "kanji": [
+        "部",
+        "屋"
+      ],
+      "variants": [
+        {
+          "id": "written-heya",
+          "written": "部屋",
+          "reading": "へや",
+          "furigana": [
+            {
+              "base": "部屋",
+              "reading": "へや"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "room",
+          "variantIds": [
+            "written-heya"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "room",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "habitación",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Zimmer",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "غرفة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1499320",
+          "senseIndex": 0,
+          "senseId": "room",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.mado",
+      "kanji": [
+        "窓"
+      ],
+      "variants": [
+        {
+          "id": "written-mado",
+          "written": "窓",
+          "reading": "まど",
+          "furigana": [
+            {
+              "base": "窓",
+              "reading": "まど"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "window",
+          "variantIds": [
+            "written-mado"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "window",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "ventana",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Fenster",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "نافذة",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1401400",
+          "senseIndex": 0,
+          "senseId": "window",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kutsu",
+      "kanji": [
+        "靴"
+      ],
+      "variants": [
+        {
+          "id": "written-kutsu",
+          "written": "靴",
+          "reading": "くつ",
+          "furigana": [
+            {
+              "base": "靴",
+              "reading": "くつ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "shoes",
+          "variantIds": [
+            "written-kutsu"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "shoes",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "zapatos",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Schuhe",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "أحذية",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1246700",
+          "senseIndex": 0,
+          "senseId": "shoes",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.kinou",
+      "kanji": [
+        "昨",
+        "日"
+      ],
+      "variants": [
+        {
+          "id": "written-kinou",
+          "written": "昨日",
+          "reading": "きのう",
+          "furigana": [
+            {
+              "base": "昨日",
+              "reading": "きのう"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "yesterday",
+          "variantIds": [
+            "written-kinou"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "yesterday",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "ayer",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "gestern",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "أمس",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1579260",
+          "senseIndex": 0,
+          "senseId": "yesterday",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.shuumatsu",
+      "kanji": [
+        "週",
+        "末"
+      ],
+      "variants": [
+        {
+          "id": "written-shuumatsu",
+          "written": "週末",
+          "reading": "しゅうまつ",
+          "furigana": [
+            {
+              "base": "週末",
+              "reading": "しゅうまつ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "weekend",
+          "variantIds": [
+            "written-shuumatsu"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "weekend",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "fin de semana",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Wochenende",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "نهاية الأسبوع",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1333520",
+          "senseIndex": 0,
+          "senseId": "weekend",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.neru",
+      "kanji": [
+        "寝"
+      ],
+      "variants": [
+        {
+          "id": "written-neru",
+          "written": "寝る",
+          "reading": "ねる",
+          "furigana": [
+            {
+              "base": "寝",
+              "reading": "ね"
+            },
+            {
+              "base": "る",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "to-sleep",
+          "variantIds": [
+            "written-neru"
+          ],
+          "partOfSpeech": "verb",
+          "translations": {
+            "en": {
+              "label": "to sleep",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "dormir",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "schlafen",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "ينام",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1360010",
+          "senseIndex": 0,
+          "senseId": "to-sleep",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.hataraku",
+      "kanji": [
+        "働"
+      ],
+      "variants": [
+        {
+          "id": "written-hataraku",
+          "written": "働く",
+          "reading": "はたらく",
+          "furigana": [
+            {
+              "base": "働",
+              "reading": "はたら"
+            },
+            {
+              "base": "く",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "to-work",
+          "variantIds": [
+            "written-hataraku"
+          ],
+          "partOfSpeech": "verb",
+          "translations": {
+            "en": {
+              "label": "to work",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "trabajar",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "arbeiten",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "يعمل",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1451150",
+          "senseIndex": 0,
+          "senseId": "to-work",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.oyogu",
+      "kanji": [
+        "泳"
+      ],
+      "variants": [
+        {
+          "id": "written-oyogu",
+          "written": "泳ぐ",
+          "reading": "およぐ",
+          "furigana": [
+            {
+              "base": "泳",
+              "reading": "およ"
+            },
+            {
+              "base": "ぐ",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "to-swim",
+          "variantIds": [
+            "written-oyogu"
+          ],
+          "partOfSpeech": "verb",
+          "translations": {
+            "en": {
+              "label": "to swim",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "nadar",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "schwimmen",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "يسبح",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1174340",
+          "senseIndex": 0,
+          "senseId": "to-swim",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.asobu",
+      "kanji": [
+        "遊"
+      ],
+      "variants": [
+        {
+          "id": "written-asobu",
+          "written": "遊ぶ",
+          "reading": "あそぶ",
+          "furigana": [
+            {
+              "base": "遊",
+              "reading": "あそ"
+            },
+            {
+              "base": "ぶ",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "to-play",
+          "variantIds": [
+            "written-asobu"
+          ],
+          "partOfSpeech": "verb",
+          "translations": {
+            "en": {
+              "label": "to play",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "jugar",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "spielen",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "يلعب",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1542160",
+          "senseIndex": 0,
+          "senseId": "to-play",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.samui",
+      "kanji": [
+        "寒"
+      ],
+      "variants": [
+        {
+          "id": "written-samui",
+          "written": "寒い",
+          "reading": "さむい",
+          "furigana": [
+            {
+              "base": "寒",
+              "reading": "さむ"
+            },
+            {
+              "base": "い",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "cold-weather",
+          "variantIds": [
+            "written-samui"
+          ],
+          "partOfSpeech": "i-adjective",
+          "translations": {
+            "en": {
+              "label": "cold (weather)",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "frío (tiempo)",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "kalt (Wetter)",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "بارد (الطقس)",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1210360",
+          "senseIndex": 0,
+          "senseId": "cold-weather",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.yoi",
+      "kanji": [
+        "良"
+      ],
+      "variants": [
+        {
+          "id": "written-yoi",
+          "written": "良い",
+          "reading": "よい",
+          "furigana": [
+            {
+              "base": "良",
+              "reading": "よ"
+            },
+            {
+              "base": "い",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "good",
+          "variantIds": [
+            "written-yoi"
+          ],
+          "partOfSpeech": "i-adjective",
+          "translations": {
+            "en": {
+              "label": "good",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "bueno",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "gut",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "جيد",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": [
+              "also いい (all senses)"
+            ]
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1605820",
+          "senseIndex": 0,
+          "senseId": "good",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.muzukashii",
+      "kanji": [
+        "難"
+      ],
+      "variants": [
+        {
+          "id": "written-muzukashii",
+          "written": "難しい",
+          "reading": "むずかしい",
+          "furigana": [
+            {
+              "base": "難",
+              "reading": "むずか"
+            },
+            {
+              "base": "しい",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "difficult",
+          "variantIds": [
+            "written-muzukashii"
+          ],
+          "partOfSpeech": "i-adjective",
+          "translations": {
+            "en": {
+              "label": "difficult",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "difícil",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "schwierig",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "صعب",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1460850",
+          "senseIndex": 0,
+          "senseId": "difficult",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    }
+  ],
+  "studyItems": [
+    {
+      "id": "study.yuki.snow",
+      "vocabularyId": "vocab.yuki",
+      "variantId": "written-yuki",
+      "senseId": "snow",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "雪",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kudamono.fruit",
+      "vocabularyId": "vocab.kudamono",
+      "variantId": "written-kudamono",
+      "senseId": "fruit",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "果",
+            "level": "N3"
+          },
+          {
+            "kanji": "物",
+            "level": "N4"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.mimi.ear",
+      "vocabularyId": "vocab.mimi",
+      "variantId": "written-mimi",
+      "senseId": "ear",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "耳",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.atama.head",
+      "vocabularyId": "vocab.atama",
+      "variantId": "written-atama",
+      "senseId": "head",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "頭",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kao.face",
+      "vocabularyId": "vocab.kao",
+      "variantId": "written-kao",
+      "senseId": "face",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "顔",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.ha.tooth",
+      "vocabularyId": "vocab.ha",
+      "variantId": "written-ha",
+      "senseId": "tooth",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "歯",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.yubi.finger",
+      "vocabularyId": "vocab.yubi",
+      "variantId": "written-yubi",
+      "senseId": "finger",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "指",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kodomo.child",
+      "vocabularyId": "vocab.kodomo",
+      "variantId": "written-kodomo",
+      "senseId": "child",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "子",
+            "level": "N5"
+          },
+          {
+            "kanji": "供",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.ryoushin.parents",
+      "vocabularyId": "vocab.ryoushin",
+      "variantId": "written-ryoushin",
+      "senseId": "parents",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "両",
+            "level": "N3"
+          },
+          {
+            "kanji": "親",
+            "level": "N4"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.tomodachi.friend",
+      "vocabularyId": "vocab.tomodachi",
+      "variantId": "written-tomodachi",
+      "senseId": "friend",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "友",
+            "level": "N5"
+          },
+          {
+            "kanji": "達",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kouen.park",
+      "vocabularyId": "vocab.kouen",
+      "variantId": "written-kouen",
+      "senseId": "park",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "公",
+            "level": "N4"
+          },
+          {
+            "kanji": "園",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.hikouki.airplane",
+      "vocabularyId": "vocab.hikouki",
+      "variantId": "written-hikouki",
+      "senseId": "airplane",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "飛",
+            "level": "N3"
+          },
+          {
+            "kanji": "行",
+            "level": "N5"
+          },
+          {
+            "kanji": "機",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.fune.ship",
+      "vocabularyId": "vocab.fune",
+      "variantId": "written-fune",
+      "senseId": "ship",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "船",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kuukou.airport",
+      "vocabularyId": "vocab.kuukou",
+      "variantId": "written-kuukou",
+      "senseId": "airport",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "空",
+            "level": "N4"
+          },
+          {
+            "kanji": "港",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.heya.room",
+      "vocabularyId": "vocab.heya",
+      "variantId": "written-heya",
+      "senseId": "room",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "部",
+            "level": "N3"
+          },
+          {
+            "kanji": "屋",
+            "level": "N4"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.mado.window",
+      "vocabularyId": "vocab.mado",
+      "variantId": "written-mado",
+      "senseId": "window",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "窓",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kutsu.shoes",
+      "vocabularyId": "vocab.kutsu",
+      "variantId": "written-kutsu",
+      "senseId": "shoes",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "靴",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.kinou.yesterday",
+      "vocabularyId": "vocab.kinou",
+      "variantId": "written-kinou",
+      "senseId": "yesterday",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "昨",
+            "level": "N3"
+          },
+          {
+            "kanji": "日",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.shuumatsu.weekend",
+      "vocabularyId": "vocab.shuumatsu",
+      "variantId": "written-shuumatsu",
+      "senseId": "weekend",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "週",
+            "level": "N4"
+          },
+          {
+            "kanji": "末",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.neru.to-sleep",
+      "vocabularyId": "vocab.neru",
+      "variantId": "written-neru",
+      "senseId": "to-sleep",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "寝",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.hataraku.to-work",
+      "vocabularyId": "vocab.hataraku",
+      "variantId": "written-hataraku",
+      "senseId": "to-work",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "働",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.oyogu.to-swim",
+      "vocabularyId": "vocab.oyogu",
+      "variantId": "written-oyogu",
+      "senseId": "to-swim",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "泳",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.asobu.to-play",
+      "vocabularyId": "vocab.asobu",
+      "variantId": "written-asobu",
+      "senseId": "to-play",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "遊",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.samui.cold-weather",
+      "vocabularyId": "vocab.samui",
+      "variantId": "written-samui",
+      "senseId": "cold-weather",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "寒",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.yoi.good",
+      "vocabularyId": "vocab.yoi",
+      "variantId": "written-yoi",
+      "senseId": "good",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "良",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.muzukashii.difficult",
+      "vocabularyId": "vocab.muzukashii",
+      "variantId": "written-muzukashii",
+      "senseId": "difficult",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N3",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "難",
+            "level": "N3"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "nature.intro",
+      "titles": {
+        "en": "Nature",
+        "es": "Naturaleza",
+        "de": "Natur",
+        "ar": "الطبيعة"
+      },
+      "studyItemIds": [
+        "study.yuki.snow"
+      ]
+    },
+    {
+      "id": "food.intro",
+      "titles": {
+        "en": "Food and drink",
+        "es": "Comida y bebida",
+        "de": "Essen und Trinken",
+        "ar": "الطعام والشراب"
+      },
+      "studyItemIds": [
+        "study.kudamono.fruit"
+      ]
+    },
+    {
+      "id": "body.intro",
+      "titles": {
+        "en": "The body",
+        "es": "El cuerpo",
+        "de": "Der Körper",
+        "ar": "الجسم"
+      },
+      "studyItemIds": [
+        "study.mimi.ear",
+        "study.atama.head",
+        "study.kao.face",
+        "study.ha.tooth",
+        "study.yubi.finger"
+      ]
+    },
+    {
+      "id": "family.intro",
+      "titles": {
+        "en": "Family",
+        "es": "Familia",
+        "de": "Familie",
+        "ar": "العائلة"
+      },
+      "studyItemIds": [
+        "study.kodomo.child",
+        "study.ryoushin.parents"
+      ]
+    },
+    {
+      "id": "people.intro",
+      "titles": {
+        "en": "People",
+        "es": "Personas",
+        "de": "Menschen",
+        "ar": "الناس"
+      },
+      "studyItemIds": [
+        "study.tomodachi.friend"
+      ]
+    },
+    {
+      "id": "places.intro",
+      "titles": {
+        "en": "Places",
+        "es": "Lugares",
+        "de": "Orte",
+        "ar": "الأماكن"
+      },
+      "studyItemIds": [
+        "study.kouen.park"
+      ]
+    },
+    {
+      "id": "transport.intro",
+      "titles": {
+        "en": "Getting around",
+        "es": "Desplazarse",
+        "de": "Unterwegs",
+        "ar": "التنقل"
+      },
+      "studyItemIds": [
+        "study.hikouki.airplane",
+        "study.fune.ship",
+        "study.kuukou.airport"
+      ]
+    },
+    {
+      "id": "home.intro",
+      "titles": {
+        "en": "Around the house",
+        "es": "En casa",
+        "de": "Zu Hause",
+        "ar": "في المنزل"
+      },
+      "studyItemIds": [
+        "study.heya.room",
+        "study.mado.window"
+      ]
+    },
+    {
+      "id": "objects.intro",
+      "titles": {
+        "en": "Everyday objects",
+        "es": "Objetos cotidianos",
+        "de": "Alltagsgegenstände",
+        "ar": "أشياء يومية"
+      },
+      "studyItemIds": [
+        "study.kutsu.shoes"
+      ]
+    },
+    {
+      "id": "time.intro",
+      "titles": {
+        "en": "Time",
+        "es": "El tiempo",
+        "de": "Zeit",
+        "ar": "الوقت"
+      },
+      "studyItemIds": [
+        "study.kinou.yesterday",
+        "study.shuumatsu.weekend"
+      ]
+    },
+    {
+      "id": "daily-life.intro",
+      "titles": {
+        "en": "Daily life",
+        "es": "Vida diaria",
+        "de": "Tagesablauf",
+        "ar": "الحياة اليومية"
+      },
+      "studyItemIds": [
+        "study.neru.to-sleep",
+        "study.hataraku.to-work",
+        "study.oyogu.to-swim",
+        "study.asobu.to-play"
+      ]
+    },
+    {
+      "id": "qualities.intro",
+      "titles": {
+        "en": "Describing things",
+        "es": "Describir cosas",
+        "de": "Dinge beschreiben",
+        "ar": "وصف الأشياء"
+      },
+      "studyItemIds": [
+        "study.samui.cold-weather",
+        "study.yoi.good",
+        "study.muzukashii.difficult"
+      ]
+    }
+  ]
+}
