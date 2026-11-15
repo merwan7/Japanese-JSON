@@ -171,13 +171,17 @@ this corpus, so restrictions and alternate readings remain auditable offline.
 kanji-list hashes used for classification. `source-selections.json` records the
 editorial sense choices independently of current English display labels.
 
-To check a newer dictionary release (Python 3, standard library only):
+To check a newer dictionary release (Node.js 18+, built-in modules only):
 
 ```sh
-python3 scripts/update-vocabulary-source.py --release latest
+node scripts/update-vocabulary-source.mjs --release latest
 npm run build:vocabulary
 npm test
 ```
+
+Alternatively, use `npm run update:vocabulary-source -- --release latest`.
+No npm install, Python, or external archive tools are required: the updater reads
+the upstream `.json.tgz` asset in memory using Node's built-in gzip support.
 
 Or pass a specific release tag instead of `latest`. The update script stops if a
 selected sense's glosses moved/changed or an entry disappeared. Resolve that change

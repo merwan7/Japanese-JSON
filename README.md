@@ -61,8 +61,10 @@ npm run build:vocabulary
 npm test
 ```
 
-Building and testing vocabulary requires Node.js 18+ and no installed npm
-dependencies. The existing release tools are separate.
+Building, testing, and refreshing vocabulary requires Node.js 18+ and no installed
+npm dependencies. To refresh the dictionary source, run
+`node scripts/update-vocabulary-source.mjs --release latest`. The existing release
+tools are separate.
 
 ## Overview
 
