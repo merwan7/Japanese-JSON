@@ -183,6 +183,126 @@
         }
       ],
       "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.nabe",
+      "kanji": [
+        "鍋"
+      ],
+      "variants": [
+        {
+          "id": "written-nabe",
+          "written": "鍋",
+          "reading": "なべ",
+          "furigana": [
+            {
+              "base": "鍋",
+              "reading": "なべ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "cooking-pot",
+          "variantIds": [
+            "written-nabe"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "cooking pot",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "olla",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Kochtopf",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "قدر",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1459720",
+          "senseIndex": 0,
+          "senseId": "cooking-pot",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.sode",
+      "kanji": [
+        "袖"
+      ],
+      "variants": [
+        {
+          "id": "written-sode",
+          "written": "袖",
+          "reading": "そで",
+          "furigana": [
+            {
+              "base": "袖",
+              "reading": "そで"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "sleeve",
+          "variantIds": [
+            "written-sode"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "sleeve",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "manga",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Ärmel",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "كم",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1406000",
+          "senseIndex": 0,
+          "senseId": "sleeve",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
     }
   ],
   "studyItems": [
@@ -261,6 +381,54 @@
           "鞄"
         ]
       }
+    },
+    {
+      "id": "study.nabe.cooking-pot",
+      "vocabularyId": "vocab.nabe",
+      "variantId": "written-nabe",
+      "senseId": "cooking-pot",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": null,
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "鍋",
+            "level": null
+          }
+        ],
+        "unlistedKanji": [
+          "鍋"
+        ]
+      }
+    },
+    {
+      "id": "study.sode.sleeve",
+      "vocabularyId": "vocab.sode",
+      "variantId": "written-sode",
+      "senseId": "sleeve",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": null,
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "袖",
+            "level": null
+          }
+        ],
+        "unlistedKanji": [
+          "袖"
+        ]
+      }
     }
   ],
   "collections": [
@@ -287,6 +455,30 @@
       },
       "studyItemIds": [
         "study.kaban.bag"
+      ]
+    },
+    {
+      "id": "cooking.intro",
+      "titles": {
+        "en": "In the kitchen",
+        "es": "En la cocina",
+        "de": "In der Küche",
+        "ar": "في المطبخ"
+      },
+      "studyItemIds": [
+        "study.nabe.cooking-pot"
+      ]
+    },
+    {
+      "id": "clothing.intro",
+      "titles": {
+        "en": "Clothes and care",
+        "es": "Ropa y cuidado",
+        "de": "Kleidung und Pflege",
+        "ar": "الملابس والعناية بها"
+      },
+      "studyItemIds": [
+        "study.sode.sleeve"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 # Vocabulary data guide
 
 This is a **draft starter corpus**, not a complete dictionary or a verified JLPT
-vocabulary syllabus. It contains 150 entries, 150 study items, 15 themes, and 600
+vocabulary syllabus. It contains 300 entries, 300 study items, 30 themes, and 1,200
 generated meaning labels across `en`, `es`, `de`, and `ar`.
 
 ## Files and exports
@@ -37,7 +37,7 @@ have not yet been published to npm.
 - `id`: stable vocabulary identity, such as `vocab.mizu`.
 - `kanji`: unique Han characters used in the written variants.
 - `variants[]`: each `id` binds `written`, `reading`, and `furigana` together.
-  Readings are kana, not romaji. The starter deliberately selects one variant per
+  Readings are kana, not romaji. The corpus deliberately selects one variant per
   word, but the structure supports additional variants.
 - `senses[]`: each `id` identifies a selected meaning, with `variantIds` specifying
   which written/reading variants support it. `partOfSpeech` is a broad teaching
@@ -81,7 +81,7 @@ are currently no overlapping characters in those source lists.
 
 If a character is absent from all lists, `level` is `null`; the word is placed in
 the unclassified file. Kana-only words likewise cannot be classified by this
-method. Currently the unlisted characters are 椅, 鍵, and 鞄.
+method. Currently the unlisted characters are 椅, 鍵, 鞄, 鍋, and 袖.
 
 **This is a kanji-coverage grouping, not a claim about the word's exam level.**
 The existing repository already labels its kanji lists tentative. Beginner
@@ -196,4 +196,4 @@ characters with an assumed level. Check upstream updates before a data release
 and maintain an update process for applications distributing this corpus.
 
 See [NOTICE.md](NOTICE.md) for attribution, changes, and licensing. `build-report.json`
-records counts and classification gaps; it labels the initial corpus as draft.
+records counts and classification gaps; it labels the corpus as draft.

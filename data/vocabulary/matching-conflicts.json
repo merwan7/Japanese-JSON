@@ -28,6 +28,14 @@
       "reason": "Shared spelling or a displayed reading valid for both words"
     },
     {
+      "mode": "readingMatch",
+      "studyItemIds": [
+        "study.to.door",
+        "study.soto.outside"
+      ],
+      "reason": "Shared spelling or a displayed reading valid for both words"
+    },
+    {
       "mode": "meaningMatch",
       "locale": "es",
       "studyItemIds": [
@@ -44,6 +52,14 @@
         "study.asa.morning"
       ],
       "reason": "Shared spelling or identical normalized meaning labels"
+    },
+    {
+      "mode": "readingMatch",
+      "studyItemIds": [
+        "study.sentaku.laundry",
+        "study.sentaku-choice.choice"
+      ],
+      "reason": "Shared spelling or a displayed reading valid for both words"
     }
   ]
 }

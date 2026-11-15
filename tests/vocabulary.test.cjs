@@ -3,13 +3,15 @@ const assert = require("node:assert/strict");
 const { build, classify, makeFurigana, matchingConflicts, partition, validateBundle, verifySource } = require("../scripts/vocabulary.cjs");
 const outputs = build();
 const bundle = outputs["vocabulary.json"];
+const curation = require("../data/vocabulary/curation.json");
+const curatedCount = Object.values(curation.collections).reduce((sum, collection) => sum + collection.words.length, 0);
 const clone = () => structuredClone(bundle);
 
 test("all level bundles partition the complete dataset without dropping unclassified words", () => {
   const files = [5, 4, 3, 2, 1].map((n) => `vocabulary-n${n}.json`).concat("vocabulary-unclassified.json");
   const ids = files.flatMap((file) => outputs[file].studyItems.map((s) => s.id));
-  assert.equal(ids.length, 150);
-  assert.equal(new Set(ids).size, 150);
+  assert.equal(ids.length, curatedCount);
+  assert.equal(new Set(ids).size, curatedCount);
   assert.deepEqual(ids.sort(), bundle.studyItems.map((s) => s.id).sort());
   files.forEach((file) => assert(validateBundle(outputs[file])));
 });
@@ -26,7 +28,7 @@ test("kanji grouping uses the hardest known constituent and earliest introductio
 
 test("unlisted characters remain explicit instead of being silently assigned N1", () => {
   const unknown = partition(bundle, null);
-  assert.deepEqual(unknown.vocabulary.map((v) => v.variants[0].written), ["椅子", "鍵", "鞄"]);
+  assert.deepEqual(unknown.vocabulary.map((v) => v.variants[0].written), ["椅子", "鍵", "鞄", "鍋", "袖"]);
   assert(unknown.studyItems.every((s) => s.jlpt.unlistedKanji.length));
 });
 
@@ -75,6 +77,7 @@ test("matching conflicts include homophones, alternate readings, and localized d
   assert(has("readingMatch", "study.juu.ten", "study.to.door"));
   assert(has("meaningMatch", "study.ashita.tomorrow", "study.asa.morning", "es"));
   assert(has("meaningMatch", "study.ashita.tomorrow", "study.asa.morning", "de"));
+  assert(has("readingMatch", "study.sentaku.laundry", "study.sentaku-choice.choice"));
   const labels = (word) => ({ en: word, es: word, de: word, ar: word });
   assert.equal(matchingConflicts([
     { id: "a", written: "水", reading: "みず", acceptedReadings: ["みず"], labels: labels("water") },
@@ -85,7 +88,21 @@ test("matching conflicts include homophones, alternate readings, and localized d
 test("legacy npm exports remain available alongside the new datasets", () => {
   const pkg = require("../index.js");
   for (const key of ["kana", "kanji_map_n5", "kanji_array_n1", "kanji_array_n2", "kanji_array_n3", "kanji_array_n4", "kanji_array_n5"]) assert(pkg[key]);
-  assert.equal(pkg.vocabulary.vocabulary.length, 150);
+  assert.equal(pkg.vocabulary.vocabulary.length, curatedCount);
   assert.equal(pkg.vocabulary_n5.schemaVersion, 1);
   assert(pkg.vocabulary_matching_conflicts.conflicts.length > 0);
+});
+
+test("expanded vocabulary preserves deliberately selected later dictionary senses", () => {
+  for (const [id, label, sourceGloss] of [
+    ["netsu", "fever", "fever"],
+    ["kaifuku", "recovery", "recovery (from an illness)"],
+    ["suishin", "promotion (advancement)", "promotion (of a policy, project, movement, etc.)"],
+  ]) {
+    const word = bundle.vocabulary.find((v) => v.id === `vocab.${id}`);
+    assert.equal(word.senses[0].translations.en.label, label);
+    assert.equal(word.sourceRefs[0].senseIndex, 1);
+    const selection = require("../data/vocabulary/source-selections.json")[id];
+    assert(selection.glosses.includes(sourceGloss));
+  }
 });

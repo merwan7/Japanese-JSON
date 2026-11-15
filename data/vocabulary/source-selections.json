@@ -1533,5 +1533,1510 @@
       "agreeable"
     ],
     "note": "Explicit editorial sense selection; multilingual labels remain generated drafts."
+  },
+  "haru": {
+    "entryId": "1341000",
+    "senseIndex": 0,
+    "senseId": "spring",
+    "glosses": [
+      "spring",
+      "springtime"
+    ]
+  },
+  "natsu": {
+    "entryId": "1191320",
+    "senseIndex": 0,
+    "senseId": "summer",
+    "glosses": [
+      "summer"
+    ]
+  },
+  "aki": {
+    "entryId": "1332650",
+    "senseIndex": 0,
+    "senseId": "autumn",
+    "glosses": [
+      "autumn",
+      "fall"
+    ]
+  },
+  "fuyu": {
+    "entryId": "1446070",
+    "senseIndex": 0,
+    "senseId": "winter",
+    "glosses": [
+      "winter"
+    ]
+  },
+  "tenki": {
+    "entryId": "1438690",
+    "senseIndex": 0,
+    "senseId": "weather",
+    "glosses": [
+      "weather"
+    ]
+  },
+  "kumo": {
+    "entryId": "1173100",
+    "senseIndex": 0,
+    "senseId": "cloud",
+    "glosses": [
+      "cloud"
+    ]
+  },
+  "kiri": {
+    "entryId": "1531110",
+    "senseIndex": 0,
+    "senseId": "fog",
+    "glosses": [
+      "fog",
+      "mist"
+    ]
+  },
+  "kaminari": {
+    "entryId": "1585060",
+    "senseIndex": 0,
+    "senseId": "thunder",
+    "glosses": [
+      "lightning",
+      "thunder",
+      "thunderbolt"
+    ]
+  },
+  "taifuu": {
+    "entryId": "1596780",
+    "senseIndex": 0,
+    "senseId": "typhoon",
+    "glosses": [
+      "typhoon",
+      "hurricane"
+    ]
+  },
+  "kion": {
+    "entryId": "1221950",
+    "senseIndex": 0,
+    "senseId": "air-temperature",
+    "glosses": [
+      "(air) temperature"
+    ]
+  },
+  "ue": {
+    "entryId": "1352130",
+    "senseIndex": 0,
+    "senseId": "above",
+    "glosses": [
+      "above",
+      "over",
+      "up"
+    ]
+  },
+  "shita": {
+    "entryId": "1184140",
+    "senseIndex": 0,
+    "senseId": "below",
+    "glosses": [
+      "below",
+      "down",
+      "under",
+      "younger (e.g. daughter)"
+    ]
+  },
+  "migi": {
+    "entryId": "1171010",
+    "senseIndex": 0,
+    "senseId": "right",
+    "glosses": [
+      "right",
+      "right-hand side"
+    ]
+  },
+  "hidari": {
+    "entryId": "1290800",
+    "senseIndex": 0,
+    "senseId": "left",
+    "glosses": [
+      "left",
+      "left-hand side"
+    ]
+  },
+  "mae": {
+    "entryId": "1392580",
+    "senseIndex": 0,
+    "senseId": "front",
+    "glosses": [
+      "in front (of)",
+      "before (e.g. a building)"
+    ]
+  },
+  "ushiro": {
+    "entryId": "1269410",
+    "senseIndex": 0,
+    "senseId": "behind",
+    "glosses": [
+      "back",
+      "behind",
+      "rear"
+    ]
+  },
+  "naka": {
+    "entryId": "1423310",
+    "senseIndex": 0,
+    "senseId": "inside",
+    "glosses": [
+      "inside",
+      "interior"
+    ]
+  },
+  "soto": {
+    "entryId": "1203250",
+    "senseIndex": 0,
+    "senseId": "outside",
+    "glosses": [
+      "outside",
+      "exterior"
+    ]
+  },
+  "higashi": {
+    "entryId": "1447440",
+    "senseIndex": 0,
+    "senseId": "east",
+    "glosses": [
+      "east"
+    ]
+  },
+  "nishi": {
+    "entryId": "1380840",
+    "senseIndex": 0,
+    "senseId": "west",
+    "glosses": [
+      "west"
+    ]
+  },
+  "okane": {
+    "entryId": "1001820",
+    "senseIndex": 0,
+    "senseId": "money",
+    "glosses": [
+      "money"
+    ]
+  },
+  "nedan": {
+    "entryId": "1600160",
+    "senseIndex": 0,
+    "senseId": "price",
+    "glosses": [
+      "price",
+      "cost"
+    ]
+  },
+  "saifu": {
+    "entryId": "1296970",
+    "senseIndex": 0,
+    "senseId": "wallet",
+    "glosses": [
+      "wallet",
+      "purse",
+      "coin purse",
+      "billfold",
+      "pocketbook"
+    ]
+  },
+  "kaimono": {
+    "entryId": "1589730",
+    "senseIndex": 0,
+    "senseId": "shopping",
+    "glosses": [
+      "shopping",
+      "purchased goods"
+    ]
+  },
+  "shouhin": {
+    "entryId": "1347310",
+    "senseIndex": 0,
+    "senseId": "merchandise",
+    "glosses": [
+      "commodity",
+      "article of commerce",
+      "goods",
+      "stock",
+      "merchandise"
+    ]
+  },
+  "waribiki": {
+    "entryId": "1606950",
+    "senseIndex": 0,
+    "senseId": "discount",
+    "glosses": [
+      "discount",
+      "reduction",
+      "rebate"
+    ]
+  },
+  "zeikin": {
+    "entryId": "1382100",
+    "senseIndex": 0,
+    "senseId": "tax",
+    "glosses": [
+      "tax",
+      "duty"
+    ]
+  },
+  "ryoushuusho": {
+    "entryId": "1554760",
+    "senseIndex": 0,
+    "senseId": "receipt",
+    "glosses": [
+      "formal receipt (of payment; oft. hand-written)"
+    ]
+  },
+  "otsuri": {
+    "entryId": "1270550",
+    "senseIndex": 0,
+    "senseId": "change",
+    "glosses": [
+      "change (for a purchase)"
+    ]
+  },
+  "hanbai": {
+    "entryId": "1481800",
+    "senseIndex": 0,
+    "senseId": "sale-of-goods",
+    "glosses": [
+      "sale",
+      "sales",
+      "selling",
+      "marketing"
+    ]
+  },
+  "ryouri": {
+    "entryId": "1554310",
+    "senseIndex": 0,
+    "senseId": "cooking",
+    "glosses": [
+      "cooking",
+      "cookery",
+      "cuisine",
+      "food",
+      "dish"
+    ]
+  },
+  "shio": {
+    "entryId": "1576630",
+    "senseIndex": 0,
+    "senseId": "salt",
+    "glosses": [
+      "salt",
+      "common salt",
+      "table salt",
+      "sodium chloride"
+    ]
+  },
+  "satou": {
+    "entryId": "1291600",
+    "senseIndex": 0,
+    "senseId": "sugar",
+    "glosses": [
+      "sugar"
+    ]
+  },
+  "abura": {
+    "entryId": "1538590",
+    "senseIndex": 0,
+    "senseId": "oil",
+    "glosses": [
+      "oil"
+    ]
+  },
+  "kome": {
+    "entryId": "1508750",
+    "senseIndex": 0,
+    "senseId": "uncooked-rice",
+    "glosses": [
+      "(husked grains of) rice"
+    ]
+  },
+  "komugi": {
+    "entryId": "1348630",
+    "senseIndex": 0,
+    "senseId": "wheat",
+    "glosses": [
+      "wheat"
+    ]
+  },
+  "sara": {
+    "entryId": "1299680",
+    "senseIndex": 0,
+    "senseId": "plate",
+    "glosses": [
+      "plate",
+      "dish",
+      "platter",
+      "disc"
+    ]
+  },
+  "nabe": {
+    "entryId": "1459720",
+    "senseIndex": 0,
+    "senseId": "cooking-pot",
+    "glosses": [
+      "pan",
+      "pot",
+      "saucepan"
+    ]
+  },
+  "houchou": {
+    "entryId": "1515530",
+    "senseIndex": 0,
+    "senseId": "kitchen-knife",
+    "glosses": [
+      "kitchen knife"
+    ]
+  },
+  "reizouko": {
+    "entryId": "1557110",
+    "senseIndex": 0,
+    "senseId": "refrigerator",
+    "glosses": [
+      "refrigerator",
+      "fridge"
+    ]
+  },
+  "fuku": {
+    "entryId": "1500940",
+    "senseIndex": 0,
+    "senseId": "clothes",
+    "glosses": [
+      "clothes (esp. Western clothes)",
+      "clothing",
+      "dress",
+      "costume",
+      "suit",
+      "outfit"
+    ]
+  },
+  "uwagi": {
+    "entryId": "1580340",
+    "senseIndex": 0,
+    "senseId": "jacket",
+    "glosses": [
+      "coat",
+      "jacket",
+      "outerwear"
+    ]
+  },
+  "kutsushita": {
+    "entryId": "1246740",
+    "senseIndex": 0,
+    "senseId": "socks",
+    "glosses": [
+      "socks",
+      "sock",
+      "stockings",
+      "stocking"
+    ]
+  },
+  "tebukuro": {
+    "entryId": "1328090",
+    "senseIndex": 0,
+    "senseId": "gloves",
+    "glosses": [
+      "glove",
+      "mitten",
+      "mitt"
+    ]
+  },
+  "shitagi": {
+    "entryId": "1185930",
+    "senseIndex": 0,
+    "senseId": "underwear",
+    "glosses": [
+      "underwear",
+      "undergarment",
+      "underclothes",
+      "lingerie"
+    ]
+  },
+  "sode": {
+    "entryId": "1406000",
+    "senseIndex": 0,
+    "senseId": "sleeve",
+    "glosses": [
+      "sleeve"
+    ]
+  },
+  "eri": {
+    "entryId": "1588750",
+    "senseIndex": 0,
+    "senseId": "collar",
+    "glosses": [
+      "collar",
+      "lapel",
+      "neckband",
+      "neck"
+    ]
+  },
+  "ito": {
+    "entryId": "1311450",
+    "senseIndex": 0,
+    "senseId": "thread",
+    "glosses": [
+      "thread",
+      "yarn",
+      "string"
+    ]
+  },
+  "nuno": {
+    "entryId": "1496840",
+    "senseIndex": 0,
+    "senseId": "cloth",
+    "glosses": [
+      "cloth",
+      "fabric",
+      "material",
+      "textile"
+    ]
+  },
+  "sentaku": {
+    "entryId": "1390980",
+    "senseIndex": 0,
+    "senseId": "laundry",
+    "glosses": [
+      "washing",
+      "laundry"
+    ]
+  },
+  "byouki": {
+    "entryId": "1490230",
+    "senseIndex": 0,
+    "senseId": "illness",
+    "glosses": [
+      "illness (usu. excluding minor ailments, e.g. common cold)",
+      "disease",
+      "sickness"
+    ]
+  },
+  "kusuri": {
+    "entryId": "1538160",
+    "senseIndex": 0,
+    "senseId": "medicine",
+    "glosses": [
+      "medicine",
+      "pharmaceuticals",
+      "(legal) drugs",
+      "pill",
+      "ointment",
+      "salve"
+    ]
+  },
+  "netsu": {
+    "entryId": "1467710",
+    "senseIndex": 1,
+    "senseId": "fever",
+    "glosses": [
+      "fever",
+      "temperature"
+    ]
+  },
+  "itami": {
+    "entryId": "1587300",
+    "senseIndex": 0,
+    "senseId": "pain",
+    "glosses": [
+      "pain",
+      "ache",
+      "soreness",
+      "grief",
+      "distress"
+    ]
+  },
+  "suimin": {
+    "entryId": "1372370",
+    "senseIndex": 0,
+    "senseId": "sleep",
+    "glosses": [
+      "sleep"
+    ]
+  },
+  "kenkou": {
+    "entryId": "1256170",
+    "senseIndex": 0,
+    "senseId": "health",
+    "glosses": [
+      "health"
+    ]
+  },
+  "chiryou": {
+    "entryId": "1316890",
+    "senseIndex": 0,
+    "senseId": "medical-treatment",
+    "glosses": [
+      "(medical) treatment",
+      "care",
+      "therapy",
+      "cure",
+      "remedy"
+    ]
+  },
+  "shujutsu": {
+    "entryId": "1327790",
+    "senseIndex": 0,
+    "senseId": "surgery",
+    "glosses": [
+      "surgery",
+      "operation",
+      "procedure"
+    ]
+  },
+  "yobou": {
+    "entryId": "1543660",
+    "senseIndex": 0,
+    "senseId": "prevention",
+    "glosses": [
+      "prevention",
+      "protection (against)",
+      "precaution"
+    ]
+  },
+  "kaifuku": {
+    "entryId": "1199720",
+    "senseIndex": 1,
+    "senseId": "recovery",
+    "glosses": [
+      "recovery (from an illness)",
+      "recuperation",
+      "convalescence"
+    ]
+  },
+  "benkyou": {
+    "entryId": "1512670",
+    "senseIndex": 0,
+    "senseId": "study",
+    "glosses": [
+      "study"
+    ]
+  },
+  "shukudai": {
+    "entryId": "1337270",
+    "senseIndex": 0,
+    "senseId": "homework",
+    "glosses": [
+      "homework",
+      "assignment"
+    ]
+  },
+  "shiken": {
+    "entryId": "1312350",
+    "senseIndex": 0,
+    "senseId": "examination",
+    "glosses": [
+      "examination",
+      "exam",
+      "test"
+    ]
+  },
+  "shitsumon": {
+    "entryId": "1320760",
+    "senseIndex": 0,
+    "senseId": "question",
+    "glosses": [
+      "question",
+      "inquiry",
+      "enquiry"
+    ]
+  },
+  "kotae": {
+    "entryId": "1449530",
+    "senseIndex": 0,
+    "senseId": "answer",
+    "glosses": [
+      "answer",
+      "reply",
+      "response"
+    ]
+  },
+  "renshuu": {
+    "entryId": "1559160",
+    "senseIndex": 0,
+    "senseId": "practice",
+    "glosses": [
+      "practice",
+      "training",
+      "drill",
+      "(an) exercise",
+      "workout"
+    ]
+  },
+  "bunpou": {
+    "entryId": "1505600",
+    "senseIndex": 0,
+    "senseId": "grammar",
+    "glosses": [
+      "grammar"
+    ]
+  },
+  "hatsuon": {
+    "entryId": "1477170",
+    "senseIndex": 0,
+    "senseId": "pronunciation",
+    "glosses": [
+      "pronunciation"
+    ]
+  },
+  "chishiki": {
+    "entryId": "1420590",
+    "senseIndex": 0,
+    "senseId": "knowledge",
+    "glosses": [
+      "knowledge",
+      "information"
+    ]
+  },
+  "kyouiku": {
+    "entryId": "1236950",
+    "senseIndex": 0,
+    "senseId": "education",
+    "glosses": [
+      "education",
+      "schooling",
+      "training",
+      "instruction",
+      "teaching",
+      "upbringing"
+    ]
+  },
+  "shigoto": {
+    "entryId": "1304970",
+    "senseIndex": 0,
+    "senseId": "work",
+    "glosses": [
+      "work",
+      "job",
+      "labor",
+      "labour",
+      "business",
+      "task",
+      "assignment",
+      "occupation",
+      "employment"
+    ]
+  },
+  "kaigi": {
+    "entryId": "1198360",
+    "senseIndex": 0,
+    "senseId": "meeting",
+    "glosses": [
+      "meeting",
+      "conference",
+      "session",
+      "assembly",
+      "council",
+      "convention",
+      "congress"
+    ]
+  },
+  "keikaku": {
+    "entryId": "1252090",
+    "senseIndex": 0,
+    "senseId": "plan",
+    "glosses": [
+      "plan",
+      "project",
+      "schedule",
+      "scheme",
+      "program",
+      "programme"
+    ]
+  },
+  "yotei": {
+    "entryId": "1543240",
+    "senseIndex": 0,
+    "senseId": "schedule",
+    "glosses": [
+      "plans",
+      "arrangement",
+      "schedule",
+      "program",
+      "programme",
+      "expectation",
+      "estimate"
+    ]
+  },
+  "junbi": {
+    "entryId": "1341670",
+    "senseIndex": 0,
+    "senseId": "preparation",
+    "glosses": [
+      "preparation",
+      "arrangements",
+      "getting ready",
+      "provision",
+      "setup",
+      "reserving"
+    ]
+  },
+  "houkoku": {
+    "entryId": "1515670",
+    "senseIndex": 0,
+    "senseId": "report",
+    "glosses": [
+      "report",
+      "information"
+    ]
+  },
+  "kyuuryou": {
+    "entryId": "1230360",
+    "senseIndex": 0,
+    "senseId": "salary",
+    "glosses": [
+      "salary",
+      "wages",
+      "pay"
+    ]
+  },
+  "mensetsu": {
+    "entryId": "1533510",
+    "senseIndex": 0,
+    "senseId": "interview",
+    "glosses": [
+      "interview (e.g. for a job)"
+    ]
+  },
+  "shimekiri": {
+    "entryId": "1594590",
+    "senseIndex": 0,
+    "senseId": "deadline",
+    "glosses": [
+      "deadline",
+      "closing",
+      "cut-off"
+    ]
+  },
+  "sekinin": {
+    "entryId": "1383180",
+    "senseIndex": 0,
+    "senseId": "responsibility",
+    "glosses": [
+      "duty",
+      "responsibility (incl. supervision of staff)"
+    ]
+  },
+  "tegami": {
+    "entryId": "1327720",
+    "senseIndex": 0,
+    "senseId": "letter",
+    "glosses": [
+      "letter",
+      "note"
+    ]
+  },
+  "kaiwa": {
+    "entryId": "1198880",
+    "senseIndex": 0,
+    "senseId": "conversation",
+    "glosses": [
+      "conversation",
+      "talk",
+      "chat"
+    ]
+  },
+  "renraku": {
+    "entryId": "1559900",
+    "senseIndex": 0,
+    "senseId": "contact",
+    "glosses": [
+      "contacting",
+      "(making) contact",
+      "getting in touch",
+      "communication",
+      "correspondence",
+      "call",
+      "message"
+    ]
+  },
+  "setsumei": {
+    "entryId": "1386460",
+    "senseIndex": 0,
+    "senseId": "explanation",
+    "glosses": [
+      "explanation",
+      "exposition",
+      "description",
+      "account",
+      "caption",
+      "legend"
+    ]
+  },
+  "iken": {
+    "entryId": "1156530",
+    "senseIndex": 0,
+    "senseId": "opinion",
+    "glosses": [
+      "opinion",
+      "view",
+      "comment"
+    ]
+  },
+  "yakusoku": {
+    "entryId": "1538130",
+    "senseIndex": 0,
+    "senseId": "promise",
+    "glosses": [
+      "promise",
+      "agreement",
+      "arrangement",
+      "one's word",
+      "contract",
+      "pact"
+    ]
+  },
+  "soudan": {
+    "entryId": "1401210",
+    "senseIndex": 0,
+    "senseId": "consultation",
+    "glosses": [
+      "consultation",
+      "discussion",
+      "discussing",
+      "asking (someone) for advice"
+    ]
+  },
+  "jouhou": {
+    "entryId": "1356370",
+    "senseIndex": 0,
+    "senseId": "information",
+    "glosses": [
+      "information",
+      "news",
+      "report",
+      "intelligence"
+    ]
+  },
+  "honyaku": {
+    "entryId": "1523400",
+    "senseIndex": 0,
+    "senseId": "translation",
+    "glosses": [
+      "translation"
+    ]
+  },
+  "gokai": {
+    "entryId": "1271310",
+    "senseIndex": 0,
+    "senseId": "misunderstanding",
+    "glosses": [
+      "misunderstanding"
+    ]
+  },
+  "kimochi": {
+    "entryId": "1591430",
+    "senseIndex": 0,
+    "senseId": "feeling",
+    "glosses": [
+      "feeling",
+      "sensation",
+      "mood",
+      "state of mind"
+    ]
+  },
+  "kibou": {
+    "entryId": "1219910",
+    "senseIndex": 0,
+    "senseId": "hope",
+    "glosses": [
+      "hope",
+      "wish",
+      "aspiration"
+    ]
+  },
+  "fuan": {
+    "entryId": "1491150",
+    "senseIndex": 0,
+    "senseId": "anxiety",
+    "glosses": [
+      "anxiety",
+      "uneasiness",
+      "worry",
+      "apprehension",
+      "fear",
+      "insecurity",
+      "suspense"
+    ]
+  },
+  "anshin": {
+    "entryId": "1153890",
+    "senseIndex": 0,
+    "senseId": "peace-of-mind",
+    "glosses": [
+      "peace of mind",
+      "relief",
+      "(sense of) security",
+      "safety",
+      "assurance",
+      "confidence"
+    ]
+  },
+  "kansha": {
+    "entryId": "1212380",
+    "senseIndex": 0,
+    "senseId": "gratitude",
+    "glosses": [
+      "thanks",
+      "gratitude",
+      "appreciation",
+      "thankfulness"
+    ]
+  },
+  "koukai": {
+    "entryId": "1269510",
+    "senseIndex": 0,
+    "senseId": "regret",
+    "glosses": [
+      "regret",
+      "repentance",
+      "remorse"
+    ]
+  },
+  "kandou": {
+    "entryId": "1212570",
+    "senseIndex": 0,
+    "senseId": "deep-emotion",
+    "glosses": [
+      "being deeply moved emotionally",
+      "excitement",
+      "passion",
+      "inspiration",
+      "deep emotion",
+      "strong impression"
+    ]
+  },
+  "manzoku": {
+    "entryId": "1526860",
+    "senseIndex": 0,
+    "senseId": "satisfaction",
+    "glosses": [
+      "satisfaction",
+      "contentment",
+      "gratification"
+    ]
+  },
+  "sonkei": {
+    "entryId": "1406400",
+    "senseIndex": 0,
+    "senseId": "respect",
+    "glosses": [
+      "respect",
+      "esteem",
+      "reverence",
+      "honour",
+      "honor"
+    ]
+  },
+  "shiawase": {
+    "entryId": "1594060",
+    "senseIndex": 0,
+    "senseId": "happiness",
+    "glosses": [
+      "happiness",
+      "good fortune",
+      "luck",
+      "blessing"
+    ]
+  },
+  "shakai": {
+    "entryId": "1322700",
+    "senseIndex": 0,
+    "senseId": "society",
+    "glosses": [
+      "society",
+      "public",
+      "community",
+      "the world"
+    ]
+  },
+  "bunka": {
+    "entryId": "1505120",
+    "senseIndex": 0,
+    "senseId": "culture",
+    "glosses": [
+      "culture",
+      "civilization",
+      "civilisation"
+    ]
+  },
+  "rekishi": {
+    "entryId": "1558050",
+    "senseIndex": 0,
+    "senseId": "history",
+    "glosses": [
+      "history"
+    ]
+  },
+  "seiji": {
+    "entryId": "1375970",
+    "senseIndex": 0,
+    "senseId": "politics",
+    "glosses": [
+      "politics",
+      "government"
+    ]
+  },
+  "keizai": {
+    "entryId": "1251320",
+    "senseIndex": 0,
+    "senseId": "economy",
+    "glosses": [
+      "economy",
+      "economics"
+    ]
+  },
+  "houritsu": {
+    "entryId": "1517480",
+    "senseIndex": 0,
+    "senseId": "law",
+    "glosses": [
+      "law",
+      "legislation",
+      "act"
+    ]
+  },
+  "senkyo": {
+    "entryId": "1392190",
+    "senseIndex": 0,
+    "senseId": "election",
+    "glosses": [
+      "election"
+    ]
+  },
+  "kenri": {
+    "entryId": "1258200",
+    "senseIndex": 0,
+    "senseId": "entitlement",
+    "glosses": [
+      "right",
+      "privilege"
+    ]
+  },
+  "gimu": {
+    "entryId": "1225900",
+    "senseIndex": 0,
+    "senseId": "obligation",
+    "glosses": [
+      "duty",
+      "obligation",
+      "responsibility"
+    ]
+  },
+  "heiwa": {
+    "entryId": "1508070",
+    "senseIndex": 0,
+    "senseId": "peace",
+    "glosses": [
+      "peace",
+      "harmony"
+    ]
+  },
+  "kankyou": {
+    "entryId": "1213280",
+    "senseIndex": 0,
+    "senseId": "environment",
+    "glosses": [
+      "environment",
+      "surroundings",
+      "circumstances"
+    ]
+  },
+  "shizen": {
+    "entryId": "1318090",
+    "senseIndex": 0,
+    "senseId": "nature",
+    "glosses": [
+      "nature"
+    ]
+  },
+  "shinrin": {
+    "entryId": "1362530",
+    "senseIndex": 0,
+    "senseId": "forest",
+    "glosses": [
+      "forest",
+      "woods"
+    ]
+  },
+  "shigen": {
+    "entryId": "1312720",
+    "senseIndex": 0,
+    "senseId": "resources",
+    "glosses": [
+      "resources"
+    ]
+  },
+  "osen": {
+    "entryId": "1179040",
+    "senseIndex": 0,
+    "senseId": "pollution",
+    "glosses": [
+      "pollution",
+      "contamination"
+    ]
+  },
+  "haiki": {
+    "entryId": "1472030",
+    "senseIndex": 0,
+    "senseId": "disposal",
+    "glosses": [
+      "disposal",
+      "abandonment",
+      "scrapping",
+      "discarding",
+      "abolition"
+    ]
+  },
+  "saigai": {
+    "entryId": "1295100",
+    "senseIndex": 0,
+    "senseId": "disaster",
+    "glosses": [
+      "calamity",
+      "disaster",
+      "misfortune"
+    ]
+  },
+  "jishin": {
+    "entryId": "1421210",
+    "senseIndex": 0,
+    "senseId": "earthquake",
+    "glosses": [
+      "earthquake"
+    ]
+  },
+  "kansou": {
+    "entryId": "1209920",
+    "senseIndex": 0,
+    "senseId": "drying",
+    "glosses": [
+      "dryness",
+      "aridity",
+      "drying (e.g. clothes)",
+      "dehydration",
+      "desiccation"
+    ]
+  },
+  "hozen": {
+    "entryId": "1513910",
+    "senseIndex": 0,
+    "senseId": "preservation",
+    "glosses": [
+      "preservation",
+      "conservation",
+      "maintenance",
+      "integrity"
+    ]
+  },
+  "gainen": {
+    "entryId": "1204480",
+    "senseIndex": 0,
+    "senseId": "concept",
+    "glosses": [
+      "general idea",
+      "concept",
+      "notion"
+    ]
+  },
+  "ronri": {
+    "entryId": "1561850",
+    "senseIndex": 0,
+    "senseId": "logic",
+    "glosses": [
+      "logic"
+    ]
+  },
+  "kasetsu": {
+    "entryId": "1590320",
+    "senseIndex": 0,
+    "senseId": "hypothesis",
+    "glosses": [
+      "hypothesis",
+      "supposition",
+      "assumption",
+      "tentative theory"
+    ]
+  },
+  "konkyo": {
+    "entryId": "1290120",
+    "senseIndex": 0,
+    "senseId": "basis",
+    "glosses": [
+      "basis",
+      "grounds",
+      "foundation",
+      "reason",
+      "authority"
+    ]
+  },
+  "shouko": {
+    "entryId": "1351600",
+    "senseIndex": 0,
+    "senseId": "evidence",
+    "glosses": [
+      "evidence",
+      "proof"
+    ]
+  },
+  "suishin": {
+    "entryId": "1371140",
+    "senseIndex": 1,
+    "senseId": "advancement",
+    "glosses": [
+      "promotion (of a policy, project, movement, etc.)",
+      "furtherance",
+      "advancement",
+      "pushing forward"
+    ]
+  },
+  "bunseki": {
+    "entryId": "1503870",
+    "senseIndex": 0,
+    "senseId": "analysis",
+    "glosses": [
+      "analysis"
+    ]
+  },
+  "hikaku": {
+    "entryId": "1483560",
+    "senseIndex": 0,
+    "senseId": "comparison",
+    "glosses": [
+      "comparison"
+    ]
+  },
+  "mujun": {
+    "entryId": "1531090",
+    "senseIndex": 0,
+    "senseId": "contradiction",
+    "glosses": [
+      "contradiction",
+      "inconsistency"
+    ]
+  },
+  "ketsuron": {
+    "entryId": "1255020",
+    "senseIndex": 0,
+    "senseId": "conclusion",
+    "glosses": [
+      "conclusion (of an argument, discussion, study, etc.)"
+    ]
+  },
+  "dakyou": {
+    "entryId": "1408510",
+    "senseIndex": 0,
+    "senseId": "compromise",
+    "glosses": [
+      "compromise",
+      "giving in"
+    ]
+  },
+  "koushou": {
+    "entryId": "1272110",
+    "senseIndex": 0,
+    "senseId": "negotiation",
+    "glosses": [
+      "negotiations",
+      "bargaining",
+      "discussions",
+      "talks"
+    ]
+  },
+  "shoudaku": {
+    "entryId": "1349470",
+    "senseIndex": 0,
+    "senseId": "consent",
+    "glosses": [
+      "consent",
+      "approval",
+      "acceptance",
+      "agreement",
+      "compliance"
+    ]
+  },
+  "kyohi": {
+    "entryId": "1232410",
+    "senseIndex": 0,
+    "senseId": "refusal",
+    "glosses": [
+      "refusal",
+      "rejection",
+      "denial",
+      "veto"
+    ]
+  },
+  "sentaku-choice": {
+    "entryId": "1392290",
+    "senseIndex": 0,
+    "senseId": "choice",
+    "glosses": [
+      "choice",
+      "selection",
+      "option"
+    ]
+  },
+  "handan": {
+    "entryId": "1478620",
+    "senseIndex": 0,
+    "senseId": "judgment",
+    "glosses": [
+      "judgment",
+      "judgement",
+      "decision",
+      "conclusion",
+      "adjudication"
+    ]
+  },
+  "suikou": {
+    "entryId": "1372640",
+    "senseIndex": 0,
+    "senseId": "execution",
+    "glosses": [
+      "accomplishment",
+      "execution"
+    ]
+  },
+  "sokushin": {
+    "entryId": "1403780",
+    "senseIndex": 0,
+    "senseId": "acceleration",
+    "glosses": [
+      "promotion",
+      "acceleration",
+      "encouragement",
+      "facilitation",
+      "spurring on"
+    ]
+  },
+  "yokusei": {
+    "entryId": "1547290",
+    "senseIndex": 0,
+    "senseId": "restraint",
+    "glosses": [
+      "control",
+      "restraint",
+      "suppression",
+      "constraint",
+      "curtailment",
+      "inhibition",
+      "check",
+      "curb"
+    ]
+  },
+  "haishi": {
+    "entryId": "1472100",
+    "senseIndex": 0,
+    "senseId": "abolition",
+    "glosses": [
+      "abolition",
+      "discontinuance",
+      "discontinuation",
+      "repeal",
+      "annulment"
+    ]
+  },
+  "shinrai": {
+    "entryId": "1359730",
+    "senseIndex": 0,
+    "senseId": "trust",
+    "glosses": [
+      "trust (in)",
+      "confidence",
+      "faith",
+      "reliance"
+    ]
+  },
+  "rinri": {
+    "entryId": "1555390",
+    "senseIndex": 0,
+    "senseId": "ethics",
+    "glosses": [
+      "ethics",
+      "morals"
+    ]
+  },
+  "gisei": {
+    "entryId": "1225450",
+    "senseIndex": 0,
+    "senseId": "sacrifice",
+    "glosses": [
+      "sacrifice"
+    ]
+  },
+  "ishin": {
+    "entryId": "1156290",
+    "senseIndex": 0,
+    "senseId": "prestige",
+    "glosses": [
+      "prestige",
+      "dignity"
+    ]
+  },
+  "keni": {
+    "entryId": "1258090",
+    "senseIndex": 0,
+    "senseId": "authority",
+    "glosses": [
+      "authority",
+      "power",
+      "influence",
+      "prestige"
+    ]
+  },
+  "kanyou": {
+    "entryId": "1211970",
+    "senseIndex": 0,
+    "senseId": "tolerance",
+    "glosses": [
+      "tolerance",
+      "open-mindedness",
+      "forbearance",
+      "generosity",
+      "magnanimity"
+    ]
+  },
+  "henken": {
+    "entryId": "1510380",
+    "senseIndex": 0,
+    "senseId": "prejudice",
+    "glosses": [
+      "prejudice",
+      "bias",
+      "distorted view"
+    ]
+  },
+  "sonchou": {
+    "entryId": "1406460",
+    "senseIndex": 0,
+    "senseId": "esteem",
+    "glosses": [
+      "respect",
+      "esteem",
+      "regard"
+    ]
+  },
+  "kouryo": {
+    "entryId": "1281170",
+    "senseIndex": 0,
+    "senseId": "consideration",
+    "glosses": [
+      "consideration",
+      "taking into account"
+    ]
+  },
+  "seiyaku": {
+    "entryId": "1381260",
+    "senseIndex": 0,
+    "senseId": "pledge",
+    "glosses": [
+      "oath",
+      "vow",
+      "pledge",
+      "covenant"
+    ]
   }
 }

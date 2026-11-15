@@ -12,13 +12,13 @@ The upstream notice identifies copyright held by James William Breen and EDRDG.
 
 The source was obtained through [scriptin/jmdict-simplified](https://github.com/scriptin/jmdict-simplified).
 The exact release, download URL, dictionary date, and checksums are recorded in
-`source-manifest.json`. The release used for this initial dataset is
+`source-manifest.json`. The release used for this dataset is
 `3.6.2+20261109214828`, containing the English common-word dictionary dated
 2026-11-09.
 
 Changes made for Japanese-JSON:
 
-- Selected 150 word/sense combinations and their Japanese spellings/readings.
+- Selected 300 word/sense combinations and their Japanese spellings/readings.
 - Added simplified English labels and generated Spanish, German, and Arabic
   translations. The non-English labels were not imported from JMdict language editions.
 - Added furigana segments, stable application IDs, study items, themed collections,

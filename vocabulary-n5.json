@@ -2908,6 +2908,737 @@
         }
       ],
       "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.tenki",
+      "kanji": [
+        "天",
+        "気"
+      ],
+      "variants": [
+        {
+          "id": "written-tenki",
+          "written": "天気",
+          "reading": "てんき",
+          "furigana": [
+            {
+              "base": "天気",
+              "reading": "てんき"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "weather",
+          "variantIds": [
+            "written-tenki"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "weather",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "tiempo atmosférico",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Wetter",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "طقس",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1438690",
+          "senseIndex": 0,
+          "senseId": "weather",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.ue",
+      "kanji": [
+        "上"
+      ],
+      "variants": [
+        {
+          "id": "written-ue",
+          "written": "上",
+          "reading": "うえ",
+          "furigana": [
+            {
+              "base": "上",
+              "reading": "うえ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "above",
+          "variantIds": [
+            "written-ue"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "above",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "arriba",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "oben",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "فوق",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1352130",
+          "senseIndex": 0,
+          "senseId": "above",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.shita",
+      "kanji": [
+        "下"
+      ],
+      "variants": [
+        {
+          "id": "written-shita",
+          "written": "下",
+          "reading": "した",
+          "furigana": [
+            {
+              "base": "下",
+              "reading": "した"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "below",
+          "variantIds": [
+            "written-shita"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "below",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "abajo",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "unten",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "تحت",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1184140",
+          "senseIndex": 0,
+          "senseId": "below",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.migi",
+      "kanji": [
+        "右"
+      ],
+      "variants": [
+        {
+          "id": "written-migi",
+          "written": "右",
+          "reading": "みぎ",
+          "furigana": [
+            {
+              "base": "右",
+              "reading": "みぎ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "right",
+          "variantIds": [
+            "written-migi"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "right",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "derecha",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "rechts",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "يمين",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1171010",
+          "senseIndex": 0,
+          "senseId": "right",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.hidari",
+      "kanji": [
+        "左"
+      ],
+      "variants": [
+        {
+          "id": "written-hidari",
+          "written": "左",
+          "reading": "ひだり",
+          "furigana": [
+            {
+              "base": "左",
+              "reading": "ひだり"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "left",
+          "variantIds": [
+            "written-hidari"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "left",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "izquierda",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "links",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "يسار",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1290800",
+          "senseIndex": 0,
+          "senseId": "left",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.mae",
+      "kanji": [
+        "前"
+      ],
+      "variants": [
+        {
+          "id": "written-mae",
+          "written": "前",
+          "reading": "まえ",
+          "furigana": [
+            {
+              "base": "前",
+              "reading": "まえ"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "front",
+          "variantIds": [
+            "written-mae"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "front",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "delante",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "vorne",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "أمام",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1392580",
+          "senseIndex": 0,
+          "senseId": "front",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.ushiro",
+      "kanji": [
+        "後"
+      ],
+      "variants": [
+        {
+          "id": "written-ushiro",
+          "written": "後ろ",
+          "reading": "うしろ",
+          "furigana": [
+            {
+              "base": "後",
+              "reading": "うし"
+            },
+            {
+              "base": "ろ",
+              "reading": null
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "behind",
+          "variantIds": [
+            "written-ushiro"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "behind",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "detrás",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "hinten",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "خلف",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1269410",
+          "senseIndex": 0,
+          "senseId": "behind",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.naka",
+      "kanji": [
+        "中"
+      ],
+      "variants": [
+        {
+          "id": "written-naka",
+          "written": "中",
+          "reading": "なか",
+          "furigana": [
+            {
+              "base": "中",
+              "reading": "なか"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "inside",
+          "variantIds": [
+            "written-naka"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "inside",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "dentro",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "innen",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "داخل",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1423310",
+          "senseIndex": 0,
+          "senseId": "inside",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.soto",
+      "kanji": [
+        "外"
+      ],
+      "variants": [
+        {
+          "id": "written-soto",
+          "written": "外",
+          "reading": "そと",
+          "furigana": [
+            {
+              "base": "外",
+              "reading": "そと"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "outside",
+          "variantIds": [
+            "written-soto"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "outside",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "fuera",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "außen",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "خارج",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1203250",
+          "senseIndex": 0,
+          "senseId": "outside",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.higashi",
+      "kanji": [
+        "東"
+      ],
+      "variants": [
+        {
+          "id": "written-higashi",
+          "written": "東",
+          "reading": "ひがし",
+          "furigana": [
+            {
+              "base": "東",
+              "reading": "ひがし"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "east",
+          "variantIds": [
+            "written-higashi"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "east",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "este",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Osten",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "شرق",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1447440",
+          "senseIndex": 0,
+          "senseId": "east",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.nishi",
+      "kanji": [
+        "西"
+      ],
+      "variants": [
+        {
+          "id": "written-nishi",
+          "written": "西",
+          "reading": "にし",
+          "furigana": [
+            {
+              "base": "西",
+              "reading": "にし"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "west",
+          "variantIds": [
+            "written-nishi"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "west",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "oeste",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Westen",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "غرب",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1380840",
+          "senseIndex": 0,
+          "senseId": "west",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "vocab.okane",
+      "kanji": [
+        "金"
+      ],
+      "variants": [
+        {
+          "id": "written-okane",
+          "written": "お金",
+          "reading": "おかね",
+          "furigana": [
+            {
+              "base": "お",
+              "reading": null
+            },
+            {
+              "base": "金",
+              "reading": "かね"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "id": "money",
+          "variantIds": [
+            "written-okane"
+          ],
+          "partOfSpeech": "noun",
+          "translations": {
+            "en": {
+              "label": "money",
+              "reviewStatus": "draft"
+            },
+            "es": {
+              "label": "dinero",
+              "reviewStatus": "draft"
+            },
+            "de": {
+              "label": "Geld",
+              "reviewStatus": "draft"
+            },
+            "ar": {
+              "label": "مال",
+              "reviewStatus": "draft"
+            }
+          },
+          "usage": {
+            "tags": [
+              "pol"
+            ],
+            "notes": []
+          }
+        }
+      ],
+      "sourceRefs": [
+        {
+          "sourceId": "jmdict",
+          "entryId": "1001820",
+          "senseIndex": 0,
+          "senseId": "money",
+          "snapshot": "3.6.2+20261109214828"
+        }
+      ],
+      "reviewStatus": "draft"
     }
   ],
   "studyItems": [
@@ -3992,6 +4723,274 @@
         ],
         "unlistedKanji": []
       }
+    },
+    {
+      "id": "study.tenki.weather",
+      "vocabularyId": "vocab.tenki",
+      "variantId": "written-tenki",
+      "senseId": "weather",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "天",
+            "level": "N5"
+          },
+          {
+            "kanji": "気",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.ue.above",
+      "vocabularyId": "vocab.ue",
+      "variantId": "written-ue",
+      "senseId": "above",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "上",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.shita.below",
+      "vocabularyId": "vocab.shita",
+      "variantId": "written-shita",
+      "senseId": "below",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "下",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.migi.right",
+      "vocabularyId": "vocab.migi",
+      "variantId": "written-migi",
+      "senseId": "right",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "右",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.hidari.left",
+      "vocabularyId": "vocab.hidari",
+      "variantId": "written-hidari",
+      "senseId": "left",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "左",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.mae.front",
+      "vocabularyId": "vocab.mae",
+      "variantId": "written-mae",
+      "senseId": "front",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "前",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.ushiro.behind",
+      "vocabularyId": "vocab.ushiro",
+      "variantId": "written-ushiro",
+      "senseId": "behind",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "後",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.naka.inside",
+      "vocabularyId": "vocab.naka",
+      "variantId": "written-naka",
+      "senseId": "inside",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "中",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.soto.outside",
+      "vocabularyId": "vocab.soto",
+      "variantId": "written-soto",
+      "senseId": "outside",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "外",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.higashi.east",
+      "vocabularyId": "vocab.higashi",
+      "variantId": "written-higashi",
+      "senseId": "east",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "東",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.nishi.west",
+      "vocabularyId": "vocab.nishi",
+      "variantId": "written-nishi",
+      "senseId": "west",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "西",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
+    },
+    {
+      "id": "study.okane.money",
+      "vocabularyId": "vocab.okane",
+      "variantId": "written-okane",
+      "senseId": "money",
+      "modes": [
+        "readingMatch",
+        "meaningMatch"
+      ],
+      "jlpt": {
+        "level": "N5",
+        "basis": "repository-kanji-lists",
+        "status": "inferred",
+        "kanjiLevels": [
+          {
+            "kanji": "金",
+            "level": "N5"
+          }
+        ],
+        "unlistedKanji": []
+      }
     }
   ],
   "collections": [
@@ -4183,6 +5182,51 @@
         "study.ookii.big",
         "study.chiisai.small",
         "study.takai.expensive"
+      ]
+    },
+    {
+      "id": "seasons.intro",
+      "titles": {
+        "en": "Seasons and weather",
+        "es": "Estaciones y tiempo",
+        "de": "Jahreszeiten und Wetter",
+        "ar": "الفصول والطقس"
+      },
+      "studyItemIds": [
+        "study.tenki.weather"
+      ]
+    },
+    {
+      "id": "directions.intro",
+      "titles": {
+        "en": "Position and direction",
+        "es": "Posición y dirección",
+        "de": "Position und Richtung",
+        "ar": "الموقع والاتجاه"
+      },
+      "studyItemIds": [
+        "study.ue.above",
+        "study.shita.below",
+        "study.migi.right",
+        "study.hidari.left",
+        "study.mae.front",
+        "study.ushiro.behind",
+        "study.naka.inside",
+        "study.soto.outside",
+        "study.higashi.east",
+        "study.nishi.west"
+      ]
+    },
+    {
+      "id": "shopping.intro",
+      "titles": {
+        "en": "Shopping",
+        "es": "Compras",
+        "de": "Einkaufen",
+        "ar": "التسوق"
+      },
+      "studyItemIds": [
+        "study.okane.money"
       ]
     }
   ]

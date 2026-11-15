@@ -16,9 +16,10 @@ You can use this data by installing it from npm like this:
 
 ## Vocabulary for learning games
 
-The repository now includes a draft vocabulary dataset with 150 words, 15 themed
+The repository now includes a draft vocabulary dataset with 300 words, 30 themed
 collections, and English, Spanish, German, and Arabic meaning labels. Each word has
 an explicitly selected spelling, kana reading, furigana, and dictionary sense.
+Topics span daily life, shopping, health, work, society, reasoning, and negotiation.
 
 ```js
 const { vocabulary, vocabulary_n5 } = require("japanese-json");
@@ -35,13 +36,13 @@ not include them until a release is published. No existing exports were removed.
 
 | File | Words |
 | --- | ---: |
-| `vocabulary.json` | 150 |
-| `vocabulary-n5.json` | 47 |
-| `vocabulary-n4.json` | 62 |
-| `vocabulary-n3.json` | 26 |
-| `vocabulary-n2.json` | 9 |
-| `vocabulary-n1.json` | 3 |
-| `vocabulary-unclassified.json` | 3 |
+| `vocabulary.json` | 300 |
+| `vocabulary-n5.json` | 59 |
+| `vocabulary-n4.json` | 87 |
+| `vocabulary-n3.json` | 61 |
+| `vocabulary-n2.json` | 39 |
+| `vocabulary-n1.json` | 49 |
+| `vocabulary-unclassified.json` | 5 |
 
 **The level files represent inferred kanji coverage, not verified JLPT vocabulary
 levels.** Each word is grouped by the hardest constituent kanji according to this

@@ -1,23 +1,23 @@
 {
-  "vocabularyCount": 150,
-  "studyItemCount": 150,
-  "collectionCount": 15,
+  "vocabularyCount": 300,
+  "studyItemCount": 300,
+  "collectionCount": 30,
   "locales": [
     "en",
     "es",
     "de",
     "ar"
   ],
-  "translationCount": 600,
+  "translationCount": 1200,
   "dictionarySnapshot": "3.6.2+20261109214828",
   "jlptBasis": "Hardest constituent kanji using repository lists; inferred kanji coverage, not verified vocabulary JLPT levels",
   "countsByLevel": {
-    "N5": 47,
-    "N4": 62,
-    "N3": 26,
-    "N2": 9,
-    "N1": 3,
-    "unclassified": 3
+    "N5": 59,
+    "N4": 87,
+    "N3": 61,
+    "N2": 39,
+    "N1": 49,
+    "unclassified": 5
   },
   "unclassified": [
     {
@@ -37,9 +37,21 @@
       "unlistedKanji": [
         "鞄"
       ]
+    },
+    {
+      "id": "study.nabe.cooking-pot",
+      "unlistedKanji": [
+        "鍋"
+      ]
+    },
+    {
+      "id": "study.sode.sleeve",
+      "unlistedKanji": [
+        "袖"
+      ]
     }
   ],
   "overlappingKanji": [],
-  "conflictCount": 5,
+  "conflictCount": 7,
   "reviewStatus": "draft"
 }

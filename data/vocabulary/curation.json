@@ -226,6 +226,231 @@
         ["yoi", "良い", "よい", "i-adjective", "good", "bueno", "gut", "جيد"],
         ["muzukashii", "難しい", "むずかしい", "i-adjective", "difficult", "difícil", "schwierig", "صعب"]
       ]
+    },
+    "seasons": {
+      "titles": {"en":"Seasons and weather","es":"Estaciones y tiempo","de":"Jahreszeiten und Wetter","ar":"الفصول والطقس"},
+      "words": [
+        ["haru","春","はる","noun","spring","primavera","Frühling","ربيع"],
+        ["natsu","夏","なつ","noun","summer","verano","Sommer","صيف"],
+        ["aki","秋","あき","noun","autumn","otoño","Herbst","خريف"],
+        ["fuyu","冬","ふゆ","noun","winter","invierno","Winter","شتاء"],
+        ["tenki","天気","てんき","noun","weather","tiempo atmosférico","Wetter","طقس"],
+        ["kumo","雲","くも","noun","cloud","nube","Wolke","سحابة"],
+        ["kiri","霧","きり","noun","fog","niebla","Nebel","ضباب"],
+        ["kaminari","雷","かみなり","noun","thunder","trueno","Donner","رعد"],
+        ["taifuu","台風","たいふう","noun","typhoon","tifón","Taifun","إعصار مداري"],
+        ["kion","気温","きおん","noun","air temperature","temperatura del aire","Lufttemperatur","درجة حرارة الهواء"]
+      ]
+    },
+    "directions": {
+      "titles": {"en":"Position and direction","es":"Posición y dirección","de":"Position und Richtung","ar":"الموقع والاتجاه"},
+      "words": [
+        ["ue","上","うえ","noun","above","arriba","oben","فوق"],
+        ["shita","下","した","noun","below","abajo","unten","تحت"],
+        ["migi","右","みぎ","noun","right","derecha","rechts","يمين"],
+        ["hidari","左","ひだり","noun","left","izquierda","links","يسار"],
+        ["mae","前","まえ","noun","front","delante","vorne","أمام"],
+        ["ushiro","後ろ","うしろ","noun","behind","detrás","hinten","خلف"],
+        ["naka","中","なか","noun","inside","dentro","innen","داخل"],
+        ["soto","外","そと","noun","outside","fuera","außen","خارج"],
+        ["higashi","東","ひがし","noun","east","este","Osten","شرق"],
+        ["nishi","西","にし","noun","west","oeste","Westen","غرب"]
+      ]
+    },
+    "shopping": {
+      "titles": {"en":"Shopping","es":"Compras","de":"Einkaufen","ar":"التسوق"},
+      "words": [
+        ["okane","お金","おかね","noun","money","dinero","Geld","مال"],
+        ["nedan","値段","ねだん","noun","price","precio","Preis","سعر"],
+        ["saifu","財布","さいふ","noun","wallet","cartera","Geldbörse","محفظة نقود"],
+        ["kaimono","買い物","かいもの","noun","shopping","compras","Einkaufen","تسوق"],
+        ["shouhin","商品","しょうひん","noun","merchandise","mercancía","Handelsware","بضائع"],
+        ["waribiki","割引","わりびき","noun","discount","descuento","Rabatt","تخفيض"],
+        ["zeikin","税金","ぜいきん","noun","tax","impuesto","Steuer","ضريبة"],
+        ["ryoushuusho","領収書","りょうしゅうしょ","noun","receipt","recibo","Quittung","إيصال"],
+        ["otsuri","お釣り","おつり","noun","change (money)","vuelto","Wechselgeld","باقي النقود"],
+        ["hanbai","販売","はんばい","noun","sale of goods","venta de productos","Warenverkauf","بيع البضائع"]
+      ]
+    },
+    "cooking": {
+      "titles": {"en":"In the kitchen","es":"En la cocina","de":"In der Küche","ar":"في المطبخ"},
+      "words": [
+        ["ryouri","料理","りょうり","noun","cooking","cocina (actividad)","Kochen","طبخ"],
+        ["shio","塩","しお","noun","salt","sal","Salz","ملح"],
+        ["satou","砂糖","さとう","noun","sugar","azúcar","Zucker","سكر"],
+        ["abura","油","あぶら","noun","oil","aceite","Öl","زيت"],
+        ["kome","米","こめ","noun","uncooked rice","arroz crudo","ungekochter Reis","أرز غير مطبوخ"],
+        ["komugi","小麦","こむぎ","noun","wheat","trigo","Weizen","قمح"],
+        ["sara","皿","さら","noun","plate","plato","Teller","طبق"],
+        ["nabe","鍋","なべ","noun","cooking pot","olla","Kochtopf","قدر"],
+        ["houchou","包丁","ほうちょう","noun","kitchen knife","cuchillo de cocina","Küchenmesser","سكين مطبخ"],
+        ["reizouko","冷蔵庫","れいぞうこ","noun","refrigerator","refrigerador","Kühlschrank","ثلاجة"]
+      ]
+    },
+    "clothing": {
+      "titles": {"en":"Clothes and care","es":"Ropa y cuidado","de":"Kleidung und Pflege","ar":"الملابس والعناية بها"},
+      "words": [
+        ["fuku","服","ふく","noun","clothes","ropa","Kleidung","ملابس"],
+        ["uwagi","上着","うわぎ","noun","jacket","chaqueta","Jacke","سترة"],
+        ["kutsushita","靴下","くつした","noun","socks","calcetines","Socken","جوارب"],
+        ["tebukuro","手袋","てぶくろ","noun","gloves","guantes","Handschuhe","قفازات"],
+        ["shitagi","下着","したぎ","noun","underwear","ropa interior","Unterwäsche","ملابس داخلية"],
+        ["sode","袖","そで","noun","sleeve","manga","Ärmel","كم"],
+        ["eri","襟","えり","noun","collar","cuello de una prenda","Kragen","ياقة"],
+        ["ito","糸","いと","noun","thread","hilo","Faden","خيط"],
+        ["nuno","布","ぬの","noun","cloth","tela","Stoff","قماش"],
+        ["sentaku","洗濯","せんたく","noun","laundry","lavado de ropa","Wäschewaschen","غسل الملابس"]
+      ]
+    },
+    "health": {
+      "titles": {"en":"Health and care","es":"Salud y cuidados","de":"Gesundheit und Pflege","ar":"الصحة والرعاية"},
+      "words": [
+        ["byouki","病気","びょうき","noun","illness","enfermedad","Krankheit","مرض"],
+        ["kusuri","薬","くすり","noun","medicine","medicamento","Medikament","دواء"],
+        ["netsu","熱","ねつ","noun","fever","fiebre","Fieber","حمى"],
+        ["itami","痛み","いたみ","noun","pain","dolor","Schmerz","ألم"],
+        ["suimin","睡眠","すいみん","noun","sleep","sueño (descanso)","Schlaf","نوم"],
+        ["kenkou","健康","けんこう","noun","health","salud","Gesundheit","صحة"],
+        ["chiryou","治療","ちりょう","noun","medical treatment","tratamiento médico","medizinische Behandlung","علاج طبي"],
+        ["shujutsu","手術","しゅじゅつ","noun","surgery","cirugía","Operation","جراحة"],
+        ["yobou","予防","よぼう","noun","prevention","prevención","Vorbeugung","وقاية"],
+        ["kaifuku","回復","かいふく","noun","recovery","recuperación","Genesung","تعافٍ"]
+      ]
+    },
+    "learning": {
+      "titles": {"en":"Learning and study","es":"Aprendizaje y estudio","de":"Lernen und Studium","ar":"التعلم والدراسة"},
+      "words": [
+        ["benkyou","勉強","べんきょう","noun","study","estudio","Lernen","دراسة"],
+        ["shukudai","宿題","しゅくだい","noun","homework","deberes escolares","Hausaufgaben","واجب منزلي"],
+        ["shiken","試験","しけん","noun","examination","examen","Prüfung","امتحان"],
+        ["shitsumon","質問","しつもん","noun","question","pregunta","Frage","سؤال"],
+        ["kotae","答え","こたえ","noun","answer","respuesta","Antwort","إجابة"],
+        ["renshuu","練習","れんしゅう","noun","practice","práctica","Übung","تدريب"],
+        ["bunpou","文法","ぶんぽう","noun","grammar","gramática","Grammatik","قواعد اللغة"],
+        ["hatsuon","発音","はつおん","noun","pronunciation","pronunciación","Aussprache","نطق"],
+        ["chishiki","知識","ちしき","noun","knowledge","conocimiento","Wissen","معرفة"],
+        ["kyouiku","教育","きょういく","noun","education","educación","Bildung","تعليم"]
+      ]
+    },
+    "work": {
+      "titles": {"en":"Work and projects","es":"Trabajo y proyectos","de":"Arbeit und Projekte","ar":"العمل والمشاريع"},
+      "words": [
+        ["shigoto","仕事","しごと","noun","work","trabajo","Arbeit","عمل"],
+        ["kaigi","会議","かいぎ","noun","meeting","reunión","Besprechung","اجتماع"],
+        ["keikaku","計画","けいかく","noun","plan","plan","Plan","خطة"],
+        ["yotei","予定","よてい","noun","schedule","programación","Zeitplan","جدول مواعيد"],
+        ["junbi","準備","じゅんび","noun","preparation","preparación","Vorbereitung","تحضير"],
+        ["houkoku","報告","ほうこく","noun","report","informe","Bericht","تقرير"],
+        ["kyuuryou","給料","きゅうりょう","noun","salary","salario","Gehalt","راتب"],
+        ["mensetsu","面接","めんせつ","noun","interview","entrevista","Vorstellungsgespräch","مقابلة"],
+        ["shimekiri","締め切り","しめきり","noun","deadline","fecha límite","Frist","موعد نهائي"],
+        ["sekinin","責任","せきにん","noun","responsibility","responsabilidad","Verantwortung","مسؤولية"]
+      ]
+    },
+    "communication": {
+      "titles": {"en":"Communication","es":"Comunicación","de":"Kommunikation","ar":"التواصل"},
+      "words": [
+        ["tegami","手紙","てがみ","noun","letter","carta","Brief","رسالة"],
+        ["kaiwa","会話","かいわ","noun","conversation","conversación","Gespräch","محادثة"],
+        ["renraku","連絡","れんらく","noun","contact","contacto","Kontakt","اتصال"],
+        ["setsumei","説明","せつめい","noun","explanation","explicación","Erklärung","شرح"],
+        ["iken","意見","いけん","noun","opinion","opinión","Meinung","رأي"],
+        ["yakusoku","約束","やくそく","noun","promise","promesa","Versprechen","وعد"],
+        ["soudan","相談","そうだん","noun","consultation","consulta","Beratung","استشارة"],
+        ["jouhou","情報","じょうほう","noun","information","información","Information","معلومات"],
+        ["honyaku","翻訳","ほんやく","noun","translation","traducción","Übersetzung","ترجمة"],
+        ["gokai","誤解","ごかい","noun","misunderstanding","malentendido","Missverständnis","سوء فهم"]
+      ]
+    },
+    "feelings": {
+      "titles": {"en":"Feelings and wishes","es":"Sentimientos y deseos","de":"Gefühle und Wünsche","ar":"المشاعر والأمنيات"},
+      "words": [
+        ["kimochi","気持ち","きもち","noun","feeling","sentimiento","Gefühl","شعور"],
+        ["kibou","希望","きぼう","noun","hope","esperanza","Hoffnung","أمل"],
+        ["fuan","不安","ふあん","noun","anxiety","ansiedad","Angst","قلق"],
+        ["anshin","安心","あんしん","noun","peace of mind","tranquilidad","Beruhigung","اطمئنان"],
+        ["kansha","感謝","かんしゃ","noun","gratitude","gratitud","Dankbarkeit","امتنان"],
+        ["koukai","後悔","こうかい","noun","regret","arrepentimiento","Reue","ندم"],
+        ["kandou","感動","かんどう","noun","being deeply moved","emoción profunda","Ergriffenheit","تأثر عميق"],
+        ["manzoku","満足","まんぞく","noun","satisfaction","satisfacción","Zufriedenheit","رضا"],
+        ["sonkei","尊敬","そんけい","noun","respect","respeto","Respekt","احترام"],
+        ["shiawase","幸せ","しあわせ","noun","happiness","felicidad","Glück","سعادة"]
+      ]
+    },
+    "society": {
+      "titles": {"en":"Society and public life","es":"Sociedad y vida pública","de":"Gesellschaft und öffentliches Leben","ar":"المجتمع والحياة العامة"},
+      "words": [
+        ["shakai","社会","しゃかい","noun","society","sociedad","Gesellschaft","مجتمع"],
+        ["bunka","文化","ぶんか","noun","culture","cultura","Kultur","ثقافة"],
+        ["rekishi","歴史","れきし","noun","history","historia","Geschichte","تاريخ"],
+        ["seiji","政治","せいじ","noun","politics","política","Politik","سياسة"],
+        ["keizai","経済","けいざい","noun","economy","economía","Wirtschaft","اقتصاد"],
+        ["houritsu","法律","ほうりつ","noun","law","ley","Gesetz","قانون"],
+        ["senkyo","選挙","せんきょ","noun","election","elección electoral","Wahl","انتخابات"],
+        ["kenri","権利","けんり","noun","right (entitlement)","derecho","Recht","حق"],
+        ["gimu","義務","ぎむ","noun","obligation","obligación","Pflicht","واجب"],
+        ["heiwa","平和","へいわ","noun","peace","paz","Frieden","سلام"]
+      ]
+    },
+    "environment": {
+      "titles": {"en":"Environment and resources","es":"Medio ambiente y recursos","de":"Umwelt und Ressourcen","ar":"البيئة والموارد"},
+      "words": [
+        ["kankyou","環境","かんきょう","noun","environment","medio ambiente","Umwelt","بيئة"],
+        ["shizen","自然","しぜん","noun","nature","naturaleza","Natur","طبيعة"],
+        ["shinrin","森林","しんりん","noun","forest","bosque","Wald","غابة"],
+        ["shigen","資源","しげん","noun","resources","recursos","Ressourcen","موارد"],
+        ["osen","汚染","おせん","noun","pollution","contaminación","Verschmutzung","تلوث"],
+        ["haiki","廃棄","はいき","noun","disposal","eliminación de residuos","Entsorgung","التخلص من النفايات"],
+        ["saigai","災害","さいがい","noun","disaster","desastre","Katastrophe","كارثة"],
+        ["jishin","地震","じしん","noun","earthquake","terremoto","Erdbeben","زلزال"],
+        ["kansou","乾燥","かんそう","noun","drying","secado","Trocknung","تجفيف"],
+        ["hozen","保全","ほぜん","noun","preservation","conservación","Erhaltung","حفظ"]
+      ]
+    },
+    "reasoning": {
+      "titles": {"en":"Ideas and evidence","es":"Ideas y pruebas","de":"Ideen und Belege","ar":"الأفكار والأدلة"},
+      "words": [
+        ["gainen","概念","がいねん","noun","concept","concepto","Begriff","مفهوم"],
+        ["ronri","論理","ろんり","noun","logic","lógica","Logik","منطق"],
+        ["kasetsu","仮説","かせつ","noun","hypothesis","hipótesis","Hypothese","فرضية"],
+        ["konkyo","根拠","こんきょ","noun","basis","fundamento","Grundlage","أساس"],
+        ["shouko","証拠","しょうこ","noun","evidence","prueba","Beweis","دليل"],
+        ["suishin","推進","すいしん","noun","promotion (advancement)","impulso","Förderung","دفع إلى الأمام"],
+        ["bunseki","分析","ぶんせき","noun","analysis","análisis","Analyse","تحليل"],
+        ["hikaku","比較","ひかく","noun","comparison","comparación","Vergleich","مقارنة"],
+        ["mujun","矛盾","むじゅん","noun","contradiction","contradicción","Widerspruch","تناقض"],
+        ["ketsuron","結論","けつろん","noun","conclusion","conclusión","Schlussfolgerung","استنتاج"]
+      ]
+    },
+    "decisions": {
+      "titles": {"en":"Decisions and negotiation","es":"Decisiones y negociación","de":"Entscheidungen und Verhandlungen","ar":"القرارات والتفاوض"},
+      "words": [
+        ["dakyou","妥協","だきょう","noun","compromise","acuerdo mutuo","Kompromiss","حل وسط"],
+        ["koushou","交渉","こうしょう","noun","negotiation","negociación","Verhandlung","تفاوض"],
+        ["shoudaku","承諾","しょうだく","noun","consent","consentimiento","Zustimmung","موافقة"],
+        ["kyohi","拒否","きょひ","noun","refusal","negativa","Ablehnung","رفض"],
+        ["sentaku-choice","選択","せんたく","noun","choice","elección","Auswahl","اختيار"],
+        ["handan","判断","はんだん","noun","judgment","juicio","Urteil","حكم"],
+        ["suikou","遂行","すいこう","noun","execution of a task","ejecución de una tarea","Durchführung","تنفيذ مهمة"],
+        ["sokushin","促進","そくしん","noun","acceleration","aceleración","Beschleunigung","تسريع"],
+        ["yokusei","抑制","よくせい","noun","restraint","contención","Hemmung","كبح"],
+        ["haishi","廃止","はいし","noun","abolition","abolición","Abschaffung","إلغاء"]
+      ]
+    },
+    "ethics": {
+      "titles": {"en":"Trust and principles","es":"Confianza y principios","de":"Vertrauen und Grundsätze","ar":"الثقة والمبادئ"},
+      "words": [
+        ["shinrai","信頼","しんらい","noun","trust","confianza","Vertrauen","ثقة"],
+        ["rinri","倫理","りんり","noun","ethics","ética","Ethik","أخلاق"],
+        ["gisei","犠牲","ぎせい","noun","sacrifice","sacrificio","Opfer","تضحية"],
+        ["ishin","威信","いしん","noun","prestige","prestigio","Ansehen","هيبة"],
+        ["keni","権威","けんい","noun","authority","autoridad","Autorität","سلطة"],
+        ["kanyou","寛容","かんよう","noun","tolerance","tolerancia","Toleranz","تسامح"],
+        ["henken","偏見","へんけん","noun","prejudice","prejuicio","Vorurteil","تحيز"],
+        ["sonchou","尊重","そんちょう","noun","esteem","estima","Achtung","تقدير"],
+        ["kouryo","考慮","こうりょ","noun","consideration","consideración","Berücksichtigung","مراعاة"],
+        ["seiyaku","誓約","せいやく","noun","pledge","promesa solemne","Gelöbnis","تعهد"]
+      ]
     }
   }
 }
