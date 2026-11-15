@@ -6,7 +6,7 @@ This is obviously a work in progress. In the future, I will be working on these 
 
 - Verifying Kunrei-shiki romanization (ISO 3602) for rōmaji interpretations of the characters.
 - Looking at possibly organizing things in different schemas for easier uses.
-- My goal is to add modern Kanji as well, although obviously this will take a longer time.
+- My goal is to add modern Kanji as well (eventually).
 
 Please contact me if you have suggestions, ideas or any questions.
 
