@@ -6,10 +6,10 @@
   "scripts": {
     "prepare": "husky install",
     "release": "release-it",
-    "build:vocabulary": "node scripts/vocabulary.cjs",
-    "validate:vocabulary": "node scripts/vocabulary.cjs --check",
+    "build:vocabulary": "node scripts/vocabulary.mjs",
+    "validate:vocabulary": "node scripts/vocabulary.mjs --check",
     "update:vocabulary-source": "node scripts/update-vocabulary-source.mjs",
-    "test": "npm run validate:vocabulary && node --test tests/*.test.cjs tests/*.test.mjs"
+    "test": "npm run validate:vocabulary && node --test tests/*.test.mjs"
   },
   "repository": {
     "type": "git",

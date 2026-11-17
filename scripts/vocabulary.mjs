@@ -1,9 +1,11 @@
-const fs = require("node:fs");
-const path = require("node:path");
-const crypto = require("node:crypto");
-const assert = require("node:assert/strict");
+import fs from "node:fs";
+import path from "node:path";
+import crypto from "node:crypto";
+import assert from "node:assert/strict";
+import { fileURLToPath } from "node:url";
 
-const ROOT = path.resolve(__dirname, "..");
+const SCRIPT = fileURLToPath(import.meta.url);
+const ROOT = path.resolve(path.dirname(SCRIPT), "..");
 const DIR = "data/vocabulary";
 const LOCALES = ["en", "es", "de", "ar"];
 const LEVELS = ["N5", "N4", "N3", "N2", "N1"];
@@ -244,5 +246,5 @@ function run(check) {
   console.log(`${report.conflictCount} matching conflicts recorded; avoid these pairs in the specified mode/locale.`);
 }
 
-if (require.main === module) run(process.argv.includes("--check"));
-module.exports = { build, classify, makeFurigana, matchingConflicts, partition, validateBundle, verifySource };
+if (process.argv[1] && path.resolve(process.argv[1]) === SCRIPT) run(process.argv.includes("--check"));
+export { build, classify, makeFurigana, matchingConflicts, partition, validateBundle, verifySource };

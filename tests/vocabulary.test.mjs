@@ -1,9 +1,13 @@
-const test = require("node:test");
-const assert = require("node:assert/strict");
-const { build, classify, makeFurigana, matchingConflicts, partition, validateBundle, verifySource } = require("../scripts/vocabulary.cjs");
+import test from "node:test";
+import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
+import { build, classify, makeFurigana, matchingConflicts, partition, validateBundle, verifySource } from "../scripts/vocabulary.mjs";
+import pkg from "../index.js";
+const readJson = (file) => JSON.parse(readFileSync(new URL(file, import.meta.url), "utf8"));
 const outputs = build();
 const bundle = outputs["vocabulary.json"];
-const curation = require("../data/vocabulary/curation.json");
+const curation = readJson("../data/vocabulary/curation.json");
+const selections = readJson("../data/vocabulary/source-selections.json");
 const curatedCount = Object.values(curation.collections).reduce((sum, collection) => sum + collection.words.length, 0);
 const clone = () => structuredClone(bundle);
 
@@ -86,7 +90,6 @@ test("matching conflicts include homophones, alternate readings, and localized d
 });
 
 test("legacy npm exports remain available alongside the new datasets", () => {
-  const pkg = require("../index.js");
   for (const key of ["kana", "kanji_map_n5", "kanji_array_n1", "kanji_array_n2", "kanji_array_n3", "kanji_array_n4", "kanji_array_n5"]) assert(pkg[key]);
   assert.equal(pkg.vocabulary.vocabulary.length, curatedCount);
   assert.equal(pkg.vocabulary_n5.schemaVersion, 1);
@@ -102,7 +105,7 @@ test("expanded vocabulary preserves deliberately selected later dictionary sense
     const word = bundle.vocabulary.find((v) => v.id === `vocab.${id}`);
     assert.equal(word.senses[0].translations.en.label, label);
     assert.equal(word.sourceRefs[0].senseIndex, 1);
-    const selection = require("../data/vocabulary/source-selections.json")[id];
+    const selection = selections[id];
     assert(selection.glosses.includes(sourceGloss));
   }
 });
